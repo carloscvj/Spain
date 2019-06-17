@@ -5,19 +5,19 @@ SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
 
 -- -----------------------------------------------------
--- Schema España
+-- Schema Spain
 -- -----------------------------------------------------
 
 -- -----------------------------------------------------
--- Schema España
+-- Schema Spain
 -- -----------------------------------------------------
-CREATE SCHEMA IF NOT EXISTS `España` DEFAULT CHARACTER SET utf8 ;
-USE `España` ;
+CREATE SCHEMA IF NOT EXISTS `Spain` DEFAULT CHARACTER SET utf8 ;
+USE `Spain` ;
 
 -- -----------------------------------------------------
--- Table `España`.`Regiones`
+-- Table `Spain`.`Regiones`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `España`.`Regiones` (
+CREATE TABLE IF NOT EXISTS `Spain`.`Regiones` (
   `idRegion` INT NOT NULL,
   `Region` VARCHAR(32) NOT NULL,
   PRIMARY KEY (`idRegion`),
@@ -26,9 +26,9 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `España`.`Provincias`
+-- Table `Spain`.`Provincias`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `España`.`Provincias` (
+CREATE TABLE IF NOT EXISTS `Spain`.`Provincias` (
   `idProvincia` INT NOT NULL,
   `Provincia` VARCHAR(32) NOT NULL,
   `Regiones_idRegion` INT NOT NULL,
@@ -37,16 +37,16 @@ CREATE TABLE IF NOT EXISTS `España`.`Provincias` (
   INDEX `fk_Provincias_Regiones1_idx` (`Regiones_idRegion` ASC),
   CONSTRAINT `fk_Provincias_Regiones1`
     FOREIGN KEY (`Regiones_idRegion`)
-    REFERENCES `España`.`Regiones` (`idRegion`)
+    REFERENCES `Spain`.`Regiones` (`idRegion`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `España`.`Municipios`
+-- Table `Spain`.`Municipios`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `España`.`Municipios` (
+CREATE TABLE IF NOT EXISTS `Spain`.`Municipios` (
   `idMunicipio` INT NOT NULL,
   `Municipio` VARCHAR(64) NOT NULL,
   `Provincias_idProvincia` INT NOT NULL,
@@ -55,7 +55,7 @@ CREATE TABLE IF NOT EXISTS `España`.`Municipios` (
   INDEX `fk_Municipios_Provincias_idx` (`Provincias_idProvincia` ASC),
   CONSTRAINT `fk_Municipios_Provincias`
     FOREIGN KEY (`Provincias_idProvincia`)
-    REFERENCES `España`.`Provincias` (`idProvincia`)
+    REFERENCES `Spain`.`Provincias` (`idProvincia`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
