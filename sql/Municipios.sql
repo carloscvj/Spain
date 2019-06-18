@@ -1,2405 +1,2405 @@
 USE `Spain` ;
-insert into Spain.Provincias values(1001,"Alegría-Dulantzi",1
-insert into Spain.Provincias values(1002,"Amurrio",1
-insert into Spain.Provincias values(1003,"Aramaio",1
-insert into Spain.Provincias values(1004,"Artziniega",1
-insert into Spain.Provincias values(1006,"Armiñón",1
-insert into Spain.Provincias values(1008,"Arratzua-Ubarrundia",1
-insert into Spain.Provincias values(1009,"Asparrena",1
-insert into Spain.Provincias values(1010,"Ayala/Aiara",1
-insert into Spain.Provincias values(1011,"Baños de Ebro/Mañueta",1
-insert into Spain.Provincias values(1013,"Barrundia",1
-insert into Spain.Provincias values(1014,"Berantevilla",1
-insert into Spain.Provincias values(1016,"Bernedo",1
-insert into Spain.Provincias values(1017,"Campezo/Kanpezu",1
-insert into Spain.Provincias values(1018,"Zigoitia",1
-insert into Spain.Provincias values(1019,"Kripan",1
-insert into Spain.Provincias values(1020,"Kuartango",1
-insert into Spain.Provincias values(1021,"Elburgo/Burgelu",1
-insert into Spain.Provincias values(1022,"Elciego",1
-insert into Spain.Provincias values(1023,"Elvillar/Bilar",1
-insert into Spain.Provincias values(1027,"Iruraiz-Gauna",1
-insert into Spain.Provincias values(1028,"Labastida/Bastida",1
-insert into Spain.Provincias values(1030,"Lagrán",1
-insert into Spain.Provincias values(1031,"Laguardia",1
-insert into Spain.Provincias values(1032,"Lanciego/Lantziego",1
-insert into Spain.Provincias values(1033,"Lapuebla de Labarca",1
-insert into Spain.Provincias values(1034,"Leza",1
-insert into Spain.Provincias values(1036,"Laudio/Llodio",1
-insert into Spain.Provincias values(1037,"Arraia-Maeztu",1
-insert into Spain.Provincias values(1039,"Moreda de Álava/Moreda Araba",1
-insert into Spain.Provincias values(1041,"Navaridas",1
-insert into Spain.Provincias values(1042,"Okondo",1
-insert into Spain.Provincias values(1043,"Oyón-Oion",1
-insert into Spain.Provincias values(1044,"Peñacerrada-Urizaharra",1
-insert into Spain.Provincias values(1046,"Erriberagoitia/Ribera Alta",1
-insert into Spain.Provincias values(1047,"Ribera Baja/Erribera Beitia",1
-insert into Spain.Provincias values(1049,"Añana",1
-insert into Spain.Provincias values(1051,"Agurain/Salvatierra",1
-insert into Spain.Provincias values(1052,"Samaniego",1
-insert into Spain.Provincias values(1053,"San Millán/Donemiliaga",1
-insert into Spain.Provincias values(1054,"Urkabustaiz",1
-insert into Spain.Provincias values(1055,"Valdegovía/Gaubea",1
-insert into Spain.Provincias values(1056,"Harana/Valle de Arana",1
-insert into Spain.Provincias values(1057,"Villabuena de Álava/Eskuernaga",1
-insert into Spain.Provincias values(1058,"Legutio",1
-insert into Spain.Provincias values(1059,"Vitoria-Gasteiz",1
-insert into Spain.Provincias values(1060,"Yécora/Iekora",1
-insert into Spain.Provincias values(1061,"Zalduondo",1
-insert into Spain.Provincias values(1062,"Zambrana",1
-insert into Spain.Provincias values(1063,"Zuia",1
-insert into Spain.Provincias values(1901,"Iruña Oka/Iruña de Oca",1
-insert into Spain.Provincias values(1902,"Lantarón",1
-insert into Spain.Provincias values(2001,"Abengibre",2
-insert into Spain.Provincias values(2002,"Alatoz",2
-insert into Spain.Provincias values(2003,"Albacete",2
-insert into Spain.Provincias values(2004,"Albatana",2
-insert into Spain.Provincias values(2005,"Alborea",2
-insert into Spain.Provincias values(2006,"Alcadozo",2
-insert into Spain.Provincias values(2007,"Alcalá del Júcar",2
-insert into Spain.Provincias values(2008,"Alcaraz",2
-insert into Spain.Provincias values(2009,"Almansa",2
-insert into Spain.Provincias values(2010,"Alpera",2
-insert into Spain.Provincias values(2011,"Ayna",2
-insert into Spain.Provincias values(2012,"Balazote",2
-insert into Spain.Provincias values(2013,"Balsa de Ves",2
-insert into Spain.Provincias values(2014,"Ballestero, El",2
-insert into Spain.Provincias values(2015,"Barrax",2
-insert into Spain.Provincias values(2016,"Bienservida",2
-insert into Spain.Provincias values(2017,"Bogarra",2
-insert into Spain.Provincias values(2018,"Bonete",2
-insert into Spain.Provincias values(2019,"Bonillo, El",2
-insert into Spain.Provincias values(2020,"Carcelén",2
-insert into Spain.Provincias values(2021,"Casas de Juan Núñez",2
-insert into Spain.Provincias values(2022,"Casas de Lázaro",2
-insert into Spain.Provincias values(2023,"Casas de Ves",2
-insert into Spain.Provincias values(2024,"Casas-Ibáñez",2
-insert into Spain.Provincias values(2025,"Caudete",2
-insert into Spain.Provincias values(2026,"Cenizate",2
-insert into Spain.Provincias values(2027,"Corral-Rubio",2
-insert into Spain.Provincias values(2028,"Cotillas",2
-insert into Spain.Provincias values(2029,"Chinchilla de Monte-Aragón",2
-insert into Spain.Provincias values(2030,"Elche de la Sierra",2
-insert into Spain.Provincias values(2031,"Férez",2
-insert into Spain.Provincias values(2032,"Fuensanta",2
-insert into Spain.Provincias values(2033,"Fuente-Álamo",2
-insert into Spain.Provincias values(2034,"Fuentealbilla",2
-insert into Spain.Provincias values(2035,"Gineta, La",2
-insert into Spain.Provincias values(2036,"Golosalvo",2
-insert into Spain.Provincias values(2037,"Hellín",2
-insert into Spain.Provincias values(2038,"Herrera, La",2
-insert into Spain.Provincias values(2039,"Higueruela",2
-insert into Spain.Provincias values(2040,"Hoya-Gonzalo",2
-insert into Spain.Provincias values(2041,"Jorquera",2
-insert into Spain.Provincias values(2042,"Letur",2
-insert into Spain.Provincias values(2043,"Lezuza",2
-insert into Spain.Provincias values(2044,"Liétor",2
-insert into Spain.Provincias values(2045,"Madrigueras",2
-insert into Spain.Provincias values(2046,"Mahora",2
-insert into Spain.Provincias values(2047,"Masegoso",2
-insert into Spain.Provincias values(2048,"Minaya",2
-insert into Spain.Provincias values(2049,"Molinicos",2
-insert into Spain.Provincias values(2050,"Montalvos",2
-insert into Spain.Provincias values(2051,"Montealegre del Castillo",2
-insert into Spain.Provincias values(2052,"Motilleja",2
-insert into Spain.Provincias values(2053,"Munera",2
-insert into Spain.Provincias values(2054,"Navas de Jorquera",2
-insert into Spain.Provincias values(2055,"Nerpio",2
-insert into Spain.Provincias values(2056,"Ontur",2
-insert into Spain.Provincias values(2057,"Ossa de Montiel",2
-insert into Spain.Provincias values(2058,"Paterna del Madera",2
-insert into Spain.Provincias values(2059,"Peñascosa",2
-insert into Spain.Provincias values(2060,"Peñas de San Pedro",2
-insert into Spain.Provincias values(2061,"Pétrola",2
-insert into Spain.Provincias values(2062,"Povedilla",2
-insert into Spain.Provincias values(2063,"Pozohondo",2
-insert into Spain.Provincias values(2064,"Pozo-Lorente",2
-insert into Spain.Provincias values(2065,"Pozuelo",2
-insert into Spain.Provincias values(2066,"Recueja, La",2
-insert into Spain.Provincias values(2067,"Riópar",2
-insert into Spain.Provincias values(2068,"Robledo",2
-insert into Spain.Provincias values(2069,"Roda, La",2
-insert into Spain.Provincias values(2070,"Salobre",2
-insert into Spain.Provincias values(2071,"San Pedro",2
-insert into Spain.Provincias values(2072,"Socovos",2
-insert into Spain.Provincias values(2073,"Tarazona de la Mancha",2
-insert into Spain.Provincias values(2074,"Tobarra",2
-insert into Spain.Provincias values(2075,"Valdeganga",2
-insert into Spain.Provincias values(2076,"Vianos",2
-insert into Spain.Provincias values(2077,"Villa de Ves",2
-insert into Spain.Provincias values(2078,"Villalgordo del Júcar",2
-insert into Spain.Provincias values(2079,"Villamalea",2
-insert into Spain.Provincias values(2080,"Villapalacios",2
-insert into Spain.Provincias values(2081,"Villarrobledo",2
-insert into Spain.Provincias values(2082,"Villatoya",2
-insert into Spain.Provincias values(2083,"Villavaliente",2
-insert into Spain.Provincias values(2084,"Villaverde de Guadalimar",2
-insert into Spain.Provincias values(2085,"Viveros",2
-insert into Spain.Provincias values(2086,"Yeste",2
-insert into Spain.Provincias values(2901,"Pozo Cañada",2
-insert into Spain.Provincias values(3001,"Atzúbia, l'",3
-insert into Spain.Provincias values(3002,"Agost",3
-insert into Spain.Provincias values(3003,"Agres",3
-insert into Spain.Provincias values(3004,"Aigües",3
-insert into Spain.Provincias values(3005,"Albatera",3
-insert into Spain.Provincias values(3006,"Alcalalí",3
-insert into Spain.Provincias values(3007,"Alcocer de Planes",3
-insert into Spain.Provincias values(3008,"Alcoleja",3
-insert into Spain.Provincias values(3009,"Alcoy/Alcoi",3
-insert into Spain.Provincias values(3010,"Alfafara",3
-insert into Spain.Provincias values(3011,"Alfàs del Pi, l'",3
-insert into Spain.Provincias values(3012,"Algorfa",3
-insert into Spain.Provincias values(3013,"Algueña",3
-insert into Spain.Provincias values(3014,"Alicante/Alacant",3
-insert into Spain.Provincias values(3015,"Almoradí",3
-insert into Spain.Provincias values(3016,"Almudaina",3
-insert into Spain.Provincias values(3017,"Alqueria d'Asnar, l'",3
-insert into Spain.Provincias values(3018,"Altea",3
-insert into Spain.Provincias values(3019,"Aspe",3
-insert into Spain.Provincias values(3020,"Balones",3
-insert into Spain.Provincias values(3021,"Banyeres de Mariola",3
-insert into Spain.Provincias values(3022,"Benasau",3
-insert into Spain.Provincias values(3023,"Beneixama",3
-insert into Spain.Provincias values(3024,"Benejúzar",3
-insert into Spain.Provincias values(3025,"Benferri",3
-insert into Spain.Provincias values(3026,"Beniarbeig",3
-insert into Spain.Provincias values(3027,"Beniardá",3
-insert into Spain.Provincias values(3028,"Beniarrés",3
-insert into Spain.Provincias values(3029,"Benigembla",3
-insert into Spain.Provincias values(3030,"Benidoleig",3
-insert into Spain.Provincias values(3031,"Benidorm",3
-insert into Spain.Provincias values(3032,"Benifallim",3
-insert into Spain.Provincias values(3033,"Benifato",3
-insert into Spain.Provincias values(3034,"Benijófar",3
-insert into Spain.Provincias values(3035,"Benilloba",3
-insert into Spain.Provincias values(3036,"Benillup",3
-insert into Spain.Provincias values(3037,"Benimantell",3
-insert into Spain.Provincias values(3038,"Benimarfull",3
-insert into Spain.Provincias values(3039,"Benimassot",3
-insert into Spain.Provincias values(3040,"Benimeli",3
-insert into Spain.Provincias values(3041,"Benissa",3
-insert into Spain.Provincias values(3042,"Benitachell/Poble Nou de Benitatxell, el",3
-insert into Spain.Provincias values(3043,"Biar",3
-insert into Spain.Provincias values(3044,"Bigastro",3
-insert into Spain.Provincias values(3045,"Bolulla",3
-insert into Spain.Provincias values(3046,"Busot",3
-insert into Spain.Provincias values(3047,"Calp",3
-insert into Spain.Provincias values(3048,"Callosa d'en Sarrià",3
-insert into Spain.Provincias values(3049,"Callosa de Segura",3
-insert into Spain.Provincias values(3050,"Campello, el",3
-insert into Spain.Provincias values(3051,"Campo de Mirra/Camp de Mirra, el",3
-insert into Spain.Provincias values(3052,"Cañada",3
-insert into Spain.Provincias values(3053,"Castalla",3
-insert into Spain.Provincias values(3054,"Castell de Castells",3
-insert into Spain.Provincias values(3055,"Catral",3
-insert into Spain.Provincias values(3056,"Cocentaina",3
-insert into Spain.Provincias values(3057,"Confrides",3
-insert into Spain.Provincias values(3058,"Cox",3
-insert into Spain.Provincias values(3059,"Crevillent",3
-insert into Spain.Provincias values(3060,"Quatretondeta",3
-insert into Spain.Provincias values(3061,"Daya Nueva",3
-insert into Spain.Provincias values(3062,"Daya Vieja",3
-insert into Spain.Provincias values(3063,"Dénia",3
-insert into Spain.Provincias values(3064,"Dolores",3
-insert into Spain.Provincias values(3065,"Elche/Elx",3
-insert into Spain.Provincias values(3066,"Elda",3
-insert into Spain.Provincias values(3067,"Facheca",3
-insert into Spain.Provincias values(3068,"Famorca",3
-insert into Spain.Provincias values(3069,"Finestrat",3
-insert into Spain.Provincias values(3070,"Formentera del Segura",3
-insert into Spain.Provincias values(3071,"Gata de Gorgos",3
-insert into Spain.Provincias values(3072,"Gaianes",3
-insert into Spain.Provincias values(3073,"Gorga",3
-insert into Spain.Provincias values(3074,"Granja de Rocamora",3
-insert into Spain.Provincias values(3075,"Castell de Guadalest, el",3
-insert into Spain.Provincias values(3076,"Guardamar del Segura",3
-insert into Spain.Provincias values(3077,"Fondó de les Neus, el/Hondón de las Nieves",3
-insert into Spain.Provincias values(3078,"Hondón de los Frailes",3
-insert into Spain.Provincias values(3079,"Ibi",3
-insert into Spain.Provincias values(3080,"Jacarilla",3
-insert into Spain.Provincias values(3081,"Xaló",3
-insert into Spain.Provincias values(3082,"Jávea/Xàbia",3
-insert into Spain.Provincias values(3083,"Jijona/Xixona",3
-insert into Spain.Provincias values(3084,"Lorcha/Orxa, l'",3
-insert into Spain.Provincias values(3085,"Llíber",3
-insert into Spain.Provincias values(3086,"Millena",3
-insert into Spain.Provincias values(3088,"Monforte del Cid",3
-insert into Spain.Provincias values(3089,"Monóvar/Monòver",3
-insert into Spain.Provincias values(3090,"Mutxamel",3
-insert into Spain.Provincias values(3091,"Murla",3
-insert into Spain.Provincias values(3092,"Muro de Alcoy",3
-insert into Spain.Provincias values(3093,"Novelda",3
-insert into Spain.Provincias values(3094,"Nucia, la",3
-insert into Spain.Provincias values(3095,"Ondara",3
-insert into Spain.Provincias values(3096,"Onil",3
-insert into Spain.Provincias values(3097,"Orba",3
-insert into Spain.Provincias values(3098,"Orxeta",3
-insert into Spain.Provincias values(3099,"Orihuela",3
-insert into Spain.Provincias values(3100,"Parcent",3
-insert into Spain.Provincias values(3101,"Pedreguer",3
-insert into Spain.Provincias values(3102,"Pego",3
-insert into Spain.Provincias values(3103,"Penàguila",3
-insert into Spain.Provincias values(3104,"Petrer",3
-insert into Spain.Provincias values(3105,"Pinós, el/Pinoso",3
-insert into Spain.Provincias values(3106,"Planes",3
-insert into Spain.Provincias values(3107,"Polop",3
-insert into Spain.Provincias values(3109,"Rafal",3
-insert into Spain.Provincias values(3110,"Ràfol d'Almúnia, el",3
-insert into Spain.Provincias values(3111,"Redován",3
-insert into Spain.Provincias values(3112,"Relleu",3
-insert into Spain.Provincias values(3113,"Rojales",3
-insert into Spain.Provincias values(3114,"Romana, la",3
-insert into Spain.Provincias values(3115,"Sagra",3
-insert into Spain.Provincias values(3116,"Salinas",3
-insert into Spain.Provincias values(3117,"Sanet y Negrals",3
-insert into Spain.Provincias values(3118,"San Fulgencio",3
-insert into Spain.Provincias values(3119,"Sant Joan d'Alacant",3
-insert into Spain.Provincias values(3120,"San Miguel de Salinas",3
-insert into Spain.Provincias values(3121,"Santa Pola",3
-insert into Spain.Provincias values(3122,"San Vicente del Raspeig/Sant Vicent del Raspeig",3
-insert into Spain.Provincias values(3123,"Sax",3
-insert into Spain.Provincias values(3124,"Sella",3
-insert into Spain.Provincias values(3125,"Senija",3
-insert into Spain.Provincias values(3127,"Tàrbena",3
-insert into Spain.Provincias values(3128,"Teulada",3
-insert into Spain.Provincias values(3129,"Tibi",3
-insert into Spain.Provincias values(3130,"Tollos",3
-insert into Spain.Provincias values(3131,"Tormos",3
-insert into Spain.Provincias values(3132,"Torremanzanas/Torre de les Maçanes, la",3
-insert into Spain.Provincias values(3133,"Torrevieja",3
-insert into Spain.Provincias values(3134,"Vall d'Alcalà, la",3
-insert into Spain.Provincias values(3135,"Vall d'Ebo, la",3
-insert into Spain.Provincias values(3136,"Vall de Gallinera",3
-insert into Spain.Provincias values(3137,"Vall de Laguar, la",3
-insert into Spain.Provincias values(3138,"Verger, el",3
-insert into Spain.Provincias values(3139,"Villajoyosa/Vila Joiosa, la",3
-insert into Spain.Provincias values(3140,"Villena",3
-insert into Spain.Provincias values(3901,"Poblets, els",3
-insert into Spain.Provincias values(3902,"Pilar de la Horadada",3
-insert into Spain.Provincias values(3903,"Montesinos, Los",3
-insert into Spain.Provincias values(3904,"San Isidro",3
-insert into Spain.Provincias values(4001,"Abla",4
-insert into Spain.Provincias values(4002,"Abrucena",4
-insert into Spain.Provincias values(4003,"Adra",4
-insert into Spain.Provincias values(4004,"Albanchez",4
-insert into Spain.Provincias values(4005,"Alboloduy",4
-insert into Spain.Provincias values(4006,"Albox",4
-insert into Spain.Provincias values(4007,"Alcolea",4
-insert into Spain.Provincias values(4008,"Alcóntar",4
-insert into Spain.Provincias values(4009,"Alcudia de Monteagud",4
-insert into Spain.Provincias values(4010,"Alhabia",4
-insert into Spain.Provincias values(4011,"Alhama de Almería",4
-insert into Spain.Provincias values(4012,"Alicún",4
-insert into Spain.Provincias values(4013,"Almería",4
-insert into Spain.Provincias values(4014,"Almócita",4
-insert into Spain.Provincias values(4015,"Alsodux",4
-insert into Spain.Provincias values(4016,"Antas",4
-insert into Spain.Provincias values(4017,"Arboleas",4
-insert into Spain.Provincias values(4018,"Armuña de Almanzora",4
-insert into Spain.Provincias values(4019,"Bacares",4
-insert into Spain.Provincias values(4020,"Bayárcal",4
-insert into Spain.Provincias values(4021,"Bayarque",4
-insert into Spain.Provincias values(4022,"Bédar",4
-insert into Spain.Provincias values(4023,"Beires",4
-insert into Spain.Provincias values(4024,"Benahadux",4
-insert into Spain.Provincias values(4026,"Benitagla",4
-insert into Spain.Provincias values(4027,"Benizalón",4
-insert into Spain.Provincias values(4028,"Bentarique",4
-insert into Spain.Provincias values(4029,"Berja",4
-insert into Spain.Provincias values(4030,"Canjáyar",4
-insert into Spain.Provincias values(4031,"Cantoria",4
-insert into Spain.Provincias values(4032,"Carboneras",4
-insert into Spain.Provincias values(4033,"Castro de Filabres",4
-insert into Spain.Provincias values(4034,"Cóbdar",4
-insert into Spain.Provincias values(4035,"Cuevas del Almanzora",4
-insert into Spain.Provincias values(4036,"Chercos",4
-insert into Spain.Provincias values(4037,"Chirivel",4
-insert into Spain.Provincias values(4038,"Dalías",4
-insert into Spain.Provincias values(4039,"Darrical",4
-insert into Spain.Provincias values(4041,"Enix",4
-insert into Spain.Provincias values(4043,"Felix",4
-insert into Spain.Provincias values(4044,"Fines",4
-insert into Spain.Provincias values(4045,"Fiñana",4
-insert into Spain.Provincias values(4046,"Fondón",4
-insert into Spain.Provincias values(4047,"Gádor",4
-insert into Spain.Provincias values(4048,"Gallardos, Los",4
-insert into Spain.Provincias values(4049,"Garrucha",4
-insert into Spain.Provincias values(4050,"Gérgal",4
-insert into Spain.Provincias values(4051,"Huécija",4
-insert into Spain.Provincias values(4052,"Huércal de Almería",4
-insert into Spain.Provincias values(4053,"Huércal-Overa",4
-insert into Spain.Provincias values(4054,"Íllar",4
-insert into Spain.Provincias values(4055,"Instinción",4
-insert into Spain.Provincias values(4056,"Laroya",4
-insert into Spain.Provincias values(4057,"Láujar de Andarax",4
-insert into Spain.Provincias values(4058,"Líjar",4
-insert into Spain.Provincias values(4059,"Lubrín",4
-insert into Spain.Provincias values(4060,"Lucainena de las Torres",4
-insert into Spain.Provincias values(4061,"Lúcar",4
-insert into Spain.Provincias values(4062,"Macael",4
-insert into Spain.Provincias values(4063,"María",4
-insert into Spain.Provincias values(4064,"Mojácar",4
-insert into Spain.Provincias values(4065,"Nacimiento",4
-insert into Spain.Provincias values(4066,"Níjar",4
-insert into Spain.Provincias values(4067,"Ohanes",4
-insert into Spain.Provincias values(4068,"Olula de Castro",4
-insert into Spain.Provincias values(4069,"Olula del Río",4
-insert into Spain.Provincias values(4070,"Oria",4
-insert into Spain.Provincias values(4071,"Padules",4
-insert into Spain.Provincias values(4072,"Partaloa",4
-insert into Spain.Provincias values(4073,"Paterna del Río",4
-insert into Spain.Provincias values(4074,"Pechina",4
-insert into Spain.Provincias values(4075,"Pulpí",4
-insert into Spain.Provincias values(4076,"Purchena",4
-insert into Spain.Provincias values(4077,"Rágol",4
-insert into Spain.Provincias values(4078,"Rioja",4
-insert into Spain.Provincias values(4079,"Roquetas de Mar",4
-insert into Spain.Provincias values(4080,"Santa Cruz de Marchena",4
-insert into Spain.Provincias values(4081,"Santa Fe de Mondújar",4
-insert into Spain.Provincias values(4082,"Senés",4
-insert into Spain.Provincias values(4083,"Serón",4
-insert into Spain.Provincias values(4084,"Sierro",4
-insert into Spain.Provincias values(4085,"Somontín",4
-insert into Spain.Provincias values(4086,"Sorbas",4
-insert into Spain.Provincias values(4087,"Suflí",4
-insert into Spain.Provincias values(4088,"Tabernas",4
-insert into Spain.Provincias values(4089,"Taberno",4
-insert into Spain.Provincias values(4090,"Tahal",4
-insert into Spain.Provincias values(4091,"Terque",4
-insert into Spain.Provincias values(4092,"Tíjola",4
-insert into Spain.Provincias values(4093,"Turre",4
-insert into Spain.Provincias values(4094,"Turrillas",4
-insert into Spain.Provincias values(4095,"Uleila del Campo",4
-insert into Spain.Provincias values(4096,"Urrácal",4
-insert into Spain.Provincias values(4097,"Velefique",4
-insert into Spain.Provincias values(4098,"Vélez-Blanco",4
-insert into Spain.Provincias values(4099,"Vélez-Rubio",4
-insert into Spain.Provincias values(4100,"Vera",4
-insert into Spain.Provincias values(4101,"Viator",4
-insert into Spain.Provincias values(4102,"Vícar",4
-insert into Spain.Provincias values(4103,"Zurgena",4
-insert into Spain.Provincias values(4901,"Tres Villas, Las",4
-insert into Spain.Provincias values(4902,"Ejido, El",4
-insert into Spain.Provincias values(4903,"Mojonera, La",4
-insert into Spain.Provincias values(4904,"Balanegra",4
-insert into Spain.Provincias values(5001,"Adanero",5
-insert into Spain.Provincias values(5002,"Adrada, La",5
-insert into Spain.Provincias values(5005,"Albornos",5
-insert into Spain.Provincias values(5007,"Aldeanueva de Santa Cruz",5
-insert into Spain.Provincias values(5008,"Aldeaseca",5
-insert into Spain.Provincias values(5010,"Aldehuela, La",5
-insert into Spain.Provincias values(5012,"Amavida",5
-insert into Spain.Provincias values(5013,"Arenal, El",5
-insert into Spain.Provincias values(5014,"Arenas de San Pedro",5
-insert into Spain.Provincias values(5015,"Arevalillo",5
-insert into Spain.Provincias values(5016,"Arévalo",5
-insert into Spain.Provincias values(5017,"Aveinte",5
-insert into Spain.Provincias values(5018,"Avellaneda",5
-insert into Spain.Provincias values(5019,"Ávila",5
-insert into Spain.Provincias values(5021,"Barco de Ávila, El",5
-insert into Spain.Provincias values(5022,"Barraco, El",5
-insert into Spain.Provincias values(5023,"Barromán",5
-insert into Spain.Provincias values(5024,"Becedas",5
-insert into Spain.Provincias values(5025,"Becedillas",5
-insert into Spain.Provincias values(5026,"Bercial de Zapardiel",5
-insert into Spain.Provincias values(5027,"Berlanas, Las",5
-insert into Spain.Provincias values(5029,"Bernuy-Zapardiel",5
-insert into Spain.Provincias values(5030,"Berrocalejo de Aragona",5
-insert into Spain.Provincias values(5033,"Blascomillán",5
-insert into Spain.Provincias values(5034,"Blasconuño de Matacabras",5
-insert into Spain.Provincias values(5035,"Blascosancho",5
-insert into Spain.Provincias values(5036,"Bohodón, El",5
-insert into Spain.Provincias values(5037,"Bohoyo",5
-insert into Spain.Provincias values(5038,"Bonilla de la Sierra",5
-insert into Spain.Provincias values(5039,"Brabos",5
-insert into Spain.Provincias values(5040,"Bularros",5
-insert into Spain.Provincias values(5041,"Burgohondo",5
-insert into Spain.Provincias values(5042,"Cabezas de Alambre",5
-insert into Spain.Provincias values(5043,"Cabezas del Pozo",5
-insert into Spain.Provincias values(5044,"Cabezas del Villar",5
-insert into Spain.Provincias values(5045,"Cabizuela",5
-insert into Spain.Provincias values(5046,"Canales",5
-insert into Spain.Provincias values(5047,"Candeleda",5
-insert into Spain.Provincias values(5048,"Cantiveros",5
-insert into Spain.Provincias values(5049,"Cardeñosa",5
-insert into Spain.Provincias values(5051,"Carrera, La",5
-insert into Spain.Provincias values(5052,"Casas del Puerto",5
-insert into Spain.Provincias values(5053,"Casasola",5
-insert into Spain.Provincias values(5054,"Casavieja",5
-insert into Spain.Provincias values(5055,"Casillas",5
-insert into Spain.Provincias values(5056,"Castellanos de Zapardiel",5
-insert into Spain.Provincias values(5057,"Cebreros",5
-insert into Spain.Provincias values(5058,"Cepeda la Mora",5
-insert into Spain.Provincias values(5059,"Cillán",5
-insert into Spain.Provincias values(5060,"Cisla",5
-insert into Spain.Provincias values(5061,"Colilla, La",5
-insert into Spain.Provincias values(5062,"Collado de Contreras",5
-insert into Spain.Provincias values(5063,"Collado del Mirón",5
-insert into Spain.Provincias values(5064,"Constanzana",5
-insert into Spain.Provincias values(5065,"Crespos",5
-insert into Spain.Provincias values(5066,"Cuevas del Valle",5
-insert into Spain.Provincias values(5067,"Chamartín",5
-insert into Spain.Provincias values(5069,"Donjimeno",5
-insert into Spain.Provincias values(5070,"Donvidas",5
-insert into Spain.Provincias values(5072,"Espinosa de los Caballeros",5
-insert into Spain.Provincias values(5073,"Flores de Ávila",5
-insert into Spain.Provincias values(5074,"Fontiveros",5
-insert into Spain.Provincias values(5075,"Fresnedilla",5
-insert into Spain.Provincias values(5076,"Fresno, El",5
-insert into Spain.Provincias values(5077,"Fuente el Saúz",5
-insert into Spain.Provincias values(5078,"Fuentes de Año",5
-insert into Spain.Provincias values(5079,"Gallegos de Altamiros",5
-insert into Spain.Provincias values(5080,"Gallegos de Sobrinos",5
-insert into Spain.Provincias values(5081,"Garganta del Villar",5
-insert into Spain.Provincias values(5082,"Gavilanes",5
-insert into Spain.Provincias values(5083,"Gemuño",5
-insert into Spain.Provincias values(5084,"Gilbuena",5
-insert into Spain.Provincias values(5085,"Gil García",5
-insert into Spain.Provincias values(5086,"Gimialcón",5
-insert into Spain.Provincias values(5087,"Gotarrendura",5
-insert into Spain.Provincias values(5088,"Grandes y San Martín",5
-insert into Spain.Provincias values(5089,"Guisando",5
-insert into Spain.Provincias values(5090,"Gutierre-Muñoz",5
-insert into Spain.Provincias values(5092,"Hernansancho",5
-insert into Spain.Provincias values(5093,"Herradón de Pinares",5
-insert into Spain.Provincias values(5094,"Herreros de Suso",5
-insert into Spain.Provincias values(5095,"Higuera de las Dueñas",5
-insert into Spain.Provincias values(5096,"Hija de Dios, La",5
-insert into Spain.Provincias values(5097,"Horcajada, La",5
-insert into Spain.Provincias values(5099,"Horcajo de las Torres",5
-insert into Spain.Provincias values(5100,"Hornillo, El",5
-insert into Spain.Provincias values(5101,"Hoyocasero",5
-insert into Spain.Provincias values(5102,"Hoyo de Pinares, El",5
-insert into Spain.Provincias values(5103,"Hoyorredondo",5
-insert into Spain.Provincias values(5104,"Hoyos del Collado",5
-insert into Spain.Provincias values(5105,"Hoyos del Espino",5
-insert into Spain.Provincias values(5106,"Hoyos de Miguel Muñoz",5
-insert into Spain.Provincias values(5107,"Hurtumpascual",5
-insert into Spain.Provincias values(5108,"Junciana",5
-insert into Spain.Provincias values(5109,"Langa",5
-insert into Spain.Provincias values(5110,"Lanzahíta",5
-insert into Spain.Provincias values(5112,"Losar del Barco, El",5
-insert into Spain.Provincias values(5113,"Llanos de Tormes, Los",5
-insert into Spain.Provincias values(5114,"Madrigal de las Altas Torres",5
-insert into Spain.Provincias values(5115,"Maello",5
-insert into Spain.Provincias values(5116,"Malpartida de Corneja",5
-insert into Spain.Provincias values(5117,"Mamblas",5
-insert into Spain.Provincias values(5118,"Mancera de Arriba",5
-insert into Spain.Provincias values(5119,"Manjabálago y Ortigosa de Rioalmar",5
-insert into Spain.Provincias values(5120,"Marlín",5
-insert into Spain.Provincias values(5121,"Martiherrero",5
-insert into Spain.Provincias values(5122,"Martínez",5
-insert into Spain.Provincias values(5123,"Mediana de Voltoya",5
-insert into Spain.Provincias values(5124,"Medinilla",5
-insert into Spain.Provincias values(5125,"Mengamuñoz",5
-insert into Spain.Provincias values(5126,"Mesegar de Corneja",5
-insert into Spain.Provincias values(5127,"Mijares",5
-insert into Spain.Provincias values(5128,"Mingorría",5
-insert into Spain.Provincias values(5129,"Mirón, El",5
-insert into Spain.Provincias values(5130,"Mironcillo",5
-insert into Spain.Provincias values(5131,"Mirueña de los Infanzones",5
-insert into Spain.Provincias values(5132,"Mombeltrán",5
-insert into Spain.Provincias values(5133,"Monsalupe",5
-insert into Spain.Provincias values(5134,"Moraleja de Matacabras",5
-insert into Spain.Provincias values(5135,"Muñana",5
-insert into Spain.Provincias values(5136,"Muñico",5
-insert into Spain.Provincias values(5138,"Muñogalindo",5
-insert into Spain.Provincias values(5139,"Muñogrande",5
-insert into Spain.Provincias values(5140,"Muñomer del Peco",5
-insert into Spain.Provincias values(5141,"Muñopepe",5
-insert into Spain.Provincias values(5142,"Muñosancho",5
-insert into Spain.Provincias values(5143,"Muñotello",5
-insert into Spain.Provincias values(5144,"Narrillos del Álamo",5
-insert into Spain.Provincias values(5145,"Narrillos del Rebollar",5
-insert into Spain.Provincias values(5147,"Narros del Castillo",5
-insert into Spain.Provincias values(5148,"Narros del Puerto",5
-insert into Spain.Provincias values(5149,"Narros de Saldueña",5
-insert into Spain.Provincias values(5151,"Navacepedilla de Corneja",5
-insert into Spain.Provincias values(5152,"Nava de Arévalo",5
-insert into Spain.Provincias values(5153,"Nava del Barco",5
-insert into Spain.Provincias values(5154,"Navadijos",5
-insert into Spain.Provincias values(5155,"Navaescurial",5
-insert into Spain.Provincias values(5156,"Navahondilla",5
-insert into Spain.Provincias values(5157,"Navalacruz",5
-insert into Spain.Provincias values(5158,"Navalmoral",5
-insert into Spain.Provincias values(5159,"Navalonguilla",5
-insert into Spain.Provincias values(5160,"Navalosa",5
-insert into Spain.Provincias values(5161,"Navalperal de Pinares",5
-insert into Spain.Provincias values(5162,"Navalperal de Tormes",5
-insert into Spain.Provincias values(5163,"Navaluenga",5
-insert into Spain.Provincias values(5164,"Navaquesera",5
-insert into Spain.Provincias values(5165,"Navarredonda de Gredos",5
-insert into Spain.Provincias values(5166,"Navarredondilla",5
-insert into Spain.Provincias values(5167,"Navarrevisca",5
-insert into Spain.Provincias values(5168,"Navas del Marqués, Las",5
-insert into Spain.Provincias values(5169,"Navatalgordo",5
-insert into Spain.Provincias values(5170,"Navatejares",5
-insert into Spain.Provincias values(5171,"Neila de San Miguel",5
-insert into Spain.Provincias values(5172,"Niharra",5
-insert into Spain.Provincias values(5173,"Ojos-Albos",5
-insert into Spain.Provincias values(5174,"Orbita",5
-insert into Spain.Provincias values(5175,"Oso, El",5
-insert into Spain.Provincias values(5176,"Padiernos",5
-insert into Spain.Provincias values(5177,"Pajares de Adaja",5
-insert into Spain.Provincias values(5178,"Palacios de Goda",5
-insert into Spain.Provincias values(5179,"Papatrigo",5
-insert into Spain.Provincias values(5180,"Parral, El",5
-insert into Spain.Provincias values(5181,"Pascualcobo",5
-insert into Spain.Provincias values(5182,"Pedro Bernardo",5
-insert into Spain.Provincias values(5183,"Pedro-Rodríguez",5
-insert into Spain.Provincias values(5184,"Peguerinos",5
-insert into Spain.Provincias values(5185,"Peñalba de Ávila",5
-insert into Spain.Provincias values(5186,"Piedrahíta",5
-insert into Spain.Provincias values(5187,"Piedralaves",5
-insert into Spain.Provincias values(5188,"Poveda",5
-insert into Spain.Provincias values(5189,"Poyales del Hoyo",5
-insert into Spain.Provincias values(5190,"Pozanco",5
-insert into Spain.Provincias values(5191,"Pradosegar",5
-insert into Spain.Provincias values(5192,"Puerto Castilla",5
-insert into Spain.Provincias values(5193,"Rasueros",5
-insert into Spain.Provincias values(5194,"Riocabado",5
-insert into Spain.Provincias values(5195,"Riofrío",5
-insert into Spain.Provincias values(5196,"Rivilla de Barajas",5
-insert into Spain.Provincias values(5197,"Salobral",5
-insert into Spain.Provincias values(5198,"Salvadiós",5
-insert into Spain.Provincias values(5199,"San Bartolomé de Béjar",5
-insert into Spain.Provincias values(5200,"San Bartolomé de Corneja",5
-insert into Spain.Provincias values(5201,"San Bartolomé de Pinares",5
-insert into Spain.Provincias values(5204,"Sanchidrián",5
-insert into Spain.Provincias values(5205,"Sanchorreja",5
-insert into Spain.Provincias values(5206,"San Esteban de los Patos",5
-insert into Spain.Provincias values(5207,"San Esteban del Valle",5
-insert into Spain.Provincias values(5208,"San Esteban de Zapardiel",5
-insert into Spain.Provincias values(5209,"San García de Ingelmos",5
-insert into Spain.Provincias values(5210,"San Juan de la Encinilla",5
-insert into Spain.Provincias values(5211,"San Juan de la Nava",5
-insert into Spain.Provincias values(5212,"San Juan del Molinillo",5
-insert into Spain.Provincias values(5213,"San Juan del Olmo",5
-insert into Spain.Provincias values(5214,"San Lorenzo de Tormes",5
-insert into Spain.Provincias values(5215,"San Martín de la Vega del Alberche",5
-insert into Spain.Provincias values(5216,"San Martín del Pimpollar",5
-insert into Spain.Provincias values(5217,"San Miguel de Corneja",5
-insert into Spain.Provincias values(5218,"San Miguel de Serrezuela",5
-insert into Spain.Provincias values(5219,"San Pascual",5
-insert into Spain.Provincias values(5220,"San Pedro del Arroyo",5
-insert into Spain.Provincias values(5221,"Santa Cruz del Valle",5
-insert into Spain.Provincias values(5222,"Santa Cruz de Pinares",5
-insert into Spain.Provincias values(5224,"Santa María del Arroyo",5
-insert into Spain.Provincias values(5225,"Santa María del Berrocal",5
-insert into Spain.Provincias values(5226,"Santa María de los Caballeros",5
-insert into Spain.Provincias values(5227,"Santa María del Tiétar",5
-insert into Spain.Provincias values(5228,"Santiago del Collado",5
-insert into Spain.Provincias values(5229,"Santo Domingo de las Posadas",5
-insert into Spain.Provincias values(5230,"Santo Tomé de Zabarcos",5
-insert into Spain.Provincias values(5231,"San Vicente de Arévalo",5
-insert into Spain.Provincias values(5232,"Serrada, La",5
-insert into Spain.Provincias values(5233,"Serranillos",5
-insert into Spain.Provincias values(5234,"Sigeres",5
-insert into Spain.Provincias values(5235,"Sinlabajos",5
-insert into Spain.Provincias values(5236,"Solana de Ávila",5
-insert into Spain.Provincias values(5237,"Solana de Rioalmar",5
-insert into Spain.Provincias values(5238,"Solosancho",5
-insert into Spain.Provincias values(5239,"Sotalbo",5
-insert into Spain.Provincias values(5240,"Sotillo de la Adrada",5
-insert into Spain.Provincias values(5241,"Tiemblo, El",5
-insert into Spain.Provincias values(5242,"Tiñosillos",5
-insert into Spain.Provincias values(5243,"Tolbaños",5
-insert into Spain.Provincias values(5244,"Tormellas",5
-insert into Spain.Provincias values(5245,"Tornadizos de Ávila",5
-insert into Spain.Provincias values(5246,"Tórtoles",5
-insert into Spain.Provincias values(5247,"Torre, La",5
-insert into Spain.Provincias values(5249,"Umbrías",5
-insert into Spain.Provincias values(5251,"Vadillo de la Sierra",5
-insert into Spain.Provincias values(5252,"Valdecasa",5
-insert into Spain.Provincias values(5253,"Vega de Santa María",5
-insert into Spain.Provincias values(5254,"Velayos",5
-insert into Spain.Provincias values(5256,"Villaflor",5
-insert into Spain.Provincias values(5257,"Villafranca de la Sierra",5
-insert into Spain.Provincias values(5258,"Villanueva de Gómez",5
-insert into Spain.Provincias values(5259,"Villanueva del Aceral",5
-insert into Spain.Provincias values(5260,"Villanueva del Campillo",5
-insert into Spain.Provincias values(5261,"Villar de Corneja",5
-insert into Spain.Provincias values(5262,"Villarejo del Valle",5
-insert into Spain.Provincias values(5263,"Villatoro",5
-insert into Spain.Provincias values(5264,"Viñegra de Moraña",5
-insert into Spain.Provincias values(5265,"Vita",5
-insert into Spain.Provincias values(5266,"Zapardiel de la Cañada",5
-insert into Spain.Provincias values(5267,"Zapardiel de la Ribera",5
-insert into Spain.Provincias values(5901,"San Juan de Gredos",5
-insert into Spain.Provincias values(5902,"Santa María del Cubillo",5
-insert into Spain.Provincias values(5903,"Diego del Carpio",5
-insert into Spain.Provincias values(5904,"Santiago del Tormes",5
-insert into Spain.Provincias values(5905,"Villanueva de Ávila",5
-insert into Spain.Provincias values(6001,"Acedera",6
-insert into Spain.Provincias values(6002,"Aceuchal",6
-insert into Spain.Provincias values(6003,"Ahillones",6
-insert into Spain.Provincias values(6004,"Alange",6
-insert into Spain.Provincias values(6005,"Albuera, La",6
-insert into Spain.Provincias values(6006,"Alburquerque",6
-insert into Spain.Provincias values(6007,"Alconchel",6
-insert into Spain.Provincias values(6008,"Alconera",6
-insert into Spain.Provincias values(6009,"Aljucén",6
-insert into Spain.Provincias values(6010,"Almendral",6
-insert into Spain.Provincias values(6011,"Almendralejo",6
-insert into Spain.Provincias values(6012,"Arroyo de San Serván",6
-insert into Spain.Provincias values(6013,"Atalaya",6
-insert into Spain.Provincias values(6014,"Azuaga",6
-insert into Spain.Provincias values(6015,"Badajoz",6
-insert into Spain.Provincias values(6016,"Barcarrota",6
-insert into Spain.Provincias values(6017,"Baterno",6
-insert into Spain.Provincias values(6018,"Benquerencia de la Serena",6
-insert into Spain.Provincias values(6019,"Berlanga",6
-insert into Spain.Provincias values(6020,"Bienvenida",6
-insert into Spain.Provincias values(6021,"Bodonal de la Sierra",6
-insert into Spain.Provincias values(6022,"Burguillos del Cerro",6
-insert into Spain.Provincias values(6023,"Cabeza del Buey",6
-insert into Spain.Provincias values(6024,"Cabeza la Vaca",6
-insert into Spain.Provincias values(6025,"Calamonte",6
-insert into Spain.Provincias values(6026,"Calera de León",6
-insert into Spain.Provincias values(6027,"Calzadilla de los Barros",6
-insert into Spain.Provincias values(6028,"Campanario",6
-insert into Spain.Provincias values(6029,"Campillo de Llerena",6
-insert into Spain.Provincias values(6030,"Capilla",6
-insert into Spain.Provincias values(6031,"Carmonita",6
-insert into Spain.Provincias values(6032,"Carrascalejo, El",6
-insert into Spain.Provincias values(6033,"Casas de Don Pedro",6
-insert into Spain.Provincias values(6034,"Casas de Reina",6
-insert into Spain.Provincias values(6035,"Castilblanco",6
-insert into Spain.Provincias values(6036,"Castuera",6
-insert into Spain.Provincias values(6037,"Codosera, La",6
-insert into Spain.Provincias values(6038,"Cordobilla de Lácara",6
-insert into Spain.Provincias values(6039,"Coronada, La",6
-insert into Spain.Provincias values(6040,"Corte de Peleas",6
-insert into Spain.Provincias values(6041,"Cristina",6
-insert into Spain.Provincias values(6042,"Cheles",6
-insert into Spain.Provincias values(6043,"Don Álvaro",6
-insert into Spain.Provincias values(6044,"Don Benito",6
-insert into Spain.Provincias values(6045,"Entrín Bajo",6
-insert into Spain.Provincias values(6046,"Esparragalejo",6
-insert into Spain.Provincias values(6047,"Esparragosa de la Serena",6
-insert into Spain.Provincias values(6048,"Esparragosa de Lares",6
-insert into Spain.Provincias values(6049,"Feria",6
-insert into Spain.Provincias values(6050,"Fregenal de la Sierra",6
-insert into Spain.Provincias values(6051,"Fuenlabrada de los Montes",6
-insert into Spain.Provincias values(6052,"Fuente de Cantos",6
-insert into Spain.Provincias values(6053,"Fuente del Arco",6
-insert into Spain.Provincias values(6054,"Fuente del Maestre",6
-insert into Spain.Provincias values(6055,"Fuentes de León",6
-insert into Spain.Provincias values(6056,"Garbayuela",6
-insert into Spain.Provincias values(6057,"Garlitos",6
-insert into Spain.Provincias values(6058,"Garrovilla, La",6
-insert into Spain.Provincias values(6059,"Granja de Torrehermosa",6
-insert into Spain.Provincias values(6060,"Guareña",6
-insert into Spain.Provincias values(6061,"Haba, La",6
-insert into Spain.Provincias values(6062,"Helechosa de los Montes",6
-insert into Spain.Provincias values(6063,"Herrera del Duque",6
-insert into Spain.Provincias values(6064,"Higuera de la Serena",6
-insert into Spain.Provincias values(6065,"Higuera de Llerena",6
-insert into Spain.Provincias values(6066,"Higuera de Vargas",6
-insert into Spain.Provincias values(6067,"Higuera la Real",6
-insert into Spain.Provincias values(6068,"Hinojosa del Valle",6
-insert into Spain.Provincias values(6069,"Hornachos",6
-insert into Spain.Provincias values(6070,"Jerez de los Caballeros",6
-insert into Spain.Provincias values(6071,"Lapa, La",6
-insert into Spain.Provincias values(6072,"Lobón",6
-insert into Spain.Provincias values(6073,"Llera",6
-insert into Spain.Provincias values(6074,"Llerena",6
-insert into Spain.Provincias values(6075,"Magacela",6
-insert into Spain.Provincias values(6076,"Maguilla",6
-insert into Spain.Provincias values(6077,"Malcocinado",6
-insert into Spain.Provincias values(6078,"Malpartida de la Serena",6
-insert into Spain.Provincias values(6079,"Manchita",6
-insert into Spain.Provincias values(6080,"Medellín",6
-insert into Spain.Provincias values(6081,"Medina de las Torres",6
-insert into Spain.Provincias values(6082,"Mengabril",6
-insert into Spain.Provincias values(6083,"Mérida",6
-insert into Spain.Provincias values(6084,"Mirandilla",6
-insert into Spain.Provincias values(6085,"Monesterio",6
-insert into Spain.Provincias values(6086,"Montemolín",6
-insert into Spain.Provincias values(6087,"Monterrubio de la Serena",6
-insert into Spain.Provincias values(6088,"Montijo",6
-insert into Spain.Provincias values(6089,"Morera, La",6
-insert into Spain.Provincias values(6090,"Nava de Santiago, La",6
-insert into Spain.Provincias values(6091,"Navalvillar de Pela",6
-insert into Spain.Provincias values(6092,"Nogales",6
-insert into Spain.Provincias values(6093,"Oliva de la Frontera",6
-insert into Spain.Provincias values(6094,"Oliva de Mérida",6
-insert into Spain.Provincias values(6095,"Olivenza",6
-insert into Spain.Provincias values(6096,"Orellana de la Sierra",6
-insert into Spain.Provincias values(6097,"Orellana la Vieja",6
-insert into Spain.Provincias values(6098,"Palomas",6
-insert into Spain.Provincias values(6099,"Parra, La",6
-insert into Spain.Provincias values(6100,"Peñalsordo",6
-insert into Spain.Provincias values(6101,"Peraleda del Zaucejo",6
-insert into Spain.Provincias values(6102,"Puebla de Alcocer",6
-insert into Spain.Provincias values(6103,"Puebla de la Calzada",6
-insert into Spain.Provincias values(6104,"Puebla de la Reina",6
-insert into Spain.Provincias values(6105,"Puebla del Maestre",6
-insert into Spain.Provincias values(6106,"Puebla del Prior",6
-insert into Spain.Provincias values(6107,"Puebla de Obando",6
-insert into Spain.Provincias values(6108,"Puebla de Sancho Pérez",6
-insert into Spain.Provincias values(6109,"Quintana de la Serena",6
-insert into Spain.Provincias values(6110,"Reina",6
-insert into Spain.Provincias values(6111,"Rena",6
-insert into Spain.Provincias values(6112,"Retamal de Llerena",6
-insert into Spain.Provincias values(6113,"Ribera del Fresno",6
-insert into Spain.Provincias values(6114,"Risco",6
-insert into Spain.Provincias values(6115,"Roca de la Sierra, La",6
-insert into Spain.Provincias values(6116,"Salvaleón",6
-insert into Spain.Provincias values(6117,"Salvatierra de los Barros",6
-insert into Spain.Provincias values(6118,"Sancti-Spíritus",6
-insert into Spain.Provincias values(6119,"San Pedro de Mérida",6
-insert into Spain.Provincias values(6120,"Santa Amalia",6
-insert into Spain.Provincias values(6121,"Santa Marta",6
-insert into Spain.Provincias values(6122,"Santos de Maimona, Los",6
-insert into Spain.Provincias values(6123,"San Vicente de Alcántara",6
-insert into Spain.Provincias values(6124,"Segura de León",6
-insert into Spain.Provincias values(6125,"Siruela",6
-insert into Spain.Provincias values(6126,"Solana de los Barros",6
-insert into Spain.Provincias values(6127,"Talarrubias",6
-insert into Spain.Provincias values(6128,"Talavera la Real",6
-insert into Spain.Provincias values(6129,"Táliga",6
-insert into Spain.Provincias values(6130,"Tamurejo",6
-insert into Spain.Provincias values(6131,"Torre de Miguel Sesmero",6
-insert into Spain.Provincias values(6132,"Torremayor",6
-insert into Spain.Provincias values(6133,"Torremejía",6
-insert into Spain.Provincias values(6134,"Trasierra",6
-insert into Spain.Provincias values(6135,"Trujillanos",6
-insert into Spain.Provincias values(6136,"Usagre",6
-insert into Spain.Provincias values(6137,"Valdecaballeros",6
-insert into Spain.Provincias values(6138,"Valdetorres",6
-insert into Spain.Provincias values(6139,"Valencia de las Torres",6
-insert into Spain.Provincias values(6140,"Valencia del Mombuey",6
-insert into Spain.Provincias values(6141,"Valencia del Ventoso",6
-insert into Spain.Provincias values(6142,"Valverde de Burguillos",6
-insert into Spain.Provincias values(6143,"Valverde de Leganés",6
-insert into Spain.Provincias values(6144,"Valverde de Llerena",6
-insert into Spain.Provincias values(6145,"Valverde de Mérida",6
-insert into Spain.Provincias values(6146,"Valle de la Serena",6
-insert into Spain.Provincias values(6147,"Valle de Matamoros",6
-insert into Spain.Provincias values(6148,"Valle de Santa Ana",6
-insert into Spain.Provincias values(6149,"Villafranca de los Barros",6
-insert into Spain.Provincias values(6150,"Villagarcía de la Torre",6
-insert into Spain.Provincias values(6151,"Villagonzalo",6
-insert into Spain.Provincias values(6152,"Villalba de los Barros",6
-insert into Spain.Provincias values(6153,"Villanueva de la Serena",6
-insert into Spain.Provincias values(6154,"Villanueva del Fresno",6
-insert into Spain.Provincias values(6155,"Villar del Rey",6
-insert into Spain.Provincias values(6156,"Villar de Rena",6
-insert into Spain.Provincias values(6157,"Villarta de los Montes",6
-insert into Spain.Provincias values(6158,"Zafra",6
-insert into Spain.Provincias values(6159,"Zahínos",6
-insert into Spain.Provincias values(6160,"Zalamea de la Serena",6
-insert into Spain.Provincias values(6161,"Zarza-Capilla",6
-insert into Spain.Provincias values(6162,"Zarza, La",6
-insert into Spain.Provincias values(6901,"Valdelacalzada",6
-insert into Spain.Provincias values(6902,"Pueblonuevo del Guadiana",6
-insert into Spain.Provincias values(6903,"Guadiana del Caudillo",6
-insert into Spain.Provincias values(7001,"Alaró",7
-insert into Spain.Provincias values(7002,"Alaior",7
-insert into Spain.Provincias values(7003,"Alcúdia",7
-insert into Spain.Provincias values(7004,"Algaida",7
-insert into Spain.Provincias values(7005,"Andratx",7
-insert into Spain.Provincias values(7006,"Artà",7
-insert into Spain.Provincias values(7007,"Banyalbufar",7
-insert into Spain.Provincias values(7008,"Binissalem",7
-insert into Spain.Provincias values(7009,"Búger",7
-insert into Spain.Provincias values(7010,"Bunyola",7
-insert into Spain.Provincias values(7011,"Calvià",7
-insert into Spain.Provincias values(7012,"Campanet",7
-insert into Spain.Provincias values(7013,"Campos",7
-insert into Spain.Provincias values(7014,"Capdepera",7
-insert into Spain.Provincias values(7015,"Ciutadella de Menorca",7
-insert into Spain.Provincias values(7016,"Consell",7
-insert into Spain.Provincias values(7017,"Costitx",7
-insert into Spain.Provincias values(7018,"Deià",7
-insert into Spain.Provincias values(7019,"Escorca",7
-insert into Spain.Provincias values(7020,"Esporles",7
-insert into Spain.Provincias values(7021,"Estellencs",7
-insert into Spain.Provincias values(7022,"Felanitx",7
-insert into Spain.Provincias values(7023,"Ferreries",7
-insert into Spain.Provincias values(7024,"Formentera",7
-insert into Spain.Provincias values(7025,"Fornalutx",7
-insert into Spain.Provincias values(7026,"Eivissa",7
-insert into Spain.Provincias values(7027,"Inca",7
-insert into Spain.Provincias values(7028,"Lloret de Vistalegre",7
-insert into Spain.Provincias values(7029,"Lloseta",7
-insert into Spain.Provincias values(7030,"Llubí",7
-insert into Spain.Provincias values(7031,"Llucmajor",7
-insert into Spain.Provincias values(7032,"Maó-Mahón",7
-insert into Spain.Provincias values(7033,"Manacor",7
-insert into Spain.Provincias values(7034,"Mancor de la Vall",7
-insert into Spain.Provincias values(7035,"Maria de la Salut",7
-insert into Spain.Provincias values(7036,"Marratxí",7
-insert into Spain.Provincias values(7037,"Mercadal, Es",7
-insert into Spain.Provincias values(7038,"Montuïri",7
-insert into Spain.Provincias values(7039,"Muro",7
-insert into Spain.Provincias values(7040,"Palma",7
-insert into Spain.Provincias values(7041,"Petra",7
-insert into Spain.Provincias values(7042,"Pollença",7
-insert into Spain.Provincias values(7043,"Porreres",7
-insert into Spain.Provincias values(7044,"Pobla, Sa",7
-insert into Spain.Provincias values(7045,"Puigpunyent",7
-insert into Spain.Provincias values(7046,"Sant Antoni de Portmany",7
-insert into Spain.Provincias values(7047,"Sencelles",7
-insert into Spain.Provincias values(7048,"Sant Josep de sa Talaia",7
-insert into Spain.Provincias values(7049,"Sant Joan",7
-insert into Spain.Provincias values(7050,"Sant Joan de Labritja",7
-insert into Spain.Provincias values(7051,"Sant Llorenç des Cardassar",7
-insert into Spain.Provincias values(7052,"Sant Lluís",7
-insert into Spain.Provincias values(7053,"Santa Eugènia",7
-insert into Spain.Provincias values(7054,"Santa Eulària des Riu",7
-insert into Spain.Provincias values(7055,"Santa Margalida",7
-insert into Spain.Provincias values(7056,"Santa María del Camí",7
-insert into Spain.Provincias values(7057,"Santanyí",7
-insert into Spain.Provincias values(7058,"Selva",7
-insert into Spain.Provincias values(7059,"Salines, Ses",7
-insert into Spain.Provincias values(7060,"Sineu",7
-insert into Spain.Provincias values(7061,"Sóller",7
-insert into Spain.Provincias values(7062,"Son Servera",7
-insert into Spain.Provincias values(7063,"Valldemossa",7
-insert into Spain.Provincias values(7064,"Castell, Es",7
-insert into Spain.Provincias values(7065,"Vilafranca de Bonany",7
-insert into Spain.Provincias values(7901,"Ariany",7
-insert into Spain.Provincias values(7902,"Migjorn Gran, Es",7
-insert into Spain.Provincias values(8001,"Abrera",8
-insert into Spain.Provincias values(8002,"Aguilar de Segarra",8
-insert into Spain.Provincias values(8003,"Alella",8
-insert into Spain.Provincias values(8004,"Alpens",8
-insert into Spain.Provincias values(8005,"Ametlla del Vallès, L'",8
-insert into Spain.Provincias values(8006,"Arenys de Mar",8
-insert into Spain.Provincias values(8007,"Arenys de Munt",8
-insert into Spain.Provincias values(8008,"Argençola",8
-insert into Spain.Provincias values(8009,"Argentona",8
-insert into Spain.Provincias values(8010,"Artés",8
-insert into Spain.Provincias values(8011,"Avià",8
-insert into Spain.Provincias values(8012,"Avinyó",8
-insert into Spain.Provincias values(8013,"Avinyonet del Penedès",8
-insert into Spain.Provincias values(8014,"Aiguafreda",8
-insert into Spain.Provincias values(8015,"Badalona",8
-insert into Spain.Provincias values(8016,"Bagà",8
-insert into Spain.Provincias values(8017,"Balenyà",8
-insert into Spain.Provincias values(8018,"Balsareny",8
-insert into Spain.Provincias values(8019,"Barcelona",8
-insert into Spain.Provincias values(8020,"Begues",8
-insert into Spain.Provincias values(8021,"Bellprat",8
-insert into Spain.Provincias values(8022,"Berga",8
-insert into Spain.Provincias values(8023,"Bigues i Riells",8
-insert into Spain.Provincias values(8024,"Borredà",8
-insert into Spain.Provincias values(8025,"Bruc, El",8
-insert into Spain.Provincias values(8026,"Brull, El",8
-insert into Spain.Provincias values(8027,"Cabanyes, Les",8
-insert into Spain.Provincias values(8028,"Cabrera d'Anoia",8
-insert into Spain.Provincias values(8029,"Cabrera de Mar",8
-insert into Spain.Provincias values(8030,"Cabrils",8
-insert into Spain.Provincias values(8031,"Calaf",8
-insert into Spain.Provincias values(8032,"Caldes d'Estrac",8
-insert into Spain.Provincias values(8033,"Caldes de Montbui",8
-insert into Spain.Provincias values(8034,"Calders",8
-insert into Spain.Provincias values(8035,"Calella",8
-insert into Spain.Provincias values(8036,"Calonge de Segarra",8
-insert into Spain.Provincias values(8037,"Calldetenes",8
-insert into Spain.Provincias values(8038,"Callús",8
-insert into Spain.Provincias values(8039,"Campins",8
-insert into Spain.Provincias values(8040,"Canet de Mar",8
-insert into Spain.Provincias values(8041,"Canovelles",8
-insert into Spain.Provincias values(8042,"Cànoves i Samalús",8
-insert into Spain.Provincias values(8043,"Canyelles",8
-insert into Spain.Provincias values(8044,"Capellades",8
-insert into Spain.Provincias values(8045,"Capolat",8
-insert into Spain.Provincias values(8046,"Cardedeu",8
-insert into Spain.Provincias values(8047,"Cardona",8
-insert into Spain.Provincias values(8048,"Carme",8
-insert into Spain.Provincias values(8049,"Casserres",8
-insert into Spain.Provincias values(8050,"Castellar del Riu",8
-insert into Spain.Provincias values(8051,"Castellar del Vallès",8
-insert into Spain.Provincias values(8052,"Castellar de n'Hug",8
-insert into Spain.Provincias values(8053,"Castellbell i el Vilar",8
-insert into Spain.Provincias values(8054,"Castellbisbal",8
-insert into Spain.Provincias values(8055,"Castellcir",8
-insert into Spain.Provincias values(8056,"Castelldefels",8
-insert into Spain.Provincias values(8057,"Castell de l'Areny",8
-insert into Spain.Provincias values(8058,"Castellet i la Gornal",8
-insert into Spain.Provincias values(8059,"Castellfollit del Boix",8
-insert into Spain.Provincias values(8060,"Castellfollit de Riubregós",8
-insert into Spain.Provincias values(8061,"Castellgalí",8
-insert into Spain.Provincias values(8062,"Castellnou de Bages",8
-insert into Spain.Provincias values(8063,"Castellolí",8
-insert into Spain.Provincias values(8064,"Castellterçol",8
-insert into Spain.Provincias values(8065,"Castellví de la Marca",8
-insert into Spain.Provincias values(8066,"Castellví de Rosanes",8
-insert into Spain.Provincias values(8067,"Centelles",8
-insert into Spain.Provincias values(8068,"Cervelló",8
-insert into Spain.Provincias values(8069,"Collbató",8
-insert into Spain.Provincias values(8070,"Collsuspina",8
-insert into Spain.Provincias values(8071,"Copons",8
-insert into Spain.Provincias values(8072,"Corbera de Llobregat",8
-insert into Spain.Provincias values(8073,"Cornellà de Llobregat",8
-insert into Spain.Provincias values(8074,"Cubelles",8
-insert into Spain.Provincias values(8075,"Dosrius",8
-insert into Spain.Provincias values(8076,"Esparreguera",8
-insert into Spain.Provincias values(8077,"Esplugues de Llobregat",8
-insert into Spain.Provincias values(8078,"Espunyola, L'",8
-insert into Spain.Provincias values(8079,"Estany, L'",8
-insert into Spain.Provincias values(8080,"Fígols",8
-insert into Spain.Provincias values(8081,"Fogars de Montclús",8
-insert into Spain.Provincias values(8082,"Fogars de la Selva",8
-insert into Spain.Provincias values(8083,"Folgueroles",8
-insert into Spain.Provincias values(8084,"Fonollosa",8
-insert into Spain.Provincias values(8085,"Font-rubí",8
-insert into Spain.Provincias values(8086,"Franqueses del Vallès, Les",8
-insert into Spain.Provincias values(8087,"Gallifa",8
-insert into Spain.Provincias values(8088,"Garriga, La",8
-insert into Spain.Provincias values(8089,"Gavà",8
-insert into Spain.Provincias values(8090,"Gaià",8
-insert into Spain.Provincias values(8091,"Gelida",8
-insert into Spain.Provincias values(8092,"Gironella",8
-insert into Spain.Provincias values(8093,"Gisclareny",8
-insert into Spain.Provincias values(8094,"Granada, La",8
-insert into Spain.Provincias values(8095,"Granera",8
-insert into Spain.Provincias values(8096,"Granollers",8
-insert into Spain.Provincias values(8097,"Gualba",8
-insert into Spain.Provincias values(8098,"Sant Salvador de Guardiola",8
-insert into Spain.Provincias values(8099,"Guardiola de Berguedà",8
-insert into Spain.Provincias values(8100,"Gurb",8
-insert into Spain.Provincias values(8101,"Hospitalet de Llobregat, L'",8
-insert into Spain.Provincias values(8102,"Igualada",8
-insert into Spain.Provincias values(8103,"Jorba",8
-insert into Spain.Provincias values(8104,"Llacuna, La",8
-insert into Spain.Provincias values(8105,"Llagosta, La",8
-insert into Spain.Provincias values(8106,"Llinars del Vallès",8
-insert into Spain.Provincias values(8107,"Lliçà d'Amunt",8
-insert into Spain.Provincias values(8108,"Lliçà de Vall",8
-insert into Spain.Provincias values(8109,"Lluçà",8
-insert into Spain.Provincias values(8110,"Malgrat de Mar",8
-insert into Spain.Provincias values(8111,"Malla",8
-insert into Spain.Provincias values(8112,"Manlleu",8
-insert into Spain.Provincias values(8113,"Manresa",8
-insert into Spain.Provincias values(8114,"Martorell",8
-insert into Spain.Provincias values(8115,"Martorelles",8
-insert into Spain.Provincias values(8116,"Masies de Roda, Les",8
-insert into Spain.Provincias values(8117,"Masies de Voltregà, Les",8
-insert into Spain.Provincias values(8118,"Masnou, El",8
-insert into Spain.Provincias values(8119,"Masquefa",8
-insert into Spain.Provincias values(8120,"Matadepera",8
-insert into Spain.Provincias values(8121,"Mataró",8
-insert into Spain.Provincias values(8122,"Mediona",8
-insert into Spain.Provincias values(8123,"Molins de Rei",8
-insert into Spain.Provincias values(8124,"Mollet del Vallès",8
-insert into Spain.Provincias values(8125,"Montcada i Reixac",8
-insert into Spain.Provincias values(8126,"Montgat",8
-insert into Spain.Provincias values(8127,"Monistrol de Montserrat",8
-insert into Spain.Provincias values(8128,"Monistrol de Calders",8
-insert into Spain.Provincias values(8129,"Muntanyola",8
-insert into Spain.Provincias values(8130,"Montclar",8
-insert into Spain.Provincias values(8131,"Montesquiu",8
-insert into Spain.Provincias values(8132,"Montmajor",8
-insert into Spain.Provincias values(8133,"Montmaneu",8
-insert into Spain.Provincias values(8134,"Figaró-Montmany",8
-insert into Spain.Provincias values(8135,"Montmeló",8
-insert into Spain.Provincias values(8136,"Montornès del Vallès",8
-insert into Spain.Provincias values(8137,"Montseny",8
-insert into Spain.Provincias values(8138,"Moià",8
-insert into Spain.Provincias values(8139,"Mura",8
-insert into Spain.Provincias values(8140,"Navarcles",8
-insert into Spain.Provincias values(8141,"Navàs",8
-insert into Spain.Provincias values(8142,"Nou de Berguedà, La",8
-insert into Spain.Provincias values(8143,"Òdena",8
-insert into Spain.Provincias values(8144,"Olvan",8
-insert into Spain.Provincias values(8145,"Olèrdola",8
-insert into Spain.Provincias values(8146,"Olesa de Bonesvalls",8
-insert into Spain.Provincias values(8147,"Olesa de Montserrat",8
-insert into Spain.Provincias values(8148,"Olivella",8
-insert into Spain.Provincias values(8149,"Olost",8
-insert into Spain.Provincias values(8150,"Orís",8
-insert into Spain.Provincias values(8151,"Oristà",8
-insert into Spain.Provincias values(8152,"Orpí",8
-insert into Spain.Provincias values(8153,"Òrrius",8
-insert into Spain.Provincias values(8154,"Pacs del Penedès",8
-insert into Spain.Provincias values(8155,"Palafolls",8
-insert into Spain.Provincias values(8156,"Palau-solità i Plegamans",8
-insert into Spain.Provincias values(8157,"Pallejà",8
-insert into Spain.Provincias values(8158,"Papiol, El",8
-insert into Spain.Provincias values(8159,"Parets del Vallès",8
-insert into Spain.Provincias values(8160,"Perafita",8
-insert into Spain.Provincias values(8161,"Piera",8
-insert into Spain.Provincias values(8162,"Hostalets de Pierola, Els",8
-insert into Spain.Provincias values(8163,"Pineda de Mar",8
-insert into Spain.Provincias values(8164,"Pla del Penedès, El",8
-insert into Spain.Provincias values(8165,"Pobla de Claramunt, La",8
-insert into Spain.Provincias values(8166,"Pobla de Lillet, La",8
-insert into Spain.Provincias values(8167,"Polinyà",8
-insert into Spain.Provincias values(8168,"Pontons",8
-insert into Spain.Provincias values(8169,"Prat de Llobregat, El",8
-insert into Spain.Provincias values(8170,"Prats de Rei, Els",8
-insert into Spain.Provincias values(8171,"Prats de Lluçanès",8
-insert into Spain.Provincias values(8172,"Premià de Mar",8
-insert into Spain.Provincias values(8174,"Puigdàlber",8
-insert into Spain.Provincias values(8175,"Puig-reig",8
-insert into Spain.Provincias values(8176,"Pujalt",8
-insert into Spain.Provincias values(8177,"Quar, La",8
-insert into Spain.Provincias values(8178,"Rajadell",8
-insert into Spain.Provincias values(8179,"Rellinars",8
-insert into Spain.Provincias values(8180,"Ripollet",8
-insert into Spain.Provincias values(8181,"Roca del Vallès, La",8
-insert into Spain.Provincias values(8182,"Pont de Vilomara i Rocafort, El",8
-insert into Spain.Provincias values(8183,"Roda de Ter",8
-insert into Spain.Provincias values(8184,"Rubí",8
-insert into Spain.Provincias values(8185,"Rubió",8
-insert into Spain.Provincias values(8187,"Sabadell",8
-insert into Spain.Provincias values(8188,"Sagàs",8
-insert into Spain.Provincias values(8189,"Sant Pere Sallavinera",8
-insert into Spain.Provincias values(8190,"Saldes",8
-insert into Spain.Provincias values(8191,"Sallent",8
-insert into Spain.Provincias values(8192,"Santpedor",8
-insert into Spain.Provincias values(8193,"Sant Iscle de Vallalta",8
-insert into Spain.Provincias values(8194,"Sant Adrià de Besòs",8
-insert into Spain.Provincias values(8195,"Sant Agustí de Lluçanès",8
-insert into Spain.Provincias values(8196,"Sant Andreu de la Barca",8
-insert into Spain.Provincias values(8197,"Sant Andreu de Llavaneres",8
-insert into Spain.Provincias values(8198,"Sant Antoni de Vilamajor",8
-insert into Spain.Provincias values(8199,"Sant Bartomeu del Grau",8
-insert into Spain.Provincias values(8200,"Sant Boi de Llobregat",8
-insert into Spain.Provincias values(8201,"Sant Boi de Lluçanès",8
-insert into Spain.Provincias values(8202,"Sant Celoni",8
-insert into Spain.Provincias values(8203,"Sant Cebrià de Vallalta",8
-insert into Spain.Provincias values(8204,"Sant Climent de Llobregat",8
-insert into Spain.Provincias values(8205,"Sant Cugat del Vallès",8
-insert into Spain.Provincias values(8206,"Sant Cugat Sesgarrigues",8
-insert into Spain.Provincias values(8207,"Sant Esteve de Palautordera",8
-insert into Spain.Provincias values(8208,"Sant Esteve Sesrovires",8
-insert into Spain.Provincias values(8209,"Sant Fost de Campsentelles",8
-insert into Spain.Provincias values(8210,"Sant Feliu de Codines",8
-insert into Spain.Provincias values(8211,"Sant Feliu de Llobregat",8
-insert into Spain.Provincias values(8212,"Sant Feliu Sasserra",8
-insert into Spain.Provincias values(8213,"Sant Fruitós de Bages",8
-insert into Spain.Provincias values(8214,"Vilassar de Dalt",8
-insert into Spain.Provincias values(8215,"Sant Hipòlit de Voltregà",8
-insert into Spain.Provincias values(8216,"Sant Jaume de Frontanyà",8
-insert into Spain.Provincias values(8217,"Sant Joan Despí",8
-insert into Spain.Provincias values(8218,"Sant Joan de Vilatorrada",8
-insert into Spain.Provincias values(8219,"Vilassar de Mar",8
-insert into Spain.Provincias values(8220,"Sant Julià de Vilatorta",8
-insert into Spain.Provincias values(8221,"Sant Just Desvern",8
-insert into Spain.Provincias values(8222,"Sant Llorenç d'Hortons",8
-insert into Spain.Provincias values(8223,"Sant Llorenç Savall",8
-insert into Spain.Provincias values(8224,"Sant Martí de Centelles",8
-insert into Spain.Provincias values(8225,"Sant Martí d'Albars",8
-insert into Spain.Provincias values(8226,"Sant Martí de Tous",8
-insert into Spain.Provincias values(8227,"Sant Martí Sarroca",8
-insert into Spain.Provincias values(8228,"Sant Martí Sesgueioles",8
-insert into Spain.Provincias values(8229,"Sant Mateu de Bages",8
-insert into Spain.Provincias values(8230,"Premià de Dalt",8
-insert into Spain.Provincias values(8231,"Sant Pere de Ribes",8
-insert into Spain.Provincias values(8232,"Sant Pere de Riudebitlles",8
-insert into Spain.Provincias values(8233,"Sant Pere de Torelló",8
-insert into Spain.Provincias values(8234,"Sant Pere de Vilamajor",8
-8235,"Sant Pol de Mar",8
-8236,"Sant Quintí de Mediona",8
-8237,"Sant Quirze de Besora",8
-8238,"Sant Quirze del Vallès",8
-8239,"Sant Quirze Safaja",8
-8240,"Sant Sadurní d'Anoia",8
-8241,"Sant Sadurní d'Osormort",8
-8242,"Marganell",8
-8243,"Santa Cecília de Voltregà",8
-8244,"Santa Coloma de Cervelló",8
-8245,"Santa Coloma de Gramenet",8
-8246,"Santa Eugènia de Berga",8
-8247,"Santa Eulàlia de Riuprimer",8
-8248,"Santa Eulàlia de Ronçana",8
-8249,"Santa Fe del Penedès",8
-8250,"Santa Margarida de Montbui",8
-8251,"Santa Margarida i els Monjos",8
-8252,"Barberà del Vallès",8
-8253,"Santa Maria de Besora",8
-8254,"Esquirol, L'",8
-8255,"Santa Maria de Merlès",8
-8256,"Santa Maria de Martorelles",8
-8257,"Santa Maria de Miralles",8
-8258,"Santa Maria d'Oló",8
-8259,"Santa Maria de Palautordera",8
-8260,"Santa Perpètua de Mogoda",8
-8261,"Santa Susanna",8
-8262,"Sant Vicenç de Castellet",8
-8263,"Sant Vicenç dels Horts",8
-8264,"Sant Vicenç de Montalt",8
-8265,"Sant Vicenç de Torelló",8
-8266,"Cerdanyola del Vallès",8
-8267,"Sentmenat",8
-8268,"Cercs",8
-8269,"Seva",8
-8270,"Sitges",8
-8271,"Sobremunt",8
-8272,"Sora",8
-8273,"Subirats",8
-8274,"Súria",8
-8275,"Tavèrnoles",8
-8276,"Tagamanent",8
-8277,"Talamanca",8
-8278,"Taradell",8
-8279,"Terrassa",8
-8280,"Tavertet",8
-8281,"Teià",8
-8282,"Tiana",8
-8283,"Tona",8
-8284,"Tordera",8
-8285,"Torelló",8
-8286,"Torre de Claramunt, La",8
-8287,"Torrelavit",8
-8288,"Torrelles de Foix",8
-8289,"Torrelles de Llobregat",8
-8290,"Ullastrell",8
-8291,"Vacarisses",8
-8292,"Vallbona d'Anoia",8
-8293,"Vallcebre",8
-8294,"Vallgorguina",8
-8295,"Vallirana",8
-8296,"Vallromanes",8
-8297,"Veciana",8
-8298,"Vic",8
-8299,"Vilada",8
-8300,"Viladecavalls",8
-8301,"Viladecans",8
-8302,"Vilanova del Camí",8
-8303,"Vilanova de Sau",8
-8304,"Vilobí del Penedès",8
-8305,"Vilafranca del Penedès",8
-8306,"Vilalba Sasserra",8
-8307,"Vilanova i la Geltrú",8
-8308,"Viver i Serrateix",8
-8901,"Rupit i Pruit",8
-8902,"Vilanova del Vallès",8
-8903,"Sant Julià de Cerdanyola",8
-8904,"Badia del Vallès",8
-8905,"Palma de Cervelló, La",8
-9001,"Abajas",9
-9003,"Adrada de Haza",9
-9006,"Aguas Cándidas",9
-9007,"Aguilar de Bureba",9
-9009,"Albillos",9
-9010,"Alcocero de Mola",9
-9011,"Alfoz de Bricia",9
-9012,"Alfoz de Santa Gadea",9
-9013,"Altable",9
-9014,"Altos, Los",9
-9016,"Ameyugo",9
-9017,"Anguix",9
-9018,"Aranda de Duero",9
-9019,"Arandilla",9
-9020,"Arauzo de Miel",9
-9021,"Arauzo de Salce",9
-9022,"Arauzo de Torre",9
-9023,"Arcos",9
-9024,"Arenillas de Riopisuerga",9
-9025,"Arija",9
-9026,"Arlanzón",9
-9027,"Arraya de Oca",9
-9029,"Atapuerca",9
-9030,"Ausines, Los",9
-9032,"Avellanosa de Muñó",9
-9033,"Bahabón de Esgueva",9
-9034,"Balbases, Los",9
-9035,"Baños de Valdearados",9
-9036,"Bañuelos de Bureba",9
-9037,"Barbadillo de Herreros",9
-9038,"Barbadillo del Mercado",9
-9039,"Barbadillo del Pez",9
-9041,"Barrio de Muñó",9
-9043,"Barrios de Bureba, Los",9
-9044,"Barrios de Colina",9
-9045,"Basconcillos del Tozo",9
-9046,"Bascuñana",9
-9047,"Belbimbre",9
-9048,"Belorado",9
-9050,"Berberana",9
-9051,"Berlangas de Roa",9
-9052,"Berzosa de Bureba",9
-9054,"Bozoó",9
-9055,"Brazacorta",9
-9056,"Briviesca",9
-9057,"Bugedo",9
-9058,"Buniel",9
-9059,"Burgos",9
-9060,"Busto de Bureba",9
-9061,"Cabañes de Esgueva",9
-9062,"Cabezón de la Sierra",9
-9063,"Cavia",9
-9064,"Caleruega",9
-9065,"Campillo de Aranda",9
-9066,"Campolara",9
-9067,"Canicosa de la Sierra",9
-9068,"Cantabrana",9
-9070,"Carazo",9
-9071,"Carcedo de Bureba",9
-9072,"Carcedo de Burgos",9
-9073,"Cardeñadijo",9
-9074,"Cardeñajimeno",9
-9075,"Cardeñuela Riopico",9
-9076,"Carrias",9
-9077,"Cascajares de Bureba",9
-9078,"Cascajares de la Sierra",9
-9079,"Castellanos de Castro",9
-9082,"Castildelgado",9
-9083,"Castil de Peones",9
-9084,"Castrillo de la Reina",9
-9085,"Castrillo de la Vega",9
-9086,"Castrillo del Val",9
-9088,"Castrillo de Riopisuerga",9
-9090,"Castrillo Mota de Judíos",9
-9091,"Castrojeriz",9
-9093,"Cayuela",9
-9094,"Cebrecos",9
-9095,"Celada del Camino",9
-9098,"Cerezo de Río Tirón",9
-9100,"Cerratón de Juarros",9
-9101,"Ciadoncha",9
-9102,"Cillaperlata",9
-9103,"Cilleruelo de Abajo",9
-9104,"Cilleruelo de Arriba",9
-9105,"Ciruelos de Cervera",9
-9108,"Cogollos",9
-9109,"Condado de Treviño",9
-9110,"Contreras",9
-9112,"Coruña del Conde",9
-9113,"Covarrubias",9
-9114,"Cubillo del Campo",9
-9115,"Cubo de Bureba",9
-9117,"Cueva de Roa, La",9
-9119,"Cuevas de San Clemente",9
-9120,"Encío",9
-9122,"Espinosa de Cervera",9
-9123,"Espinosa del Camino",9
-9124,"Espinosa de los Monteros",9
-9125,"Estépar",9
-9127,"Fontioso",9
-9128,"Frandovínez",9
-9129,"Fresneda de la Sierra Tirón",9
-9130,"Fresneña",9
-9131,"Fresnillo de las Dueñas",9
-9132,"Fresno de Río Tirón",9
-9133,"Fresno de Rodilla",9
-9134,"Frías",9
-9135,"Fuentebureba",9
-9136,"Fuentecén",9
-9137,"Fuentelcésped",9
-9138,"Fuentelisendo",9
-9139,"Fuentemolinos",9
-9140,"Fuentenebro",9
-9141,"Fuentespina",9
-9143,"Galbarros",9
-9144,"Gallega, La",9
-9148,"Grijalba",9
-9149,"Grisaleña",9
-9151,"Gumiel de Izán",9
-9152,"Gumiel de Mercado",9
-9154,"Hacinas",9
-9155,"Haza",9
-9159,"Hontanas",9
-9160,"Hontangas",9
-9162,"Hontoria de la Cantera",9
-9163,"Hontoria del Pinar",9
-9164,"Hontoria de Valdearados",9
-9166,"Hormazas, Las",9
-9167,"Hornillos del Camino",9
-9168,"Horra, La",9
-9169,"Hortigüela",9
-9170,"Hoyales de Roa",9
-9172,"Huérmeces",9
-9173,"Huerta de Arriba",9
-9174,"Huerta de Rey",9
-9175,"Humada",9
-9176,"Hurones",9
-9177,"Ibeas de Juarros",9
-9178,"Ibrillos",9
-9179,"Iglesiarrubia",9
-9180,"Iglesias",9
-9181,"Isar",9
-9182,"Itero del Castillo",9
-9183,"Jaramillo de la Fuente",9
-9184,"Jaramillo Quemado",9
-9189,"Junta de Traslaloma",9
-9190,"Junta de Villalba de Losa",9
-9191,"Jurisdicción de Lara",9
-9192,"Jurisdicción de San Zadornil",9
-9194,"Lerma",9
-9195,"Llano de Bureba",9
-9196,"Madrigal del Monte",9
-9197,"Madrigalejo del Monte",9
-9198,"Mahamud",9
-9199,"Mambrilla de Castrejón",9
-9200,"Mambrillas de Lara",9
-9201,"Mamolar",9
-9202,"Manciles",9
-9206,"Mazuela",9
-9208,"Mecerreyes",9
-9209,"Medina de Pomar",9
-9211,"Melgar de Fernamental",9
-9213,"Merindad de Cuesta-Urria",9
-9214,"Merindad de Montija",9
-9215,"Merindad de Sotoscueva",9
-9216,"Merindad de Valdeporres",9
-9217,"Merindad de Valdivielso",9
-9218,"Milagros",9
-9219,"Miranda de Ebro",9
-9220,"Miraveche",9
-9221,"Modúbar de la Emparedada",9
-9223,"Monasterio de la Sierra",9
-9224,"Monasterio de Rodilla",9
-9225,"Moncalvillo",9
-9226,"Monterrubio de la Demanda",9
-9227,"Montorio",9
-9228,"Moradillo de Roa",9
-9229,"Nava de Roa",9
-9230,"Navas de Bureba",9
-9231,"Nebreda",9
-9232,"Neila",9
-9235,"Olmedillo de Roa",9
-9236,"Olmillos de Muñó",9
-9238,"Oña",9
-9239,"Oquillas",9
-9241,"Orbaneja Riopico",9
-9242,"Padilla de Abajo",9
-9243,"Padilla de Arriba",9
-9244,"Padrones de Bureba",9
-9246,"Palacios de la Sierra",9
-9247,"Palacios de Riopisuerga",9
-9248,"Palazuelos de la Sierra",9
-9249,"Palazuelos de Muñó",9
-9250,"Pampliega",9
-9251,"Pancorbo",9
-9253,"Pardilla",9
-9255,"Partido de la Sierra en Tobalina",9
-9256,"Pedrosa de Duero",9
-9257,"Pedrosa del Páramo",9
-9258,"Pedrosa del Príncipe",9
-9259,"Pedrosa de Río Úrbel",9
-9261,"Peñaranda de Duero",9
-9262,"Peral de Arlanza",9
-9265,"Piérnigas",9
-9266,"Pineda de la Sierra",9
-9267,"Pineda Trasmonte",9
-9268,"Pinilla de los Barruecos",9
-9269,"Pinilla de los Moros",9
-9270,"Pinilla Trasmonte",9
-9272,"Poza de la Sal",9
-9273,"Prádanos de Bureba",9
-9274,"Pradoluengo",9
-9275,"Presencio",9
-9276,"Puebla de Arganzón, La",9
-9277,"Puentedura",9
-9279,"Quemada",9
-9280,"Quintanabureba",9
-9281,"Quintana del Pidio",9
-9283,"Quintanaélez",9
-9287,"Quintanaortuño",9
-9288,"Quintanapalla",9
-9289,"Quintanar de la Sierra",9
-9292,"Quintanavides",9
-9294,"Quintanilla de la Mata",9
-9295,"Quintanilla del Coco",9
-9297,"Quintanillas, Las",9
-9298,"Quintanilla San García",9
-9301,"Quintanilla Vivar",9
-9302,"Rabanera del Pinar",9
-9303,"Rábanos",9
-9304,"Rabé de las Calzadas",9
-9306,"Rebolledo de la Torre",9
-9307,"Redecilla del Camino",9
-9308,"Redecilla del Campo",9
-9309,"Regumiel de la Sierra",9
-9310,"Reinoso",9
-9311,"Retuerta",9
-9312,"Revilla y Ahedo, La",9
-9314,"Revilla del Campo",9
-9315,"Revillarruz",9
-9316,"Revilla Vallejera",9
-9317,"Rezmondo",9
-9318,"Riocavado de la Sierra",9
-9321,"Roa",9
-9323,"Rojas",9
-9325,"Royuela de Río Franco",9
-9326,"Rubena",9
-9327,"Rublacedo de Abajo",9
-9328,"Rucandio",9
-9329,"Salas de Bureba",9
-9330,"Salas de los Infantes",9
-9332,"Saldaña de Burgos",9
-9334,"Salinillas de Bureba",9
-9335,"San Adrián de Juarros",9
-9337,"San Juan del Monte",9
-9338,"San Mamés de Burgos",9
-9339,"San Martín de Rubiales",9
-9340,"San Millán de Lara",9
-9343,"Santa Cecilia",9
-9345,"Santa Cruz de la Salceda",9
-9346,"Santa Cruz del Valle Urbión",9
-9347,"Santa Gadea del Cid",9
-9348,"Santa Inés",9
-9350,"Santa María del Campo",9
-9351,"Santa María del Invierno",9
-9352,"Santa María del Mercadillo",9
-9353,"Santa María Rivarredonda",9
-9354,"Santa Olalla de Bureba",9
-9355,"Santibáñez de Esgueva",9
-9356,"Santibáñez del Val",9
-9358,"Santo Domingo de Silos",9
-9360,"San Vicente del Valle",9
-9361,"Sargentes de la Lora",9
-9362,"Sarracín",9
-9363,"Sasamón",9
-9365,"Sequera de Haza, La",9
-9366,"Solarana",9
-9368,"Sordillos",9
-9369,"Sotillo de la Ribera",9
-9372,"Sotragero",9
-9373,"Sotresgudo",9
-9374,"Susinos del Páramo",9
-9375,"Tamarón",9
-9377,"Tardajos",9
-9378,"Tejada",9
-9380,"Terradillos de Esgueva",9
-9381,"Tinieblas de la Sierra",9
-9382,"Tobar",9
-9384,"Tordómar",9
-9386,"Torrecilla del Monte",9
-9387,"Torregalindo",9
-9388,"Torrelara",9
-9389,"Torrepadre",9
-9390,"Torresandino",9
-9391,"Tórtoles de Esgueva",9
-9392,"Tosantos",9
-9394,"Trespaderne",9
-9395,"Tubilla del Agua",9
-9396,"Tubilla del Lago",9
-9398,"Úrbel del Castillo",9
-9400,"Vadocondes",9
-9403,"Valdeande",9
-9405,"Valdezate",9
-9406,"Valdorros",9
-9407,"Valmala",9
-9408,"Vallarta de Bureba",9
-9409,"Valle de Manzanedo",9
-9410,"Valle de Mena",9
-9411,"Valle de Oca",9
-9412,"Valle de Tobalina",9
-9413,"Valle de Valdebezana",9
-9414,"Valle de Valdelaguna",9
-9415,"Valle de Valdelucio",9
-9416,"Valle de Zamanzas",9
-9417,"Vallejera",9
-9418,"Valles de Palenzuela",9
-9419,"Valluércanes",9
-9421,"Vid y Barrios, La",9
-9422,"Vid de Bureba, La",9
-9423,"Vileña",9
-9424,"Viloria de Rioja",9
-9425,"Vilviestre del Pinar",9
-9427,"Villadiego",9
-9428,"Villaescusa de Roa",9
-9429,"Villaescusa la Sombría",9
-9430,"Villaespasa",9
-9431,"Villafranca Montes de Oca",9
-9432,"Villafruela",9
-9433,"Villagalijo",9
-9434,"Villagonzalo Pedernales",9
-9437,"Villahoz",9
-9438,"Villalba de Duero",9
-9439,"Villalbilla de Burgos",9
-9440,"Villalbilla de Gumiel",9
-9441,"Villaldemiro",9
-9442,"Villalmanzo",9
-9443,"Villamayor de los Montes",9
-9444,"Villamayor de Treviño",9
-9445,"Villambistia",9
-9446,"Villamedianilla",9
-9447,"Villamiel de la Sierra",9
-9448,"Villangómez",9
-9449,"Villanueva de Argaño",9
-9450,"Villanueva de Carazo",9
-9451,"Villanueva de Gumiel",9
-9454,"Villanueva de Teba",9
-9455,"Villaquirán de la Puebla",9
-9456,"Villaquirán de los Infantes",9
-9458,"Villariezo",9
-9460,"Villasandino",9
-9463,"Villasur de Herreros",9
-9464,"Villatuelda",9
-9466,"Villaverde del Monte",9
-9467,"Villaverde-Mogina",9
-9471,"Villayerno Morquillas",9
-9472,"Villazopeque",9
-9473,"Villegas",9
-9476,"Villoruebo",9
-9478,"Vizcaínos",9
-9480,"Zael",9
-9482,"Zarzosa de Río Pisuerga",9
-9483,"Zazuar",9
-9485,"Zuñeda",9
-9901,"Quintanilla del Agua y Tordueles",9
-9902,"Valle de Santibáñez",9
-9903,"Villarcayo de Merindad de Castilla la Vieja",9
-9904,"Valle de las Navas",9
-9905,"Valle de Sedano",9
-9906,"Merindad de Río Ubierna",9
-9907,"Alfoz de Quintanadueñas",9
-9908,"Valle de Losa",9
-10001,"Abadía",10
-10002,"Abertura",10
-10003,"Acebo",10
-10004,"Acehúche",10
-10005,"Aceituna",10
-10006,"Ahigal",10
-10007,"Albalá",10
-10008,"Alcántara",10
-10009,"Alcollarín",10
-10010,"Alcuéscar",10
-10011,"Aldeacentenera",10
-10012,"Aldea del Cano",10
-10013,"Aldea del Obispo, La",10
-10014,"Aldeanueva de la Vera",10
-10015,"Aldeanueva del Camino",10
-10016,"Aldehuela de Jerte",10
-10017,"Alía",10
-10018,"Aliseda",10
-10019,"Almaraz",10
-10020,"Almoharín",10
-10021,"Arroyo de la Luz",10
-10022,"Arroyomolinos de la Vera",10
-10023,"Arroyomolinos",10
-10024,"Baños de Montemayor",10
-10025,"Barrado",10
-10026,"Belvís de Monroy",10
-10027,"Benquerencia",10
-10028,"Berrocalejo",10
-10029,"Berzocana",10
-10030,"Bohonal de Ibor",10
-10031,"Botija",10
-10032,"Brozas",10
-10033,"Cabañas del Castillo",10
-10034,"Cabezabellosa",10
-10035,"Cabezuela del Valle",10
-10036,"Cabrero",10
-10037,"Cáceres",10
-10038,"Cachorrilla",10
-10039,"Cadalso",10
-10040,"Calzadilla",10
-10041,"Caminomorisco",10
-10042,"Campillo de Deleitosa",10
-10043,"Campo Lugar",10
-10044,"Cañamero",10
-10045,"Cañaveral",10
-10046,"Carbajo",10
-10047,"Carcaboso",10
-10048,"Carrascalejo",10
-10049,"Casar de Cáceres",10
-10050,"Casar de Palomero",10
-10051,"Casares de las Hurdes",10
-10052,"Casas de Don Antonio",10
-10053,"Casas de Don Gómez",10
-10054,"Casas del Castañar",10
-10055,"Casas del Monte",10
-10056,"Casas de Millán",10
-10057,"Casas de Miravete",10
-10058,"Casatejada",10
-10059,"Casillas de Coria",10
-10060,"Castañar de Ibor",10
-10061,"Ceclavín",10
-10062,"Cedillo",10
-10063,"Cerezo",10
-10064,"Cilleros",10
-10065,"Collado de la Vera",10
-10066,"Conquista de la Sierra",10
-10067,"Coria",10
-10068,"Cuacos de Yuste",10
-10069,"Cumbre, La",10
-10070,"Deleitosa",10
-10071,"Descargamaría",10
-10072,"Eljas",10
-10073,"Escurial",10
-10075,"Fresnedoso de Ibor",10
-10076,"Galisteo",10
-10077,"Garciaz",10
-10078,"Garganta, La",10
-10079,"Garganta la Olla",10
-10080,"Gargantilla",10
-10081,"Gargüera",10
-10082,"Garrovillas de Alconétar",10
-10083,"Garvín",10
-10084,"Gata",10
-10085,"Gordo, El",10
-10086,"Granja, La",10
-10087,"Guadalupe",10
-10088,"Guijo de Coria",10
-10089,"Guijo de Galisteo",10
-10090,"Guijo de Granadilla",10
-10091,"Guijo de Santa Bárbara",10
-10092,"Herguijuela",10
-10093,"Hernán-Pérez",10
-10094,"Herrera de Alcántara",10
-10095,"Herreruela",10
-10096,"Hervás",10
-10097,"Higuera",10
-10098,"Hinojal",10
-10099,"Holguera",10
-10100,"Hoyos",10
-10101,"Huélaga",10
-10102,"Ibahernando",10
-10103,"Jaraicejo",10
-10104,"Jaraíz de la Vera",10
-10105,"Jarandilla de la Vera",10
-10106,"Jarilla",10
-10107,"Jerte",10
-10108,"Ladrillar",10
-10109,"Logrosán",10
-10110,"Losar de la Vera",10
-10111,"Madrigal de la Vera",10
-10112,"Madrigalejo",10
-10113,"Madroñera",10
-10114,"Majadas",10
-10115,"Malpartida de Cáceres",10
-10116,"Malpartida de Plasencia",10
-10117,"Marchagaz",10
-10118,"Mata de Alcántara",10
-10119,"Membrío",10
-10120,"Mesas de Ibor",10
-10121,"Miajadas",10
-10122,"Millanes",10
-10123,"Mirabel",10
-10124,"Mohedas de Granadilla",10
-10125,"Monroy",10
-10126,"Montánchez",10
-10127,"Montehermoso",10
-10128,"Moraleja",10
-10129,"Morcillo",10
-10130,"Navaconcejo",10
-10131,"Navalmoral de la Mata",10
-10132,"Navalvillar de Ibor",10
-10133,"Navas del Madroño",10
-10134,"Navezuelas",10
-10135,"Nuñomoral",10
-10136,"Oliva de Plasencia",10
-10137,"Palomero",10
-10138,"Pasarón de la Vera",10
-10139,"Pedroso de Acim",10
-10140,"Peraleda de la Mata",10
-10141,"Peraleda de San Román",10
-10142,"Perales del Puerto",10
-10143,"Pescueza",10
-10144,"Pesga, La",10
-10145,"Piedras Albas",10
-10146,"Pinofranqueado",10
-10147,"Piornal",10
-10148,"Plasencia",10
-10149,"Plasenzuela",10
-10150,"Portaje",10
-10151,"Portezuelo",10
-10152,"Pozuelo de Zarzón",10
-10153,"Puerto de Santa Cruz",10
-10154,"Rebollar",10
-10155,"Riolobos",10
-10156,"Robledillo de Gata",10
-10157,"Robledillo de la Vera",10
-10158,"Robledillo de Trujillo",10
-10159,"Robledollano",10
-10160,"Romangordo",10
-10161,"Ruanes",10
-10162,"Salorino",10
-10163,"Salvatierra de Santiago",10
-10164,"San Martín de Trevejo",10
-10165,"Santa Ana",10
-10166,"Santa Cruz de la Sierra",10
-10167,"Santa Cruz de Paniagua",10
-10168,"Santa Marta de Magasca",10
-10169,"Santiago de Alcántara",10
-10170,"Santiago del Campo",10
-10171,"Santibáñez el Alto",10
-10172,"Santibáñez el Bajo",10
-10173,"Saucedilla",10
-10174,"Segura de Toro",10
-10175,"Serradilla",10
-10176,"Serrejón",10
-10177,"Sierra de Fuentes",10
-10178,"Talaván",10
-10179,"Talaveruela de la Vera",10
-10180,"Talayuela",10
-10181,"Tejeda de Tiétar",10
-10182,"Toril",10
-10183,"Tornavacas",10
-10184,"Torno, El",10
-10185,"Torrecilla de los Ángeles",10
-10186,"Torrecillas de la Tiesa",10
-10187,"Torre de Don Miguel",10
-10188,"Torre de Santa María",10
-10189,"Torrejoncillo",10
-10190,"Torrejón el Rubio",10
-10191,"Torremenga",10
-10192,"Torremocha",10
-10193,"Torreorgaz",10
-10194,"Torrequemada",10
-10195,"Trujillo",10
-10196,"Valdastillas",10
-10197,"Valdecañas de Tajo",10
-10198,"Valdefuentes",10
-10199,"Valdehúncar",10
-10200,"Valdelacasa de Tajo",10
-10201,"Valdemorales",10
-10202,"Valdeobispo",10
-10203,"Valencia de Alcántara",10
-10204,"Valverde de la Vera",10
-10205,"Valverde del Fresno",10
-10206,"Viandar de la Vera",10
-10207,"Villa del Campo",10
-10208,"Villa del Rey",10
-10209,"Villamesías",10
-10210,"Villamiel",10
-10211,"Villanueva de la Sierra",10
-10212,"Villanueva de la Vera",10
-10213,"Villar del Pedroso",10
-10214,"Villar de Plasencia",10
-10215,"Villasbuenas de Gata",10
-10216,"Zarza de Granadilla",10
-10217,"Zarza de Montánchez",10
-10218,"Zarza la Mayor",10
-10219,"Zorita",10
-10901,"Rosalejo",10
-10902,"Vegaviana",10
-10903,"Alagón del Río",10
-10904,"Tiétar",10
-10905,"Pueblonuevo de Miramontes",10
-11001,"Alcalá de los Gazules",11
-11002,"Alcalá del Valle",11
-11003,"Algar",11
-11004,"Algeciras",11
-11005,"Algodonales",11
-11006,"Arcos de la Frontera",11
-11007,"Barbate",11
-11008,"Barrios, Los",11
-11009,"Benaocaz",11
-11010,"Bornos",11
-11011,"Bosque, El",11
-11012,"Cádiz",11
-11013,"Castellar de la Frontera",11
-11014,"Conil de la Frontera",11
-11015,"Chiclana de la Frontera",11
-11016,"Chipiona",11
-11017,"Espera",11
-11018,"Gastor, El",11
-11019,"Grazalema",11
-11020,"Jerez de la Frontera",11
-11021,"Jimena de la Frontera",11
-11022,"Línea de la Concepción, La",11
-11023,"Medina-Sidonia",11
-11024,"Olvera",11
-11025,"Paterna de Rivera",11
-11026,"Prado del Rey",11
-11027,"Puerto de Santa María, El",11
-11028,"Puerto Real",11
-11029,"Puerto Serrano",11
-11030,"Rota",11
-11031,"San Fernando",11
-11032,"Sanlúcar de Barrameda",11
-11033,"San Roque",11
-11034,"Setenil de las Bodegas",11
-11035,"Tarifa",11
-11036,"Torre Alháquime",11
-11037,"Trebujena",11
-11038,"Ubrique",11
-11039,"Vejer de la Frontera",11
-11040,"Villaluenga del Rosario",11
-11041,"Villamartín",11
-11042,"Zahara",11
-11901,"Benalup-Casas Viejas",11
-11902,"San José del Valle",11
-12001,"Atzeneta del Maestrat",12
-12002,"Aín",12
-12003,"Albocàsser",12
-12004,"Alcalà de Xivert",12
-12005,"Alcora, l'",12
-12006,"Alcudia de Veo",12
-12007,"Alfondeguilla",12
-12008,"Algimia de Almonacid",12
-12009,"Almassora",12
-12010,"Almedíjar",12
-12011,"Almenara",12
-12012,"Altura",12
-12013,"Arañuel",12
-12014,"Ares del Maestrat",12
-12015,"Argelita",12
-12016,"Artana",12
-12017,"Ayódar",12
-12018,"Azuébar",12
-12020,"Barracas",12
-12021,"Betxí",12
-12022,"Bejís",12
-12024,"Benafer",12
-12025,"Benafigos",12
-12026,"Benassal",12
-12027,"Benicarló",12
-12028,"Benicasim/Benicàssim",12
-12029,"Benlloch",12
-12031,"Borriol",12
-12032,"Borriana/Burriana",12
-12033,"Cabanes",12
-12034,"Càlig",12
-12036,"Canet lo Roig",12
-12037,"Castell de Cabres",12
-12038,"Castellfort",12
-12039,"Castellnovo",12
-12040,"Castellón de la Plana/Castelló de la Plana",12
-12041,"Castillo de Villamalefa",12
-12042,"Catí",12
-12043,"Caudiel",12
-12044,"Cervera del Maestre",12
-12045,"Cinctorres",12
-12046,"Cirat",12
-12048,"Cortes de Arenoso",12
-12049,"Costur",12
-12050,"Coves de Vinromà, les",12
-12051,"Culla",12
-12052,"Xert",12
-12053,"Chilches/Xilxes",12
-12055,"Chodos/Xodos",12
-12056,"Chóvar",12
-12057,"Eslida",12
-12058,"Espadilla",12
-12059,"Fanzara",12
-12060,"Figueroles",12
-12061,"Forcall",12
-12063,"Fuente la Reina",12
-12064,"Fuentes de Ayódar",12
-12065,"Gaibiel",12
-12067,"Geldo",12
-12068,"Herbés",12
-12069,"Higueras",12
-12070,"Jana, la",12
-12071,"Jérica",12
-12072,"Llucena/Lucena del Cid",12
-12073,"Ludiente",12
-12074,"Llosa, la",12
-12075,"Mata de Morella, la",12
-12076,"Matet",12
-12077,"Moncofa",12
-12078,"Montán",12
-12079,"Montanejos",12
-12080,"Morella",12
-12081,"Navajas",12
-12082,"Nules",12
-12083,"Olocau del Rey",12
-12084,"Onda",12
-12085,"Oropesa del Mar/Orpesa",12
-12087,"Palanques",12
-12088,"Pavías",12
-12089,"Peníscola/Peñíscola",12
-12090,"Pina de Montalgrao",12
-12091,"Portell de Morella",12
-12092,"Puebla de Arenoso",12
-12093,"Pobla de Benifassà, la",12
-12094,"Pobla Tornesa, la",12
-12095,"Ribesalbes",12
-12096,"Rossell",12
-12097,"Sacañet",12
-12098,"Salzadella, la",12
-12099,"Sant Jordi/San Jorge",12
-12100,"Sant Mateu",12
-12101,"San Rafael del Río",12
-12102,"Santa Magdalena de Pulpis",12
-12103,"Serratella, la",12
-12104,"Segorbe",12
-12105,"Sierra Engarcerán",12
-12106,"Soneja",12
-12107,"Sot de Ferrer",12
-12108,"Sueras/Suera",12
-12109,"Tales",12
-12110,"Teresa",12
-12111,"Tírig",12
-12112,"Todolella",12
-12113,"Toga",12
-12114,"Torás",12
-12115,"Toro, El",12
-12116,"Torralba del Pinar",12
-12117,"Torreblanca",12
-12118,"Torrechiva",12
-12119,"Torre d'En Besora, la",12
-12120,"Torre d'en Doménec, la",12
-12121,"Traiguera",12
-12122,"Useras/Useres, les",12
-12123,"Vallat",12
-12124,"Vall d'Alba",12
-12125,"Vall de Almonacid",12
-12126,"Vall d'Uixó, la",12
-12127,"Vallibona",12
-12128,"Vilafamés",12
-12129,"Villafranca del Cid/Vilafranca",12
-12130,"Villahermosa del Río",12
-12131,"Villamalur",12
-12132,"Vilanova d'Alcolea",12
-12133,"Villanueva de Viver",12
-12134,"Vilar de Canes",12
-12135,"Vila-real",12
-12136,"Vilavella, la",12
-12137,"Villores",12
-12138,"Vinaròs",12
-12139,"Vistabella del Maestrat",12
-12140,"Viver",12
-12141,"Zorita del Maestrazgo",12
-12142,"Zucaina",12
-12901,"Alqueries, les/Alquerías del Niño Perdido",12
-12902,"Sant Joan de Moró",12
-13001,"Abenójar",13
-13002,"Agudo",13
-13003,"Alamillo",13
-13004,"Albaladejo",13
-13005,"Alcázar de San Juan",13
-13006,"Alcoba",13
-13007,"Alcolea de Calatrava",13
-13008,"Alcubillas",13
-13009,"Aldea del Rey",13
-13010,"Alhambra",13
-13011,"Almadén",13
-13012,"Almadenejos",13
-13013,"Almagro",13
-13014,"Almedina",13
-13015,"Almodóvar del Campo",13
-13016,"Almuradiel",13
-13017,"Anchuras",13
-13018,"Arenas de San Juan",13
-13019,"Argamasilla de Alba",13
-13020,"Argamasilla de Calatrava",13
-13021,"Arroba de los Montes",13
-13022,"Ballesteros de Calatrava",13
-13023,"Bolaños de Calatrava",13
-13024,"Brazatortas",13
-13025,"Cabezarados",13
-13026,"Cabezarrubias del Puerto",13
-13027,"Calzada de Calatrava",13
-13028,"Campo de Criptana",13
-13029,"Cañada de Calatrava",13
-13030,"Caracuel de Calatrava",13
-13031,"Carrión de Calatrava",13
-13032,"Carrizosa",13
-13033,"Castellar de Santiago",13
-13034,"Ciudad Real",13
-13035,"Corral de Calatrava",13
-13036,"Cortijos, Los",13
-13037,"Cózar",13
-13038,"Chillón",13
-13039,"Daimiel",13
-13040,"Fernán Caballero",13
-13041,"Fontanarejo",13
-13042,"Fuencaliente",13
-13043,"Fuenllana",13
-13044,"Fuente el Fresno",13
-13045,"Granátula de Calatrava",13
-13046,"Guadalmez",13
-13047,"Herencia",13
-13048,"Hinojosas de Calatrava",13
-13049,"Horcajo de los Montes",13
-13050,"Labores, Las",13
-13051,"Luciana",13
-13052,"Malagón",13
-13053,"Manzanares",13
-13054,"Membrilla",13
-13055,"Mestanza",13
-13056,"Miguelturra",13
-13057,"Montiel",13
-13058,"Moral de Calatrava",13
-13059,"Navalpino",13
-13060,"Navas de Estena",13
-13061,"Pedro Muñoz",13
-13062,"Picón",13
-13063,"Piedrabuena",13
-13064,"Poblete",13
-13065,"Porzuna",13
-13066,"Pozuelo de Calatrava",13
-13067,"Pozuelos de Calatrava, Los",13
-13068,"Puebla de Don Rodrigo",13
-13069,"Puebla del Príncipe",13
-13070,"Puerto Lápice",13
-13071,"Puertollano",13
-13072,"Retuerta del Bullaque",13
-13073,"Saceruela",13
-13074,"San Carlos del Valle",13
-13075,"San Lorenzo de Calatrava",13
-13076,"Santa Cruz de los Cáñamos",13
-13077,"Santa Cruz de Mudela",13
-13078,"Socuéllamos",13
-13079,"Solana, La",13
-13080,"Solana del Pino",13
-13081,"Terrinches",13
-13082,"Tomelloso",13
-13083,"Torralba de Calatrava",13
-13084,"Torre de Juan Abad",13
-13085,"Torrenueva",13
-13086,"Valdemanco del Esteras",13
-13087,"Valdepeñas",13
-13088,"Valenzuela de Calatrava",13
-13089,"Villahermosa",13
-13090,"Villamanrique",13
-13091,"Villamayor de Calatrava",13
-13092,"Villanueva de la Fuente",13
-13093,"Villanueva de los Infantes",13
-13094,"Villanueva de San Carlos",13
-13095,"Villar del Pozo",13
-13096,"Villarrubia de los Ojos",13
-13097,"Villarta de San Juan",13
-13098,"Viso del Marqués",13
-13901,"Robledo, El",13
-13902,"Ruidera",13
-13903,"Arenales de San Gregorio",13
-13904,"Llanos del Caudillo",13
-14001,"Adamuz",14
-14002,"Aguilar de la Frontera",14
-14003,"Alcaracejos",14
-14004,"Almedinilla",14
-14005,"Almodóvar del Río",14
-14006,"Añora",14
-14007,"Baena",14
-14008,"Belalcázar",14
-14009,"Belmez",14
-14010,"Benamejí",14
-14011,"Blázquez, Los",14
-14012,"Bujalance",14
-14013,"Cabra",14
-14014,"Cañete de las Torres",14
-14015,"Carcabuey",14
-14016,"Cardeña",14
-14017,"Carlota, La",14
-14018,"Carpio, El",14
-14019,"Castro del Río",14
-14020,"Conquista",14
-14021,"Córdoba",14
-14022,"Doña Mencía",14
-14023,"Dos Torres",14
-14024,"Encinas Reales",14
-14025,"Espejo",14
-14026,"Espiel",14
-14027,"Fernán-Núñez",14
-14028,"Fuente la Lancha",14
-14029,"Fuente Obejuna",14
-14030,"Fuente Palmera",14
-14031,"Fuente-Tójar",14
-14032,"Granjuela, La",14
-14033,"Guadalcázar",14
-14034,"Guijo, El",14
-14035,"Hinojosa del Duque",14
-14036,"Hornachuelos",14
-14037,"Iznájar",14
-14038,"Lucena",14
-14039,"Luque",14
-14040,"Montalbán de Córdoba",14
-14041,"Montemayor",14
-14042,"Montilla",14
-14043,"Montoro",14
-14044,"Monturque",14
-14045,"Moriles",14
-14046,"Nueva Carteya",14
-14047,"Obejo",14
-14048,"Palenciana",14
-14049,"Palma del Río",14
-14050,"Pedro Abad",14
-14051,"Pedroche",14
-14052,"Peñarroya-Pueblonuevo",14
-14053,"Posadas",14
-14054,"Pozoblanco",14
-14055,"Priego de Córdoba",14
-14056,"Puente Genil",14
-14057,"Rambla, La",14
-14058,"Rute",14
-14059,"San Sebastián de los Ballesteros",14
-14060,"Santaella",14
-14061,"Santa Eufemia",14
-14062,"Torrecampo",14
-14063,"Valenzuela",14
-14064,"Valsequillo",14
-14065,"Victoria, La",14
-14066,"Villa del Río",14
-14067,"Villafranca de Córdoba",14
-14068,"Villaharta",14
-14069,"Villanueva de Córdoba",14
-14070,"Villanueva del Duque",14
-14071,"Villanueva del Rey",14
-14072,"Villaralto",14
-14073,"Villaviciosa de Córdoba",14
-14074,"Viso, El",14
-14075,"Zuheros",14
-15001,"Abegondo",15
-15002,"Ames",15
-15003,"Aranga",15
-15004,"Ares",15
-15005,"Arteixo",15
-15006,"Arzúa",15
-15007,"Baña, A",15
-15008,"Bergondo",15
-15009,"Betanzos",15
-15010,"Boimorto",15
-15011,"Boiro",15
-15012,"Boqueixón",15
-15013,"Brión",15
-15014,"Cabana de Bergantiños",15
-15015,"Cabanas",15
-15016,"Camariñas",15
-15017,"Cambre",15
-15018,"Capela, A",15
-15019,"Carballo",15
-15020,"Carnota",15
-15021,"Carral",15
-15022,"Cedeira",15
-15023,"Cee",15
-15024,"Cerceda",15
-15025,"Cerdido",15
-15026,"Cesuras",15
-15027,"Coirós",15
-15028,"Corcubión",15
-15029,"Coristanco",15
-15030,"Coruña, A",15
-15031,"Culleredo",15
-15032,"Curtis",15
-15033,"Dodro",15
-15034,"Dumbría",15
-15035,"Fene",15
-15036,"Ferrol",15
-15037,"Fisterra",15
-15038,"Frades",15
-15039,"Irixoa",15
-15040,"Laxe",15
-15041,"Laracha, A",15
-15042,"Lousame",15
-15043,"Malpica de Bergantiños",15
-15044,"Mañón",15
-15045,"Mazaricos",15
-15046,"Melide",15
-15047,"Mesía",15
-15048,"Miño",15
-15049,"Moeche",15
-15050,"Monfero",15
-15051,"Mugardos",15
-15052,"Muxía",15
-15053,"Muros",15
-15054,"Narón",15
-15055,"Neda",15
-15056,"Negreira",15
-15057,"Noia",15
-15058,"Oleiros",15
-15059,"Ordes",15
-15060,"Oroso",15
-15061,"Ortigueira",15
-15062,"Outes",15
-15063,"Oza dos Ríos",15
-15064,"Paderne",15
-15065,"Padrón",15
-15066,"Pino, O",15
-15067,"Pobra do Caramiñal, A",15
-15068,"Ponteceso",15
-15069,"Pontedeume",15
-15070,"Pontes de García Rodríguez, As",15
-15071,"Porto do Son",15
-15072,"Rianxo",15
-15073,"Ribeira",15
-15074,"Rois",15
-15075,"Sada",15
-15076,"San Sadurniño",15
-15077,"Santa Comba",15
-15078,"Santiago de Compostela",15
-15079,"Santiso",15
-15080,"Sobrado",15
-15081,"Somozas, As",15
-15082,"Teo",15
-15083,"Toques",15
-15084,"Tordoia",15
-15085,"Touro",15
-15086,"Trazo",15
-15087,"Valdoviño",15
-15088,"Val do Dubra",15
-15089,"Vedra",15
-15090,"Vilasantar",15
-15091,"Vilarmaior",15
-15092,"Vimianzo",15
-15093,"Zas",15
-15901,"Cariño",15
-15902,"Oza-Cesuras",15
-16001,"Abia de la Obispalía",16
-16002,"Acebrón, El",16
-16003,"Alarcón",16
-16004,"Albaladejo del Cuende",16
-16005,"Albalate de las Nogueras",16
-16006,"Albendea",16
-16007,"Alberca de Záncara, La",16
-16008,"Alcalá de la Vega",16
-16009,"Alcantud",16
-16010,"Alcázar del Rey",16
-16011,"Alcohujate",16
-16012,"Alconchel de la Estrella",16
-16013,"Algarra",16
-16014,"Aliaguilla",16
-16015,"Almarcha, La",16
-16016,"Almendros",16
-16017,"Almodóvar del Pinar",16
-16018,"Almonacid del Marquesado",16
-16019,"Altarejos",16
-16020,"Arandilla del Arroyo",16
-16022,"Arcos de la Sierra",16
-16023,"Chillarón de Cuenca",16
-16024,"Arguisuelas",16
-16025,"Arrancacepas",16
-16026,"Atalaya del Cañavate",16
-16027,"Barajas de Melo",16
-16029,"Barchín del Hoyo",16
-16030,"Bascuñana de San Pedro",16
-16031,"Beamud",16
-16032,"Belinchón",16
-16033,"Belmonte",16
-16034,"Belmontejo",16
-16035,"Beteta",16
-16036,"Boniches",16
-16038,"Buciegas",16
-16039,"Buenache de Alarcón",16
-16040,"Buenache de la Sierra",16
-16041,"Buendía",16
-16042,"Campillo de Altobuey",16
-16043,"Campillos-Paravientos",16
-16044,"Campillos-Sierra",16
-16045,"Canalejas del Arroyo",16
-16046,"Cañada del Hoyo",16
-16047,"Cañada Juncosa",16
-16048,"Cañamares",16
-16049,"Cañavate, El",16
-16050,"Cañaveras",16
-16051,"Cañaveruelas",16
-16052,"Cañete",16
-16053,"Cañizares",16
-16055,"Carboneras de Guadazaón",16
-16056,"Cardenete",16
-16057,"Carrascosa",16
-16058,"Carrascosa de Haro",16
-16060,"Casas de Benítez",16
-16061,"Casas de Fernando Alonso",16
-16062,"Casas de Garcimolina",16
-16063,"Casas de Guijarro",16
-16064,"Casas de Haro",16
-16065,"Casas de los Pinos",16
-16066,"Casasimarro",16
-16067,"Castejón",16
-16068,"Castillejo de Iniesta",16
-16070,"Castillejo-Sierra",16
-16071,"Castillo-Albaráñez",16
-16072,"Castillo de Garcimuñoz",16
-16073,"Cervera del Llano",16
-16074,"Cierva, La",16
-16078,"Cuenca",16
-16079,"Cueva del Hierro",16
-16081,"Chumillas",16
-16082,"Enguídanos",16
-16083,"Fresneda de Altarejos",16
-16084,"Fresneda de la Sierra",16
-16085,"Frontera, La",16
-16086,"Fuente de Pedro Naharro",16
-16087,"Fuentelespino de Haro",16
-16088,"Fuentelespino de Moya",16
-16089,"Fuentes",16
-16091,"Fuertescusa",16
-16092,"Gabaldón",16
-16093,"Garaballa",16
-16094,"Gascueña",16
-16095,"Graja de Campalbo",16
-16096,"Graja de Iniesta",16
-16097,"Henarejos",16
-16098,"Herrumblar, El",16
-16099,"Hinojosa, La",16
-16100,"Hinojosos, Los",16
-16101,"Hito, El",16
-16102,"Honrubia",16
-16103,"Hontanaya",16
-16104,"Hontecillas",16
-16106,"Horcajo de Santiago",16
-16107,"Huélamo",16
-16108,"Huelves",16
-16109,"Huérguina",16
-16110,"Huerta de la Obispalía",16
-16111,"Huerta del Marquesado",16
-16112,"Huete",16
-16113,"Iniesta",16
-16115,"Laguna del Marquesado",16
-16116,"Lagunaseca",16
-16117,"Landete",16
-16118,"Ledaña",16
-16119,"Leganiel",16
-16121,"Majadas, Las",16
-16122,"Mariana",16
-16123,"Masegosa",16
-16124,"Mesas, Las",16
-16125,"Minglanilla",16
-16126,"Mira",16
-16128,"Monreal del Llano",16
-16129,"Montalbanejo",16
-16130,"Montalbo",16
-16131,"Monteagudo de las Salinas",16
-16132,"Mota de Altarejos",16
-16133,"Mota del Cuervo",16
-16134,"Motilla del Palancar",16
-16135,"Moya",16
-16137,"Narboneta",16
-16139,"Olivares de Júcar",16
-16140,"Olmeda de la Cuesta",16
-16141,"Olmeda del Rey",16
-16142,"Olmedilla de Alarcón",16
-16143,"Olmedilla de Eliz",16
-16145,"Osa de la Vega",16
-16146,"Pajarón",16
-16147,"Pajaroncillo",16
-16148,"Palomares del Campo",16
-16149,"Palomera",16
-16150,"Paracuellos",16
-16151,"Paredes",16
-16152,"Parra de las Vegas, La",16
-16153,"Pedernoso, El",16
-16154,"Pedroñeras, Las",16
-16155,"Peral, El",16
-16156,"Peraleja, La",16
-16157,"Pesquera, La",16
-16158,"Picazo, El",16
-16159,"Pinarejo",16
-16160,"Pineda de Gigüela",16
-16161,"Piqueras del Castillo",16
-16162,"Portalrubio de Guadamejud",16
-16163,"Portilla",16
-16165,"Poyatos",16
-16166,"Pozoamargo",16
-16167,"Pozorrubio de Santiago",16
-16169,"Pozuelo, El",16
-16170,"Priego",16
-16171,"Provencio, El",16
-16172,"Puebla de Almenara",16
-16173,"Valle de Altomira, El",16
-16174,"Puebla del Salvador",16
-16175,"Quintanar del Rey",16
-16176,"Rada de Haro",16
-16177,"Reíllo",16
-16181,"Rozalén del Monte",16
-16185,"Saceda-Trasierra",16
-16186,"Saelices",16
-16187,"Salinas del Manzano",16
-16188,"Salmeroncillos",16
-16189,"Salvacañete",16
-16190,"San Clemente",16
-16191,"San Lorenzo de la Parrilla",16
-16192,"San Martín de Boniches",16
-16193,"San Pedro Palmiches",16
-16194,"Santa Cruz de Moya",16
-16195,"Santa María del Campo Rus",16
-16196,"Santa María de los Llanos",16
-16197,"Santa María del Val",16
-16198,"Sisante",16
-16199,"Solera de Gabaldón",16
-16202,"Talayuelas",16
-16203,"Tarancón",16
-16204,"Tébar",16
-16205,"Tejadillos",16
-16206,"Tinajas",16
-16209,"Torralba",16
-16211,"Torrejoncillo del Rey",16
-16212,"Torrubia del Campo",16
-16213,"Torrubia del Castillo",16
+insert into Spain.Municipios values(1001,"Alegría-Dulantzi",1
+insert into Spain.Municipios values(1002,"Amurrio",1
+insert into Spain.Municipios values(1003,"Aramaio",1
+insert into Spain.Municipios values(1004,"Artziniega",1
+insert into Spain.Municipios values(1006,"Armiñón",1
+insert into Spain.Municipios values(1008,"Arratzua-Ubarrundia",1
+insert into Spain.Municipios values(1009,"Asparrena",1
+insert into Spain.Municipios values(1010,"Ayala/Aiara",1
+insert into Spain.Municipios values(1011,"Baños de Ebro/Mañueta",1
+insert into Spain.Municipios values(1013,"Barrundia",1
+insert into Spain.Municipios values(1014,"Berantevilla",1
+insert into Spain.Municipios values(1016,"Bernedo",1
+insert into Spain.Municipios values(1017,"Campezo/Kanpezu",1
+insert into Spain.Municipios values(1018,"Zigoitia",1
+insert into Spain.Municipios values(1019,"Kripan",1
+insert into Spain.Municipios values(1020,"Kuartango",1
+insert into Spain.Municipios values(1021,"Elburgo/Burgelu",1
+insert into Spain.Municipios values(1022,"Elciego",1
+insert into Spain.Municipios values(1023,"Elvillar/Bilar",1
+insert into Spain.Municipios values(1027,"Iruraiz-Gauna",1
+insert into Spain.Municipios values(1028,"Labastida/Bastida",1
+insert into Spain.Municipios values(1030,"Lagrán",1
+insert into Spain.Municipios values(1031,"Laguardia",1
+insert into Spain.Municipios values(1032,"Lanciego/Lantziego",1
+insert into Spain.Municipios values(1033,"Lapuebla de Labarca",1
+insert into Spain.Municipios values(1034,"Leza",1
+insert into Spain.Municipios values(1036,"Laudio/Llodio",1
+insert into Spain.Municipios values(1037,"Arraia-Maeztu",1
+insert into Spain.Municipios values(1039,"Moreda de Álava/Moreda Araba",1
+insert into Spain.Municipios values(1041,"Navaridas",1
+insert into Spain.Municipios values(1042,"Okondo",1
+insert into Spain.Municipios values(1043,"Oyón-Oion",1
+insert into Spain.Municipios values(1044,"Peñacerrada-Urizaharra",1
+insert into Spain.Municipios values(1046,"Erriberagoitia/Ribera Alta",1
+insert into Spain.Municipios values(1047,"Ribera Baja/Erribera Beitia",1
+insert into Spain.Municipios values(1049,"Añana",1
+insert into Spain.Municipios values(1051,"Agurain/Salvatierra",1
+insert into Spain.Municipios values(1052,"Samaniego",1
+insert into Spain.Municipios values(1053,"San Millán/Donemiliaga",1
+insert into Spain.Municipios values(1054,"Urkabustaiz",1
+insert into Spain.Municipios values(1055,"Valdegovía/Gaubea",1
+insert into Spain.Municipios values(1056,"Harana/Valle de Arana",1
+insert into Spain.Municipios values(1057,"Villabuena de Álava/Eskuernaga",1
+insert into Spain.Municipios values(1058,"Legutio",1
+insert into Spain.Municipios values(1059,"Vitoria-Gasteiz",1
+insert into Spain.Municipios values(1060,"Yécora/Iekora",1
+insert into Spain.Municipios values(1061,"Zalduondo",1
+insert into Spain.Municipios values(1062,"Zambrana",1
+insert into Spain.Municipios values(1063,"Zuia",1
+insert into Spain.Municipios values(1901,"Iruña Oka/Iruña de Oca",1
+insert into Spain.Municipios values(1902,"Lantarón",1
+insert into Spain.Municipios values(2001,"Abengibre",2
+insert into Spain.Municipios values(2002,"Alatoz",2
+insert into Spain.Municipios values(2003,"Albacete",2
+insert into Spain.Municipios values(2004,"Albatana",2
+insert into Spain.Municipios values(2005,"Alborea",2
+insert into Spain.Municipios values(2006,"Alcadozo",2
+insert into Spain.Municipios values(2007,"Alcalá del Júcar",2
+insert into Spain.Municipios values(2008,"Alcaraz",2
+insert into Spain.Municipios values(2009,"Almansa",2
+insert into Spain.Municipios values(2010,"Alpera",2
+insert into Spain.Municipios values(2011,"Ayna",2
+insert into Spain.Municipios values(2012,"Balazote",2
+insert into Spain.Municipios values(2013,"Balsa de Ves",2
+insert into Spain.Municipios values(2014,"Ballestero, El",2
+insert into Spain.Municipios values(2015,"Barrax",2
+insert into Spain.Municipios values(2016,"Bienservida",2
+insert into Spain.Municipios values(2017,"Bogarra",2
+insert into Spain.Municipios values(2018,"Bonete",2
+insert into Spain.Municipios values(2019,"Bonillo, El",2
+insert into Spain.Municipios values(2020,"Carcelén",2
+insert into Spain.Municipios values(2021,"Casas de Juan Núñez",2
+insert into Spain.Municipios values(2022,"Casas de Lázaro",2
+insert into Spain.Municipios values(2023,"Casas de Ves",2
+insert into Spain.Municipios values(2024,"Casas-Ibáñez",2
+insert into Spain.Municipios values(2025,"Caudete",2
+insert into Spain.Municipios values(2026,"Cenizate",2
+insert into Spain.Municipios values(2027,"Corral-Rubio",2
+insert into Spain.Municipios values(2028,"Cotillas",2
+insert into Spain.Municipios values(2029,"Chinchilla de Monte-Aragón",2
+insert into Spain.Municipios values(2030,"Elche de la Sierra",2
+insert into Spain.Municipios values(2031,"Férez",2
+insert into Spain.Municipios values(2032,"Fuensanta",2
+insert into Spain.Municipios values(2033,"Fuente-Álamo",2
+insert into Spain.Municipios values(2034,"Fuentealbilla",2
+insert into Spain.Municipios values(2035,"Gineta, La",2
+insert into Spain.Municipios values(2036,"Golosalvo",2
+insert into Spain.Municipios values(2037,"Hellín",2
+insert into Spain.Municipios values(2038,"Herrera, La",2
+insert into Spain.Municipios values(2039,"Higueruela",2
+insert into Spain.Municipios values(2040,"Hoya-Gonzalo",2
+insert into Spain.Municipios values(2041,"Jorquera",2
+insert into Spain.Municipios values(2042,"Letur",2
+insert into Spain.Municipios values(2043,"Lezuza",2
+insert into Spain.Municipios values(2044,"Liétor",2
+insert into Spain.Municipios values(2045,"Madrigueras",2
+insert into Spain.Municipios values(2046,"Mahora",2
+insert into Spain.Municipios values(2047,"Masegoso",2
+insert into Spain.Municipios values(2048,"Minaya",2
+insert into Spain.Municipios values(2049,"Molinicos",2
+insert into Spain.Municipios values(2050,"Montalvos",2
+insert into Spain.Municipios values(2051,"Montealegre del Castillo",2
+insert into Spain.Municipios values(2052,"Motilleja",2
+insert into Spain.Municipios values(2053,"Munera",2
+insert into Spain.Municipios values(2054,"Navas de Jorquera",2
+insert into Spain.Municipios values(2055,"Nerpio",2
+insert into Spain.Municipios values(2056,"Ontur",2
+insert into Spain.Municipios values(2057,"Ossa de Montiel",2
+insert into Spain.Municipios values(2058,"Paterna del Madera",2
+insert into Spain.Municipios values(2059,"Peñascosa",2
+insert into Spain.Municipios values(2060,"Peñas de San Pedro",2
+insert into Spain.Municipios values(2061,"Pétrola",2
+insert into Spain.Municipios values(2062,"Povedilla",2
+insert into Spain.Municipios values(2063,"Pozohondo",2
+insert into Spain.Municipios values(2064,"Pozo-Lorente",2
+insert into Spain.Municipios values(2065,"Pozuelo",2
+insert into Spain.Municipios values(2066,"Recueja, La",2
+insert into Spain.Municipios values(2067,"Riópar",2
+insert into Spain.Municipios values(2068,"Robledo",2
+insert into Spain.Municipios values(2069,"Roda, La",2
+insert into Spain.Municipios values(2070,"Salobre",2
+insert into Spain.Municipios values(2071,"San Pedro",2
+insert into Spain.Municipios values(2072,"Socovos",2
+insert into Spain.Municipios values(2073,"Tarazona de la Mancha",2
+insert into Spain.Municipios values(2074,"Tobarra",2
+insert into Spain.Municipios values(2075,"Valdeganga",2
+insert into Spain.Municipios values(2076,"Vianos",2
+insert into Spain.Municipios values(2077,"Villa de Ves",2
+insert into Spain.Municipios values(2078,"Villalgordo del Júcar",2
+insert into Spain.Municipios values(2079,"Villamalea",2
+insert into Spain.Municipios values(2080,"Villapalacios",2
+insert into Spain.Municipios values(2081,"Villarrobledo",2
+insert into Spain.Municipios values(2082,"Villatoya",2
+insert into Spain.Municipios values(2083,"Villavaliente",2
+insert into Spain.Municipios values(2084,"Villaverde de Guadalimar",2
+insert into Spain.Municipios values(2085,"Viveros",2
+insert into Spain.Municipios values(2086,"Yeste",2
+insert into Spain.Municipios values(2901,"Pozo Cañada",2
+insert into Spain.Municipios values(3001,"Atzúbia, l'",3
+insert into Spain.Municipios values(3002,"Agost",3
+insert into Spain.Municipios values(3003,"Agres",3
+insert into Spain.Municipios values(3004,"Aigües",3
+insert into Spain.Municipios values(3005,"Albatera",3
+insert into Spain.Municipios values(3006,"Alcalalí",3
+insert into Spain.Municipios values(3007,"Alcocer de Planes",3
+insert into Spain.Municipios values(3008,"Alcoleja",3
+insert into Spain.Municipios values(3009,"Alcoy/Alcoi",3
+insert into Spain.Municipios values(3010,"Alfafara",3
+insert into Spain.Municipios values(3011,"Alfàs del Pi, l'",3
+insert into Spain.Municipios values(3012,"Algorfa",3
+insert into Spain.Municipios values(3013,"Algueña",3
+insert into Spain.Municipios values(3014,"Alicante/Alacant",3
+insert into Spain.Municipios values(3015,"Almoradí",3
+insert into Spain.Municipios values(3016,"Almudaina",3
+insert into Spain.Municipios values(3017,"Alqueria d'Asnar, l'",3
+insert into Spain.Municipios values(3018,"Altea",3
+insert into Spain.Municipios values(3019,"Aspe",3
+insert into Spain.Municipios values(3020,"Balones",3
+insert into Spain.Municipios values(3021,"Banyeres de Mariola",3
+insert into Spain.Municipios values(3022,"Benasau",3
+insert into Spain.Municipios values(3023,"Beneixama",3
+insert into Spain.Municipios values(3024,"Benejúzar",3
+insert into Spain.Municipios values(3025,"Benferri",3
+insert into Spain.Municipios values(3026,"Beniarbeig",3
+insert into Spain.Municipios values(3027,"Beniardá",3
+insert into Spain.Municipios values(3028,"Beniarrés",3
+insert into Spain.Municipios values(3029,"Benigembla",3
+insert into Spain.Municipios values(3030,"Benidoleig",3
+insert into Spain.Municipios values(3031,"Benidorm",3
+insert into Spain.Municipios values(3032,"Benifallim",3
+insert into Spain.Municipios values(3033,"Benifato",3
+insert into Spain.Municipios values(3034,"Benijófar",3
+insert into Spain.Municipios values(3035,"Benilloba",3
+insert into Spain.Municipios values(3036,"Benillup",3
+insert into Spain.Municipios values(3037,"Benimantell",3
+insert into Spain.Municipios values(3038,"Benimarfull",3
+insert into Spain.Municipios values(3039,"Benimassot",3
+insert into Spain.Municipios values(3040,"Benimeli",3
+insert into Spain.Municipios values(3041,"Benissa",3
+insert into Spain.Municipios values(3042,"Benitachell/Poble Nou de Benitatxell, el",3
+insert into Spain.Municipios values(3043,"Biar",3
+insert into Spain.Municipios values(3044,"Bigastro",3
+insert into Spain.Municipios values(3045,"Bolulla",3
+insert into Spain.Municipios values(3046,"Busot",3
+insert into Spain.Municipios values(3047,"Calp",3
+insert into Spain.Municipios values(3048,"Callosa d'en Sarrià",3
+insert into Spain.Municipios values(3049,"Callosa de Segura",3
+insert into Spain.Municipios values(3050,"Campello, el",3
+insert into Spain.Municipios values(3051,"Campo de Mirra/Camp de Mirra, el",3
+insert into Spain.Municipios values(3052,"Cañada",3
+insert into Spain.Municipios values(3053,"Castalla",3
+insert into Spain.Municipios values(3054,"Castell de Castells",3
+insert into Spain.Municipios values(3055,"Catral",3
+insert into Spain.Municipios values(3056,"Cocentaina",3
+insert into Spain.Municipios values(3057,"Confrides",3
+insert into Spain.Municipios values(3058,"Cox",3
+insert into Spain.Municipios values(3059,"Crevillent",3
+insert into Spain.Municipios values(3060,"Quatretondeta",3
+insert into Spain.Municipios values(3061,"Daya Nueva",3
+insert into Spain.Municipios values(3062,"Daya Vieja",3
+insert into Spain.Municipios values(3063,"Dénia",3
+insert into Spain.Municipios values(3064,"Dolores",3
+insert into Spain.Municipios values(3065,"Elche/Elx",3
+insert into Spain.Municipios values(3066,"Elda",3
+insert into Spain.Municipios values(3067,"Facheca",3
+insert into Spain.Municipios values(3068,"Famorca",3
+insert into Spain.Municipios values(3069,"Finestrat",3
+insert into Spain.Municipios values(3070,"Formentera del Segura",3
+insert into Spain.Municipios values(3071,"Gata de Gorgos",3
+insert into Spain.Municipios values(3072,"Gaianes",3
+insert into Spain.Municipios values(3073,"Gorga",3
+insert into Spain.Municipios values(3074,"Granja de Rocamora",3
+insert into Spain.Municipios values(3075,"Castell de Guadalest, el",3
+insert into Spain.Municipios values(3076,"Guardamar del Segura",3
+insert into Spain.Municipios values(3077,"Fondó de les Neus, el/Hondón de las Nieves",3
+insert into Spain.Municipios values(3078,"Hondón de los Frailes",3
+insert into Spain.Municipios values(3079,"Ibi",3
+insert into Spain.Municipios values(3080,"Jacarilla",3
+insert into Spain.Municipios values(3081,"Xaló",3
+insert into Spain.Municipios values(3082,"Jávea/Xàbia",3
+insert into Spain.Municipios values(3083,"Jijona/Xixona",3
+insert into Spain.Municipios values(3084,"Lorcha/Orxa, l'",3
+insert into Spain.Municipios values(3085,"Llíber",3
+insert into Spain.Municipios values(3086,"Millena",3
+insert into Spain.Municipios values(3088,"Monforte del Cid",3
+insert into Spain.Municipios values(3089,"Monóvar/Monòver",3
+insert into Spain.Municipios values(3090,"Mutxamel",3
+insert into Spain.Municipios values(3091,"Murla",3
+insert into Spain.Municipios values(3092,"Muro de Alcoy",3
+insert into Spain.Municipios values(3093,"Novelda",3
+insert into Spain.Municipios values(3094,"Nucia, la",3
+insert into Spain.Municipios values(3095,"Ondara",3
+insert into Spain.Municipios values(3096,"Onil",3
+insert into Spain.Municipios values(3097,"Orba",3
+insert into Spain.Municipios values(3098,"Orxeta",3
+insert into Spain.Municipios values(3099,"Orihuela",3
+insert into Spain.Municipios values(3100,"Parcent",3
+insert into Spain.Municipios values(3101,"Pedreguer",3
+insert into Spain.Municipios values(3102,"Pego",3
+insert into Spain.Municipios values(3103,"Penàguila",3
+insert into Spain.Municipios values(3104,"Petrer",3
+insert into Spain.Municipios values(3105,"Pinós, el/Pinoso",3
+insert into Spain.Municipios values(3106,"Planes",3
+insert into Spain.Municipios values(3107,"Polop",3
+insert into Spain.Municipios values(3109,"Rafal",3
+insert into Spain.Municipios values(3110,"Ràfol d'Almúnia, el",3
+insert into Spain.Municipios values(3111,"Redován",3
+insert into Spain.Municipios values(3112,"Relleu",3
+insert into Spain.Municipios values(3113,"Rojales",3
+insert into Spain.Municipios values(3114,"Romana, la",3
+insert into Spain.Municipios values(3115,"Sagra",3
+insert into Spain.Municipios values(3116,"Salinas",3
+insert into Spain.Municipios values(3117,"Sanet y Negrals",3
+insert into Spain.Municipios values(3118,"San Fulgencio",3
+insert into Spain.Municipios values(3119,"Sant Joan d'Alacant",3
+insert into Spain.Municipios values(3120,"San Miguel de Salinas",3
+insert into Spain.Municipios values(3121,"Santa Pola",3
+insert into Spain.Municipios values(3122,"San Vicente del Raspeig/Sant Vicent del Raspeig",3
+insert into Spain.Municipios values(3123,"Sax",3
+insert into Spain.Municipios values(3124,"Sella",3
+insert into Spain.Municipios values(3125,"Senija",3
+insert into Spain.Municipios values(3127,"Tàrbena",3
+insert into Spain.Municipios values(3128,"Teulada",3
+insert into Spain.Municipios values(3129,"Tibi",3
+insert into Spain.Municipios values(3130,"Tollos",3
+insert into Spain.Municipios values(3131,"Tormos",3
+insert into Spain.Municipios values(3132,"Torremanzanas/Torre de les Maçanes, la",3
+insert into Spain.Municipios values(3133,"Torrevieja",3
+insert into Spain.Municipios values(3134,"Vall d'Alcalà, la",3
+insert into Spain.Municipios values(3135,"Vall d'Ebo, la",3
+insert into Spain.Municipios values(3136,"Vall de Gallinera",3
+insert into Spain.Municipios values(3137,"Vall de Laguar, la",3
+insert into Spain.Municipios values(3138,"Verger, el",3
+insert into Spain.Municipios values(3139,"Villajoyosa/Vila Joiosa, la",3
+insert into Spain.Municipios values(3140,"Villena",3
+insert into Spain.Municipios values(3901,"Poblets, els",3
+insert into Spain.Municipios values(3902,"Pilar de la Horadada",3
+insert into Spain.Municipios values(3903,"Montesinos, Los",3
+insert into Spain.Municipios values(3904,"San Isidro",3
+insert into Spain.Municipios values(4001,"Abla",4
+insert into Spain.Municipios values(4002,"Abrucena",4
+insert into Spain.Municipios values(4003,"Adra",4
+insert into Spain.Municipios values(4004,"Albanchez",4
+insert into Spain.Municipios values(4005,"Alboloduy",4
+insert into Spain.Municipios values(4006,"Albox",4
+insert into Spain.Municipios values(4007,"Alcolea",4
+insert into Spain.Municipios values(4008,"Alcóntar",4
+insert into Spain.Municipios values(4009,"Alcudia de Monteagud",4
+insert into Spain.Municipios values(4010,"Alhabia",4
+insert into Spain.Municipios values(4011,"Alhama de Almería",4
+insert into Spain.Municipios values(4012,"Alicún",4
+insert into Spain.Municipios values(4013,"Almería",4
+insert into Spain.Municipios values(4014,"Almócita",4
+insert into Spain.Municipios values(4015,"Alsodux",4
+insert into Spain.Municipios values(4016,"Antas",4
+insert into Spain.Municipios values(4017,"Arboleas",4
+insert into Spain.Municipios values(4018,"Armuña de Almanzora",4
+insert into Spain.Municipios values(4019,"Bacares",4
+insert into Spain.Municipios values(4020,"Bayárcal",4
+insert into Spain.Municipios values(4021,"Bayarque",4
+insert into Spain.Municipios values(4022,"Bédar",4
+insert into Spain.Municipios values(4023,"Beires",4
+insert into Spain.Municipios values(4024,"Benahadux",4
+insert into Spain.Municipios values(4026,"Benitagla",4
+insert into Spain.Municipios values(4027,"Benizalón",4
+insert into Spain.Municipios values(4028,"Bentarique",4
+insert into Spain.Municipios values(4029,"Berja",4
+insert into Spain.Municipios values(4030,"Canjáyar",4
+insert into Spain.Municipios values(4031,"Cantoria",4
+insert into Spain.Municipios values(4032,"Carboneras",4
+insert into Spain.Municipios values(4033,"Castro de Filabres",4
+insert into Spain.Municipios values(4034,"Cóbdar",4
+insert into Spain.Municipios values(4035,"Cuevas del Almanzora",4
+insert into Spain.Municipios values(4036,"Chercos",4
+insert into Spain.Municipios values(4037,"Chirivel",4
+insert into Spain.Municipios values(4038,"Dalías",4
+insert into Spain.Municipios values(4039,"Darrical",4
+insert into Spain.Municipios values(4041,"Enix",4
+insert into Spain.Municipios values(4043,"Felix",4
+insert into Spain.Municipios values(4044,"Fines",4
+insert into Spain.Municipios values(4045,"Fiñana",4
+insert into Spain.Municipios values(4046,"Fondón",4
+insert into Spain.Municipios values(4047,"Gádor",4
+insert into Spain.Municipios values(4048,"Gallardos, Los",4
+insert into Spain.Municipios values(4049,"Garrucha",4
+insert into Spain.Municipios values(4050,"Gérgal",4
+insert into Spain.Municipios values(4051,"Huécija",4
+insert into Spain.Municipios values(4052,"Huércal de Almería",4
+insert into Spain.Municipios values(4053,"Huércal-Overa",4
+insert into Spain.Municipios values(4054,"Íllar",4
+insert into Spain.Municipios values(4055,"Instinción",4
+insert into Spain.Municipios values(4056,"Laroya",4
+insert into Spain.Municipios values(4057,"Láujar de Andarax",4
+insert into Spain.Municipios values(4058,"Líjar",4
+insert into Spain.Municipios values(4059,"Lubrín",4
+insert into Spain.Municipios values(4060,"Lucainena de las Torres",4
+insert into Spain.Municipios values(4061,"Lúcar",4
+insert into Spain.Municipios values(4062,"Macael",4
+insert into Spain.Municipios values(4063,"María",4
+insert into Spain.Municipios values(4064,"Mojácar",4
+insert into Spain.Municipios values(4065,"Nacimiento",4
+insert into Spain.Municipios values(4066,"Níjar",4
+insert into Spain.Municipios values(4067,"Ohanes",4
+insert into Spain.Municipios values(4068,"Olula de Castro",4
+insert into Spain.Municipios values(4069,"Olula del Río",4
+insert into Spain.Municipios values(4070,"Oria",4
+insert into Spain.Municipios values(4071,"Padules",4
+insert into Spain.Municipios values(4072,"Partaloa",4
+insert into Spain.Municipios values(4073,"Paterna del Río",4
+insert into Spain.Municipios values(4074,"Pechina",4
+insert into Spain.Municipios values(4075,"Pulpí",4
+insert into Spain.Municipios values(4076,"Purchena",4
+insert into Spain.Municipios values(4077,"Rágol",4
+insert into Spain.Municipios values(4078,"Rioja",4
+insert into Spain.Municipios values(4079,"Roquetas de Mar",4
+insert into Spain.Municipios values(4080,"Santa Cruz de Marchena",4
+insert into Spain.Municipios values(4081,"Santa Fe de Mondújar",4
+insert into Spain.Municipios values(4082,"Senés",4
+insert into Spain.Municipios values(4083,"Serón",4
+insert into Spain.Municipios values(4084,"Sierro",4
+insert into Spain.Municipios values(4085,"Somontín",4
+insert into Spain.Municipios values(4086,"Sorbas",4
+insert into Spain.Municipios values(4087,"Suflí",4
+insert into Spain.Municipios values(4088,"Tabernas",4
+insert into Spain.Municipios values(4089,"Taberno",4
+insert into Spain.Municipios values(4090,"Tahal",4
+insert into Spain.Municipios values(4091,"Terque",4
+insert into Spain.Municipios values(4092,"Tíjola",4
+insert into Spain.Municipios values(4093,"Turre",4
+insert into Spain.Municipios values(4094,"Turrillas",4
+insert into Spain.Municipios values(4095,"Uleila del Campo",4
+insert into Spain.Municipios values(4096,"Urrácal",4
+insert into Spain.Municipios values(4097,"Velefique",4
+insert into Spain.Municipios values(4098,"Vélez-Blanco",4
+insert into Spain.Municipios values(4099,"Vélez-Rubio",4
+insert into Spain.Municipios values(4100,"Vera",4
+insert into Spain.Municipios values(4101,"Viator",4
+insert into Spain.Municipios values(4102,"Vícar",4
+insert into Spain.Municipios values(4103,"Zurgena",4
+insert into Spain.Municipios values(4901,"Tres Villas, Las",4
+insert into Spain.Municipios values(4902,"Ejido, El",4
+insert into Spain.Municipios values(4903,"Mojonera, La",4
+insert into Spain.Municipios values(4904,"Balanegra",4
+insert into Spain.Municipios values(5001,"Adanero",5
+insert into Spain.Municipios values(5002,"Adrada, La",5
+insert into Spain.Municipios values(5005,"Albornos",5
+insert into Spain.Municipios values(5007,"Aldeanueva de Santa Cruz",5
+insert into Spain.Municipios values(5008,"Aldeaseca",5
+insert into Spain.Municipios values(5010,"Aldehuela, La",5
+insert into Spain.Municipios values(5012,"Amavida",5
+insert into Spain.Municipios values(5013,"Arenal, El",5
+insert into Spain.Municipios values(5014,"Arenas de San Pedro",5
+insert into Spain.Municipios values(5015,"Arevalillo",5
+insert into Spain.Municipios values(5016,"Arévalo",5
+insert into Spain.Municipios values(5017,"Aveinte",5
+insert into Spain.Municipios values(5018,"Avellaneda",5
+insert into Spain.Municipios values(5019,"Ávila",5
+insert into Spain.Municipios values(5021,"Barco de Ávila, El",5
+insert into Spain.Municipios values(5022,"Barraco, El",5
+insert into Spain.Municipios values(5023,"Barromán",5
+insert into Spain.Municipios values(5024,"Becedas",5
+insert into Spain.Municipios values(5025,"Becedillas",5
+insert into Spain.Municipios values(5026,"Bercial de Zapardiel",5
+insert into Spain.Municipios values(5027,"Berlanas, Las",5
+insert into Spain.Municipios values(5029,"Bernuy-Zapardiel",5
+insert into Spain.Municipios values(5030,"Berrocalejo de Aragona",5
+insert into Spain.Municipios values(5033,"Blascomillán",5
+insert into Spain.Municipios values(5034,"Blasconuño de Matacabras",5
+insert into Spain.Municipios values(5035,"Blascosancho",5
+insert into Spain.Municipios values(5036,"Bohodón, El",5
+insert into Spain.Municipios values(5037,"Bohoyo",5
+insert into Spain.Municipios values(5038,"Bonilla de la Sierra",5
+insert into Spain.Municipios values(5039,"Brabos",5
+insert into Spain.Municipios values(5040,"Bularros",5
+insert into Spain.Municipios values(5041,"Burgohondo",5
+insert into Spain.Municipios values(5042,"Cabezas de Alambre",5
+insert into Spain.Municipios values(5043,"Cabezas del Pozo",5
+insert into Spain.Municipios values(5044,"Cabezas del Villar",5
+insert into Spain.Municipios values(5045,"Cabizuela",5
+insert into Spain.Municipios values(5046,"Canales",5
+insert into Spain.Municipios values(5047,"Candeleda",5
+insert into Spain.Municipios values(5048,"Cantiveros",5
+insert into Spain.Municipios values(5049,"Cardeñosa",5
+insert into Spain.Municipios values(5051,"Carrera, La",5
+insert into Spain.Municipios values(5052,"Casas del Puerto",5
+insert into Spain.Municipios values(5053,"Casasola",5
+insert into Spain.Municipios values(5054,"Casavieja",5
+insert into Spain.Municipios values(5055,"Casillas",5
+insert into Spain.Municipios values(5056,"Castellanos de Zapardiel",5
+insert into Spain.Municipios values(5057,"Cebreros",5
+insert into Spain.Municipios values(5058,"Cepeda la Mora",5
+insert into Spain.Municipios values(5059,"Cillán",5
+insert into Spain.Municipios values(5060,"Cisla",5
+insert into Spain.Municipios values(5061,"Colilla, La",5
+insert into Spain.Municipios values(5062,"Collado de Contreras",5
+insert into Spain.Municipios values(5063,"Collado del Mirón",5
+insert into Spain.Municipios values(5064,"Constanzana",5
+insert into Spain.Municipios values(5065,"Crespos",5
+insert into Spain.Municipios values(5066,"Cuevas del Valle",5
+insert into Spain.Municipios values(5067,"Chamartín",5
+insert into Spain.Municipios values(5069,"Donjimeno",5
+insert into Spain.Municipios values(5070,"Donvidas",5
+insert into Spain.Municipios values(5072,"Espinosa de los Caballeros",5
+insert into Spain.Municipios values(5073,"Flores de Ávila",5
+insert into Spain.Municipios values(5074,"Fontiveros",5
+insert into Spain.Municipios values(5075,"Fresnedilla",5
+insert into Spain.Municipios values(5076,"Fresno, El",5
+insert into Spain.Municipios values(5077,"Fuente el Saúz",5
+insert into Spain.Municipios values(5078,"Fuentes de Año",5
+insert into Spain.Municipios values(5079,"Gallegos de Altamiros",5
+insert into Spain.Municipios values(5080,"Gallegos de Sobrinos",5
+insert into Spain.Municipios values(5081,"Garganta del Villar",5
+insert into Spain.Municipios values(5082,"Gavilanes",5
+insert into Spain.Municipios values(5083,"Gemuño",5
+insert into Spain.Municipios values(5084,"Gilbuena",5
+insert into Spain.Municipios values(5085,"Gil García",5
+insert into Spain.Municipios values(5086,"Gimialcón",5
+insert into Spain.Municipios values(5087,"Gotarrendura",5
+insert into Spain.Municipios values(5088,"Grandes y San Martín",5
+insert into Spain.Municipios values(5089,"Guisando",5
+insert into Spain.Municipios values(5090,"Gutierre-Muñoz",5
+insert into Spain.Municipios values(5092,"Hernansancho",5
+insert into Spain.Municipios values(5093,"Herradón de Pinares",5
+insert into Spain.Municipios values(5094,"Herreros de Suso",5
+insert into Spain.Municipios values(5095,"Higuera de las Dueñas",5
+insert into Spain.Municipios values(5096,"Hija de Dios, La",5
+insert into Spain.Municipios values(5097,"Horcajada, La",5
+insert into Spain.Municipios values(5099,"Horcajo de las Torres",5
+insert into Spain.Municipios values(5100,"Hornillo, El",5
+insert into Spain.Municipios values(5101,"Hoyocasero",5
+insert into Spain.Municipios values(5102,"Hoyo de Pinares, El",5
+insert into Spain.Municipios values(5103,"Hoyorredondo",5
+insert into Spain.Municipios values(5104,"Hoyos del Collado",5
+insert into Spain.Municipios values(5105,"Hoyos del Espino",5
+insert into Spain.Municipios values(5106,"Hoyos de Miguel Muñoz",5
+insert into Spain.Municipios values(5107,"Hurtumpascual",5
+insert into Spain.Municipios values(5108,"Junciana",5
+insert into Spain.Municipios values(5109,"Langa",5
+insert into Spain.Municipios values(5110,"Lanzahíta",5
+insert into Spain.Municipios values(5112,"Losar del Barco, El",5
+insert into Spain.Municipios values(5113,"Llanos de Tormes, Los",5
+insert into Spain.Municipios values(5114,"Madrigal de las Altas Torres",5
+insert into Spain.Municipios values(5115,"Maello",5
+insert into Spain.Municipios values(5116,"Malpartida de Corneja",5
+insert into Spain.Municipios values(5117,"Mamblas",5
+insert into Spain.Municipios values(5118,"Mancera de Arriba",5
+insert into Spain.Municipios values(5119,"Manjabálago y Ortigosa de Rioalmar",5
+insert into Spain.Municipios values(5120,"Marlín",5
+insert into Spain.Municipios values(5121,"Martiherrero",5
+insert into Spain.Municipios values(5122,"Martínez",5
+insert into Spain.Municipios values(5123,"Mediana de Voltoya",5
+insert into Spain.Municipios values(5124,"Medinilla",5
+insert into Spain.Municipios values(5125,"Mengamuñoz",5
+insert into Spain.Municipios values(5126,"Mesegar de Corneja",5
+insert into Spain.Municipios values(5127,"Mijares",5
+insert into Spain.Municipios values(5128,"Mingorría",5
+insert into Spain.Municipios values(5129,"Mirón, El",5
+insert into Spain.Municipios values(5130,"Mironcillo",5
+insert into Spain.Municipios values(5131,"Mirueña de los Infanzones",5
+insert into Spain.Municipios values(5132,"Mombeltrán",5
+insert into Spain.Municipios values(5133,"Monsalupe",5
+insert into Spain.Municipios values(5134,"Moraleja de Matacabras",5
+insert into Spain.Municipios values(5135,"Muñana",5
+insert into Spain.Municipios values(5136,"Muñico",5
+insert into Spain.Municipios values(5138,"Muñogalindo",5
+insert into Spain.Municipios values(5139,"Muñogrande",5
+insert into Spain.Municipios values(5140,"Muñomer del Peco",5
+insert into Spain.Municipios values(5141,"Muñopepe",5
+insert into Spain.Municipios values(5142,"Muñosancho",5
+insert into Spain.Municipios values(5143,"Muñotello",5
+insert into Spain.Municipios values(5144,"Narrillos del Álamo",5
+insert into Spain.Municipios values(5145,"Narrillos del Rebollar",5
+insert into Spain.Municipios values(5147,"Narros del Castillo",5
+insert into Spain.Municipios values(5148,"Narros del Puerto",5
+insert into Spain.Municipios values(5149,"Narros de Saldueña",5
+insert into Spain.Municipios values(5151,"Navacepedilla de Corneja",5
+insert into Spain.Municipios values(5152,"Nava de Arévalo",5
+insert into Spain.Municipios values(5153,"Nava del Barco",5
+insert into Spain.Municipios values(5154,"Navadijos",5
+insert into Spain.Municipios values(5155,"Navaescurial",5
+insert into Spain.Municipios values(5156,"Navahondilla",5
+insert into Spain.Municipios values(5157,"Navalacruz",5
+insert into Spain.Municipios values(5158,"Navalmoral",5
+insert into Spain.Municipios values(5159,"Navalonguilla",5
+insert into Spain.Municipios values(5160,"Navalosa",5
+insert into Spain.Municipios values(5161,"Navalperal de Pinares",5
+insert into Spain.Municipios values(5162,"Navalperal de Tormes",5
+insert into Spain.Municipios values(5163,"Navaluenga",5
+insert into Spain.Municipios values(5164,"Navaquesera",5
+insert into Spain.Municipios values(5165,"Navarredonda de Gredos",5
+insert into Spain.Municipios values(5166,"Navarredondilla",5
+insert into Spain.Municipios values(5167,"Navarrevisca",5
+insert into Spain.Municipios values(5168,"Navas del Marqués, Las",5
+insert into Spain.Municipios values(5169,"Navatalgordo",5
+insert into Spain.Municipios values(5170,"Navatejares",5
+insert into Spain.Municipios values(5171,"Neila de San Miguel",5
+insert into Spain.Municipios values(5172,"Niharra",5
+insert into Spain.Municipios values(5173,"Ojos-Albos",5
+insert into Spain.Municipios values(5174,"Orbita",5
+insert into Spain.Municipios values(5175,"Oso, El",5
+insert into Spain.Municipios values(5176,"Padiernos",5
+insert into Spain.Municipios values(5177,"Pajares de Adaja",5
+insert into Spain.Municipios values(5178,"Palacios de Goda",5
+insert into Spain.Municipios values(5179,"Papatrigo",5
+insert into Spain.Municipios values(5180,"Parral, El",5
+insert into Spain.Municipios values(5181,"Pascualcobo",5
+insert into Spain.Municipios values(5182,"Pedro Bernardo",5
+insert into Spain.Municipios values(5183,"Pedro-Rodríguez",5
+insert into Spain.Municipios values(5184,"Peguerinos",5
+insert into Spain.Municipios values(5185,"Peñalba de Ávila",5
+insert into Spain.Municipios values(5186,"Piedrahíta",5
+insert into Spain.Municipios values(5187,"Piedralaves",5
+insert into Spain.Municipios values(5188,"Poveda",5
+insert into Spain.Municipios values(5189,"Poyales del Hoyo",5
+insert into Spain.Municipios values(5190,"Pozanco",5
+insert into Spain.Municipios values(5191,"Pradosegar",5
+insert into Spain.Municipios values(5192,"Puerto Castilla",5
+insert into Spain.Municipios values(5193,"Rasueros",5
+insert into Spain.Municipios values(5194,"Riocabado",5
+insert into Spain.Municipios values(5195,"Riofrío",5
+insert into Spain.Municipios values(5196,"Rivilla de Barajas",5
+insert into Spain.Municipios values(5197,"Salobral",5
+insert into Spain.Municipios values(5198,"Salvadiós",5
+insert into Spain.Municipios values(5199,"San Bartolomé de Béjar",5
+insert into Spain.Municipios values(5200,"San Bartolomé de Corneja",5
+insert into Spain.Municipios values(5201,"San Bartolomé de Pinares",5
+insert into Spain.Municipios values(5204,"Sanchidrián",5
+insert into Spain.Municipios values(5205,"Sanchorreja",5
+insert into Spain.Municipios values(5206,"San Esteban de los Patos",5
+insert into Spain.Municipios values(5207,"San Esteban del Valle",5
+insert into Spain.Municipios values(5208,"San Esteban de Zapardiel",5
+insert into Spain.Municipios values(5209,"San García de Ingelmos",5
+insert into Spain.Municipios values(5210,"San Juan de la Encinilla",5
+insert into Spain.Municipios values(5211,"San Juan de la Nava",5
+insert into Spain.Municipios values(5212,"San Juan del Molinillo",5
+insert into Spain.Municipios values(5213,"San Juan del Olmo",5
+insert into Spain.Municipios values(5214,"San Lorenzo de Tormes",5
+insert into Spain.Municipios values(5215,"San Martín de la Vega del Alberche",5
+insert into Spain.Municipios values(5216,"San Martín del Pimpollar",5
+insert into Spain.Municipios values(5217,"San Miguel de Corneja",5
+insert into Spain.Municipios values(5218,"San Miguel de Serrezuela",5
+insert into Spain.Municipios values(5219,"San Pascual",5
+insert into Spain.Municipios values(5220,"San Pedro del Arroyo",5
+insert into Spain.Municipios values(5221,"Santa Cruz del Valle",5
+insert into Spain.Municipios values(5222,"Santa Cruz de Pinares",5
+insert into Spain.Municipios values(5224,"Santa María del Arroyo",5
+insert into Spain.Municipios values(5225,"Santa María del Berrocal",5
+insert into Spain.Municipios values(5226,"Santa María de los Caballeros",5
+insert into Spain.Municipios values(5227,"Santa María del Tiétar",5
+insert into Spain.Municipios values(5228,"Santiago del Collado",5
+insert into Spain.Municipios values(5229,"Santo Domingo de las Posadas",5
+insert into Spain.Municipios values(5230,"Santo Tomé de Zabarcos",5
+insert into Spain.Municipios values(5231,"San Vicente de Arévalo",5
+insert into Spain.Municipios values(5232,"Serrada, La",5
+insert into Spain.Municipios values(5233,"Serranillos",5
+insert into Spain.Municipios values(5234,"Sigeres",5
+insert into Spain.Municipios values(5235,"Sinlabajos",5
+insert into Spain.Municipios values(5236,"Solana de Ávila",5
+insert into Spain.Municipios values(5237,"Solana de Rioalmar",5
+insert into Spain.Municipios values(5238,"Solosancho",5
+insert into Spain.Municipios values(5239,"Sotalbo",5
+insert into Spain.Municipios values(5240,"Sotillo de la Adrada",5
+insert into Spain.Municipios values(5241,"Tiemblo, El",5
+insert into Spain.Municipios values(5242,"Tiñosillos",5
+insert into Spain.Municipios values(5243,"Tolbaños",5
+insert into Spain.Municipios values(5244,"Tormellas",5
+insert into Spain.Municipios values(5245,"Tornadizos de Ávila",5
+insert into Spain.Municipios values(5246,"Tórtoles",5
+insert into Spain.Municipios values(5247,"Torre, La",5
+insert into Spain.Municipios values(5249,"Umbrías",5
+insert into Spain.Municipios values(5251,"Vadillo de la Sierra",5
+insert into Spain.Municipios values(5252,"Valdecasa",5
+insert into Spain.Municipios values(5253,"Vega de Santa María",5
+insert into Spain.Municipios values(5254,"Velayos",5
+insert into Spain.Municipios values(5256,"Villaflor",5
+insert into Spain.Municipios values(5257,"Villafranca de la Sierra",5
+insert into Spain.Municipios values(5258,"Villanueva de Gómez",5
+insert into Spain.Municipios values(5259,"Villanueva del Aceral",5
+insert into Spain.Municipios values(5260,"Villanueva del Campillo",5
+insert into Spain.Municipios values(5261,"Villar de Corneja",5
+insert into Spain.Municipios values(5262,"Villarejo del Valle",5
+insert into Spain.Municipios values(5263,"Villatoro",5
+insert into Spain.Municipios values(5264,"Viñegra de Moraña",5
+insert into Spain.Municipios values(5265,"Vita",5
+insert into Spain.Municipios values(5266,"Zapardiel de la Cañada",5
+insert into Spain.Municipios values(5267,"Zapardiel de la Ribera",5
+insert into Spain.Municipios values(5901,"San Juan de Gredos",5
+insert into Spain.Municipios values(5902,"Santa María del Cubillo",5
+insert into Spain.Municipios values(5903,"Diego del Carpio",5
+insert into Spain.Municipios values(5904,"Santiago del Tormes",5
+insert into Spain.Municipios values(5905,"Villanueva de Ávila",5
+insert into Spain.Municipios values(6001,"Acedera",6
+insert into Spain.Municipios values(6002,"Aceuchal",6
+insert into Spain.Municipios values(6003,"Ahillones",6
+insert into Spain.Municipios values(6004,"Alange",6
+insert into Spain.Municipios values(6005,"Albuera, La",6
+insert into Spain.Municipios values(6006,"Alburquerque",6
+insert into Spain.Municipios values(6007,"Alconchel",6
+insert into Spain.Municipios values(6008,"Alconera",6
+insert into Spain.Municipios values(6009,"Aljucén",6
+insert into Spain.Municipios values(6010,"Almendral",6
+insert into Spain.Municipios values(6011,"Almendralejo",6
+insert into Spain.Municipios values(6012,"Arroyo de San Serván",6
+insert into Spain.Municipios values(6013,"Atalaya",6
+insert into Spain.Municipios values(6014,"Azuaga",6
+insert into Spain.Municipios values(6015,"Badajoz",6
+insert into Spain.Municipios values(6016,"Barcarrota",6
+insert into Spain.Municipios values(6017,"Baterno",6
+insert into Spain.Municipios values(6018,"Benquerencia de la Serena",6
+insert into Spain.Municipios values(6019,"Berlanga",6
+insert into Spain.Municipios values(6020,"Bienvenida",6
+insert into Spain.Municipios values(6021,"Bodonal de la Sierra",6
+insert into Spain.Municipios values(6022,"Burguillos del Cerro",6
+insert into Spain.Municipios values(6023,"Cabeza del Buey",6
+insert into Spain.Municipios values(6024,"Cabeza la Vaca",6
+insert into Spain.Municipios values(6025,"Calamonte",6
+insert into Spain.Municipios values(6026,"Calera de León",6
+insert into Spain.Municipios values(6027,"Calzadilla de los Barros",6
+insert into Spain.Municipios values(6028,"Campanario",6
+insert into Spain.Municipios values(6029,"Campillo de Llerena",6
+insert into Spain.Municipios values(6030,"Capilla",6
+insert into Spain.Municipios values(6031,"Carmonita",6
+insert into Spain.Municipios values(6032,"Carrascalejo, El",6
+insert into Spain.Municipios values(6033,"Casas de Don Pedro",6
+insert into Spain.Municipios values(6034,"Casas de Reina",6
+insert into Spain.Municipios values(6035,"Castilblanco",6
+insert into Spain.Municipios values(6036,"Castuera",6
+insert into Spain.Municipios values(6037,"Codosera, La",6
+insert into Spain.Municipios values(6038,"Cordobilla de Lácara",6
+insert into Spain.Municipios values(6039,"Coronada, La",6
+insert into Spain.Municipios values(6040,"Corte de Peleas",6
+insert into Spain.Municipios values(6041,"Cristina",6
+insert into Spain.Municipios values(6042,"Cheles",6
+insert into Spain.Municipios values(6043,"Don Álvaro",6
+insert into Spain.Municipios values(6044,"Don Benito",6
+insert into Spain.Municipios values(6045,"Entrín Bajo",6
+insert into Spain.Municipios values(6046,"Esparragalejo",6
+insert into Spain.Municipios values(6047,"Esparragosa de la Serena",6
+insert into Spain.Municipios values(6048,"Esparragosa de Lares",6
+insert into Spain.Municipios values(6049,"Feria",6
+insert into Spain.Municipios values(6050,"Fregenal de la Sierra",6
+insert into Spain.Municipios values(6051,"Fuenlabrada de los Montes",6
+insert into Spain.Municipios values(6052,"Fuente de Cantos",6
+insert into Spain.Municipios values(6053,"Fuente del Arco",6
+insert into Spain.Municipios values(6054,"Fuente del Maestre",6
+insert into Spain.Municipios values(6055,"Fuentes de León",6
+insert into Spain.Municipios values(6056,"Garbayuela",6
+insert into Spain.Municipios values(6057,"Garlitos",6
+insert into Spain.Municipios values(6058,"Garrovilla, La",6
+insert into Spain.Municipios values(6059,"Granja de Torrehermosa",6
+insert into Spain.Municipios values(6060,"Guareña",6
+insert into Spain.Municipios values(6061,"Haba, La",6
+insert into Spain.Municipios values(6062,"Helechosa de los Montes",6
+insert into Spain.Municipios values(6063,"Herrera del Duque",6
+insert into Spain.Municipios values(6064,"Higuera de la Serena",6
+insert into Spain.Municipios values(6065,"Higuera de Llerena",6
+insert into Spain.Municipios values(6066,"Higuera de Vargas",6
+insert into Spain.Municipios values(6067,"Higuera la Real",6
+insert into Spain.Municipios values(6068,"Hinojosa del Valle",6
+insert into Spain.Municipios values(6069,"Hornachos",6
+insert into Spain.Municipios values(6070,"Jerez de los Caballeros",6
+insert into Spain.Municipios values(6071,"Lapa, La",6
+insert into Spain.Municipios values(6072,"Lobón",6
+insert into Spain.Municipios values(6073,"Llera",6
+insert into Spain.Municipios values(6074,"Llerena",6
+insert into Spain.Municipios values(6075,"Magacela",6
+insert into Spain.Municipios values(6076,"Maguilla",6
+insert into Spain.Municipios values(6077,"Malcocinado",6
+insert into Spain.Municipios values(6078,"Malpartida de la Serena",6
+insert into Spain.Municipios values(6079,"Manchita",6
+insert into Spain.Municipios values(6080,"Medellín",6
+insert into Spain.Municipios values(6081,"Medina de las Torres",6
+insert into Spain.Municipios values(6082,"Mengabril",6
+insert into Spain.Municipios values(6083,"Mérida",6
+insert into Spain.Municipios values(6084,"Mirandilla",6
+insert into Spain.Municipios values(6085,"Monesterio",6
+insert into Spain.Municipios values(6086,"Montemolín",6
+insert into Spain.Municipios values(6087,"Monterrubio de la Serena",6
+insert into Spain.Municipios values(6088,"Montijo",6
+insert into Spain.Municipios values(6089,"Morera, La",6
+insert into Spain.Municipios values(6090,"Nava de Santiago, La",6
+insert into Spain.Municipios values(6091,"Navalvillar de Pela",6
+insert into Spain.Municipios values(6092,"Nogales",6
+insert into Spain.Municipios values(6093,"Oliva de la Frontera",6
+insert into Spain.Municipios values(6094,"Oliva de Mérida",6
+insert into Spain.Municipios values(6095,"Olivenza",6
+insert into Spain.Municipios values(6096,"Orellana de la Sierra",6
+insert into Spain.Municipios values(6097,"Orellana la Vieja",6
+insert into Spain.Municipios values(6098,"Palomas",6
+insert into Spain.Municipios values(6099,"Parra, La",6
+insert into Spain.Municipios values(6100,"Peñalsordo",6
+insert into Spain.Municipios values(6101,"Peraleda del Zaucejo",6
+insert into Spain.Municipios values(6102,"Puebla de Alcocer",6
+insert into Spain.Municipios values(6103,"Puebla de la Calzada",6
+insert into Spain.Municipios values(6104,"Puebla de la Reina",6
+insert into Spain.Municipios values(6105,"Puebla del Maestre",6
+insert into Spain.Municipios values(6106,"Puebla del Prior",6
+insert into Spain.Municipios values(6107,"Puebla de Obando",6
+insert into Spain.Municipios values(6108,"Puebla de Sancho Pérez",6
+insert into Spain.Municipios values(6109,"Quintana de la Serena",6
+insert into Spain.Municipios values(6110,"Reina",6
+insert into Spain.Municipios values(6111,"Rena",6
+insert into Spain.Municipios values(6112,"Retamal de Llerena",6
+insert into Spain.Municipios values(6113,"Ribera del Fresno",6
+insert into Spain.Municipios values(6114,"Risco",6
+insert into Spain.Municipios values(6115,"Roca de la Sierra, La",6
+insert into Spain.Municipios values(6116,"Salvaleón",6
+insert into Spain.Municipios values(6117,"Salvatierra de los Barros",6
+insert into Spain.Municipios values(6118,"Sancti-Spíritus",6
+insert into Spain.Municipios values(6119,"San Pedro de Mérida",6
+insert into Spain.Municipios values(6120,"Santa Amalia",6
+insert into Spain.Municipios values(6121,"Santa Marta",6
+insert into Spain.Municipios values(6122,"Santos de Maimona, Los",6
+insert into Spain.Municipios values(6123,"San Vicente de Alcántara",6
+insert into Spain.Municipios values(6124,"Segura de León",6
+insert into Spain.Municipios values(6125,"Siruela",6
+insert into Spain.Municipios values(6126,"Solana de los Barros",6
+insert into Spain.Municipios values(6127,"Talarrubias",6
+insert into Spain.Municipios values(6128,"Talavera la Real",6
+insert into Spain.Municipios values(6129,"Táliga",6
+insert into Spain.Municipios values(6130,"Tamurejo",6
+insert into Spain.Municipios values(6131,"Torre de Miguel Sesmero",6
+insert into Spain.Municipios values(6132,"Torremayor",6
+insert into Spain.Municipios values(6133,"Torremejía",6
+insert into Spain.Municipios values(6134,"Trasierra",6
+insert into Spain.Municipios values(6135,"Trujillanos",6
+insert into Spain.Municipios values(6136,"Usagre",6
+insert into Spain.Municipios values(6137,"Valdecaballeros",6
+insert into Spain.Municipios values(6138,"Valdetorres",6
+insert into Spain.Municipios values(6139,"Valencia de las Torres",6
+insert into Spain.Municipios values(6140,"Valencia del Mombuey",6
+insert into Spain.Municipios values(6141,"Valencia del Ventoso",6
+insert into Spain.Municipios values(6142,"Valverde de Burguillos",6
+insert into Spain.Municipios values(6143,"Valverde de Leganés",6
+insert into Spain.Municipios values(6144,"Valverde de Llerena",6
+insert into Spain.Municipios values(6145,"Valverde de Mérida",6
+insert into Spain.Municipios values(6146,"Valle de la Serena",6
+insert into Spain.Municipios values(6147,"Valle de Matamoros",6
+insert into Spain.Municipios values(6148,"Valle de Santa Ana",6
+insert into Spain.Municipios values(6149,"Villafranca de los Barros",6
+insert into Spain.Municipios values(6150,"Villagarcía de la Torre",6
+insert into Spain.Municipios values(6151,"Villagonzalo",6
+insert into Spain.Municipios values(6152,"Villalba de los Barros",6
+insert into Spain.Municipios values(6153,"Villanueva de la Serena",6
+insert into Spain.Municipios values(6154,"Villanueva del Fresno",6
+insert into Spain.Municipios values(6155,"Villar del Rey",6
+insert into Spain.Municipios values(6156,"Villar de Rena",6
+insert into Spain.Municipios values(6157,"Villarta de los Montes",6
+insert into Spain.Municipios values(6158,"Zafra",6
+insert into Spain.Municipios values(6159,"Zahínos",6
+insert into Spain.Municipios values(6160,"Zalamea de la Serena",6
+insert into Spain.Municipios values(6161,"Zarza-Capilla",6
+insert into Spain.Municipios values(6162,"Zarza, La",6
+insert into Spain.Municipios values(6901,"Valdelacalzada",6
+insert into Spain.Municipios values(6902,"Pueblonuevo del Guadiana",6
+insert into Spain.Municipios values(6903,"Guadiana del Caudillo",6
+insert into Spain.Municipios values(7001,"Alaró",7
+insert into Spain.Municipios values(7002,"Alaior",7
+insert into Spain.Municipios values(7003,"Alcúdia",7
+insert into Spain.Municipios values(7004,"Algaida",7
+insert into Spain.Municipios values(7005,"Andratx",7
+insert into Spain.Municipios values(7006,"Artà",7
+insert into Spain.Municipios values(7007,"Banyalbufar",7
+insert into Spain.Municipios values(7008,"Binissalem",7
+insert into Spain.Municipios values(7009,"Búger",7
+insert into Spain.Municipios values(7010,"Bunyola",7
+insert into Spain.Municipios values(7011,"Calvià",7
+insert into Spain.Municipios values(7012,"Campanet",7
+insert into Spain.Municipios values(7013,"Campos",7
+insert into Spain.Municipios values(7014,"Capdepera",7
+insert into Spain.Municipios values(7015,"Ciutadella de Menorca",7
+insert into Spain.Municipios values(7016,"Consell",7
+insert into Spain.Municipios values(7017,"Costitx",7
+insert into Spain.Municipios values(7018,"Deià",7
+insert into Spain.Municipios values(7019,"Escorca",7
+insert into Spain.Municipios values(7020,"Esporles",7
+insert into Spain.Municipios values(7021,"Estellencs",7
+insert into Spain.Municipios values(7022,"Felanitx",7
+insert into Spain.Municipios values(7023,"Ferreries",7
+insert into Spain.Municipios values(7024,"Formentera",7
+insert into Spain.Municipios values(7025,"Fornalutx",7
+insert into Spain.Municipios values(7026,"Eivissa",7
+insert into Spain.Municipios values(7027,"Inca",7
+insert into Spain.Municipios values(7028,"Lloret de Vistalegre",7
+insert into Spain.Municipios values(7029,"Lloseta",7
+insert into Spain.Municipios values(7030,"Llubí",7
+insert into Spain.Municipios values(7031,"Llucmajor",7
+insert into Spain.Municipios values(7032,"Maó-Mahón",7
+insert into Spain.Municipios values(7033,"Manacor",7
+insert into Spain.Municipios values(7034,"Mancor de la Vall",7
+insert into Spain.Municipios values(7035,"Maria de la Salut",7
+insert into Spain.Municipios values(7036,"Marratxí",7
+insert into Spain.Municipios values(7037,"Mercadal, Es",7
+insert into Spain.Municipios values(7038,"Montuïri",7
+insert into Spain.Municipios values(7039,"Muro",7
+insert into Spain.Municipios values(7040,"Palma",7
+insert into Spain.Municipios values(7041,"Petra",7
+insert into Spain.Municipios values(7042,"Pollença",7
+insert into Spain.Municipios values(7043,"Porreres",7
+insert into Spain.Municipios values(7044,"Pobla, Sa",7
+insert into Spain.Municipios values(7045,"Puigpunyent",7
+insert into Spain.Municipios values(7046,"Sant Antoni de Portmany",7
+insert into Spain.Municipios values(7047,"Sencelles",7
+insert into Spain.Municipios values(7048,"Sant Josep de sa Talaia",7
+insert into Spain.Municipios values(7049,"Sant Joan",7
+insert into Spain.Municipios values(7050,"Sant Joan de Labritja",7
+insert into Spain.Municipios values(7051,"Sant Llorenç des Cardassar",7
+insert into Spain.Municipios values(7052,"Sant Lluís",7
+insert into Spain.Municipios values(7053,"Santa Eugènia",7
+insert into Spain.Municipios values(7054,"Santa Eulària des Riu",7
+insert into Spain.Municipios values(7055,"Santa Margalida",7
+insert into Spain.Municipios values(7056,"Santa María del Camí",7
+insert into Spain.Municipios values(7057,"Santanyí",7
+insert into Spain.Municipios values(7058,"Selva",7
+insert into Spain.Municipios values(7059,"Salines, Ses",7
+insert into Spain.Municipios values(7060,"Sineu",7
+insert into Spain.Municipios values(7061,"Sóller",7
+insert into Spain.Municipios values(7062,"Son Servera",7
+insert into Spain.Municipios values(7063,"Valldemossa",7
+insert into Spain.Municipios values(7064,"Castell, Es",7
+insert into Spain.Municipios values(7065,"Vilafranca de Bonany",7
+insert into Spain.Municipios values(7901,"Ariany",7
+insert into Spain.Municipios values(7902,"Migjorn Gran, Es",7
+insert into Spain.Municipios values(8001,"Abrera",8
+insert into Spain.Municipios values(8002,"Aguilar de Segarra",8
+insert into Spain.Municipios values(8003,"Alella",8
+insert into Spain.Municipios values(8004,"Alpens",8
+insert into Spain.Municipios values(8005,"Ametlla del Vallès, L'",8
+insert into Spain.Municipios values(8006,"Arenys de Mar",8
+insert into Spain.Municipios values(8007,"Arenys de Munt",8
+insert into Spain.Municipios values(8008,"Argençola",8
+insert into Spain.Municipios values(8009,"Argentona",8
+insert into Spain.Municipios values(8010,"Artés",8
+insert into Spain.Municipios values(8011,"Avià",8
+insert into Spain.Municipios values(8012,"Avinyó",8
+insert into Spain.Municipios values(8013,"Avinyonet del Penedès",8
+insert into Spain.Municipios values(8014,"Aiguafreda",8
+insert into Spain.Municipios values(8015,"Badalona",8
+insert into Spain.Municipios values(8016,"Bagà",8
+insert into Spain.Municipios values(8017,"Balenyà",8
+insert into Spain.Municipios values(8018,"Balsareny",8
+insert into Spain.Municipios values(8019,"Barcelona",8
+insert into Spain.Municipios values(8020,"Begues",8
+insert into Spain.Municipios values(8021,"Bellprat",8
+insert into Spain.Municipios values(8022,"Berga",8
+insert into Spain.Municipios values(8023,"Bigues i Riells",8
+insert into Spain.Municipios values(8024,"Borredà",8
+insert into Spain.Municipios values(8025,"Bruc, El",8
+insert into Spain.Municipios values(8026,"Brull, El",8
+insert into Spain.Municipios values(8027,"Cabanyes, Les",8
+insert into Spain.Municipios values(8028,"Cabrera d'Anoia",8
+insert into Spain.Municipios values(8029,"Cabrera de Mar",8
+insert into Spain.Municipios values(8030,"Cabrils",8
+insert into Spain.Municipios values(8031,"Calaf",8
+insert into Spain.Municipios values(8032,"Caldes d'Estrac",8
+insert into Spain.Municipios values(8033,"Caldes de Montbui",8
+insert into Spain.Municipios values(8034,"Calders",8
+insert into Spain.Municipios values(8035,"Calella",8
+insert into Spain.Municipios values(8036,"Calonge de Segarra",8
+insert into Spain.Municipios values(8037,"Calldetenes",8
+insert into Spain.Municipios values(8038,"Callús",8
+insert into Spain.Municipios values(8039,"Campins",8
+insert into Spain.Municipios values(8040,"Canet de Mar",8
+insert into Spain.Municipios values(8041,"Canovelles",8
+insert into Spain.Municipios values(8042,"Cànoves i Samalús",8
+insert into Spain.Municipios values(8043,"Canyelles",8
+insert into Spain.Municipios values(8044,"Capellades",8
+insert into Spain.Municipios values(8045,"Capolat",8
+insert into Spain.Municipios values(8046,"Cardedeu",8
+insert into Spain.Municipios values(8047,"Cardona",8
+insert into Spain.Municipios values(8048,"Carme",8
+insert into Spain.Municipios values(8049,"Casserres",8
+insert into Spain.Municipios values(8050,"Castellar del Riu",8
+insert into Spain.Municipios values(8051,"Castellar del Vallès",8
+insert into Spain.Municipios values(8052,"Castellar de n'Hug",8
+insert into Spain.Municipios values(8053,"Castellbell i el Vilar",8
+insert into Spain.Municipios values(8054,"Castellbisbal",8
+insert into Spain.Municipios values(8055,"Castellcir",8
+insert into Spain.Municipios values(8056,"Castelldefels",8
+insert into Spain.Municipios values(8057,"Castell de l'Areny",8
+insert into Spain.Municipios values(8058,"Castellet i la Gornal",8
+insert into Spain.Municipios values(8059,"Castellfollit del Boix",8
+insert into Spain.Municipios values(8060,"Castellfollit de Riubregós",8
+insert into Spain.Municipios values(8061,"Castellgalí",8
+insert into Spain.Municipios values(8062,"Castellnou de Bages",8
+insert into Spain.Municipios values(8063,"Castellolí",8
+insert into Spain.Municipios values(8064,"Castellterçol",8
+insert into Spain.Municipios values(8065,"Castellví de la Marca",8
+insert into Spain.Municipios values(8066,"Castellví de Rosanes",8
+insert into Spain.Municipios values(8067,"Centelles",8
+insert into Spain.Municipios values(8068,"Cervelló",8
+insert into Spain.Municipios values(8069,"Collbató",8
+insert into Spain.Municipios values(8070,"Collsuspina",8
+insert into Spain.Municipios values(8071,"Copons",8
+insert into Spain.Municipios values(8072,"Corbera de Llobregat",8
+insert into Spain.Municipios values(8073,"Cornellà de Llobregat",8
+insert into Spain.Municipios values(8074,"Cubelles",8
+insert into Spain.Municipios values(8075,"Dosrius",8
+insert into Spain.Municipios values(8076,"Esparreguera",8
+insert into Spain.Municipios values(8077,"Esplugues de Llobregat",8
+insert into Spain.Municipios values(8078,"Espunyola, L'",8
+insert into Spain.Municipios values(8079,"Estany, L'",8
+insert into Spain.Municipios values(8080,"Fígols",8
+insert into Spain.Municipios values(8081,"Fogars de Montclús",8
+insert into Spain.Municipios values(8082,"Fogars de la Selva",8
+insert into Spain.Municipios values(8083,"Folgueroles",8
+insert into Spain.Municipios values(8084,"Fonollosa",8
+insert into Spain.Municipios values(8085,"Font-rubí",8
+insert into Spain.Municipios values(8086,"Franqueses del Vallès, Les",8
+insert into Spain.Municipios values(8087,"Gallifa",8
+insert into Spain.Municipios values(8088,"Garriga, La",8
+insert into Spain.Municipios values(8089,"Gavà",8
+insert into Spain.Municipios values(8090,"Gaià",8
+insert into Spain.Municipios values(8091,"Gelida",8
+insert into Spain.Municipios values(8092,"Gironella",8
+insert into Spain.Municipios values(8093,"Gisclareny",8
+insert into Spain.Municipios values(8094,"Granada, La",8
+insert into Spain.Municipios values(8095,"Granera",8
+insert into Spain.Municipios values(8096,"Granollers",8
+insert into Spain.Municipios values(8097,"Gualba",8
+insert into Spain.Municipios values(8098,"Sant Salvador de Guardiola",8
+insert into Spain.Municipios values(8099,"Guardiola de Berguedà",8
+insert into Spain.Municipios values(8100,"Gurb",8
+insert into Spain.Municipios values(8101,"Hospitalet de Llobregat, L'",8
+insert into Spain.Municipios values(8102,"Igualada",8
+insert into Spain.Municipios values(8103,"Jorba",8
+insert into Spain.Municipios values(8104,"Llacuna, La",8
+insert into Spain.Municipios values(8105,"Llagosta, La",8
+insert into Spain.Municipios values(8106,"Llinars del Vallès",8
+insert into Spain.Municipios values(8107,"Lliçà d'Amunt",8
+insert into Spain.Municipios values(8108,"Lliçà de Vall",8
+insert into Spain.Municipios values(8109,"Lluçà",8
+insert into Spain.Municipios values(8110,"Malgrat de Mar",8
+insert into Spain.Municipios values(8111,"Malla",8
+insert into Spain.Municipios values(8112,"Manlleu",8
+insert into Spain.Municipios values(8113,"Manresa",8
+insert into Spain.Municipios values(8114,"Martorell",8
+insert into Spain.Municipios values(8115,"Martorelles",8
+insert into Spain.Municipios values(8116,"Masies de Roda, Les",8
+insert into Spain.Municipios values(8117,"Masies de Voltregà, Les",8
+insert into Spain.Municipios values(8118,"Masnou, El",8
+insert into Spain.Municipios values(8119,"Masquefa",8
+insert into Spain.Municipios values(8120,"Matadepera",8
+insert into Spain.Municipios values(8121,"Mataró",8
+insert into Spain.Municipios values(8122,"Mediona",8
+insert into Spain.Municipios values(8123,"Molins de Rei",8
+insert into Spain.Municipios values(8124,"Mollet del Vallès",8
+insert into Spain.Municipios values(8125,"Montcada i Reixac",8
+insert into Spain.Municipios values(8126,"Montgat",8
+insert into Spain.Municipios values(8127,"Monistrol de Montserrat",8
+insert into Spain.Municipios values(8128,"Monistrol de Calders",8
+insert into Spain.Municipios values(8129,"Muntanyola",8
+insert into Spain.Municipios values(8130,"Montclar",8
+insert into Spain.Municipios values(8131,"Montesquiu",8
+insert into Spain.Municipios values(8132,"Montmajor",8
+insert into Spain.Municipios values(8133,"Montmaneu",8
+insert into Spain.Municipios values(8134,"Figaró-Montmany",8
+insert into Spain.Municipios values(8135,"Montmeló",8
+insert into Spain.Municipios values(8136,"Montornès del Vallès",8
+insert into Spain.Municipios values(8137,"Montseny",8
+insert into Spain.Municipios values(8138,"Moià",8
+insert into Spain.Municipios values(8139,"Mura",8
+insert into Spain.Municipios values(8140,"Navarcles",8
+insert into Spain.Municipios values(8141,"Navàs",8
+insert into Spain.Municipios values(8142,"Nou de Berguedà, La",8
+insert into Spain.Municipios values(8143,"Òdena",8
+insert into Spain.Municipios values(8144,"Olvan",8
+insert into Spain.Municipios values(8145,"Olèrdola",8
+insert into Spain.Municipios values(8146,"Olesa de Bonesvalls",8
+insert into Spain.Municipios values(8147,"Olesa de Montserrat",8
+insert into Spain.Municipios values(8148,"Olivella",8
+insert into Spain.Municipios values(8149,"Olost",8
+insert into Spain.Municipios values(8150,"Orís",8
+insert into Spain.Municipios values(8151,"Oristà",8
+insert into Spain.Municipios values(8152,"Orpí",8
+insert into Spain.Municipios values(8153,"Òrrius",8
+insert into Spain.Municipios values(8154,"Pacs del Penedès",8
+insert into Spain.Municipios values(8155,"Palafolls",8
+insert into Spain.Municipios values(8156,"Palau-solità i Plegamans",8
+insert into Spain.Municipios values(8157,"Pallejà",8
+insert into Spain.Municipios values(8158,"Papiol, El",8
+insert into Spain.Municipios values(8159,"Parets del Vallès",8
+insert into Spain.Municipios values(8160,"Perafita",8
+insert into Spain.Municipios values(8161,"Piera",8
+insert into Spain.Municipios values(8162,"Hostalets de Pierola, Els",8
+insert into Spain.Municipios values(8163,"Pineda de Mar",8
+insert into Spain.Municipios values(8164,"Pla del Penedès, El",8
+insert into Spain.Municipios values(8165,"Pobla de Claramunt, La",8
+insert into Spain.Municipios values(8166,"Pobla de Lillet, La",8
+insert into Spain.Municipios values(8167,"Polinyà",8
+insert into Spain.Municipios values(8168,"Pontons",8
+insert into Spain.Municipios values(8169,"Prat de Llobregat, El",8
+insert into Spain.Municipios values(8170,"Prats de Rei, Els",8
+insert into Spain.Municipios values(8171,"Prats de Lluçanès",8
+insert into Spain.Municipios values(8172,"Premià de Mar",8
+insert into Spain.Municipios values(8174,"Puigdàlber",8
+insert into Spain.Municipios values(8175,"Puig-reig",8
+insert into Spain.Municipios values(8176,"Pujalt",8
+insert into Spain.Municipios values(8177,"Quar, La",8
+insert into Spain.Municipios values(8178,"Rajadell",8
+insert into Spain.Municipios values(8179,"Rellinars",8
+insert into Spain.Municipios values(8180,"Ripollet",8
+insert into Spain.Municipios values(8181,"Roca del Vallès, La",8
+insert into Spain.Municipios values(8182,"Pont de Vilomara i Rocafort, El",8
+insert into Spain.Municipios values(8183,"Roda de Ter",8
+insert into Spain.Municipios values(8184,"Rubí",8
+insert into Spain.Municipios values(8185,"Rubió",8
+insert into Spain.Municipios values(8187,"Sabadell",8
+insert into Spain.Municipios values(8188,"Sagàs",8
+insert into Spain.Municipios values(8189,"Sant Pere Sallavinera",8
+insert into Spain.Municipios values(8190,"Saldes",8
+insert into Spain.Municipios values(8191,"Sallent",8
+insert into Spain.Municipios values(8192,"Santpedor",8
+insert into Spain.Municipios values(8193,"Sant Iscle de Vallalta",8
+insert into Spain.Municipios values(8194,"Sant Adrià de Besòs",8
+insert into Spain.Municipios values(8195,"Sant Agustí de Lluçanès",8
+insert into Spain.Municipios values(8196,"Sant Andreu de la Barca",8
+insert into Spain.Municipios values(8197,"Sant Andreu de Llavaneres",8
+insert into Spain.Municipios values(8198,"Sant Antoni de Vilamajor",8
+insert into Spain.Municipios values(8199,"Sant Bartomeu del Grau",8
+insert into Spain.Municipios values(8200,"Sant Boi de Llobregat",8
+insert into Spain.Municipios values(8201,"Sant Boi de Lluçanès",8
+insert into Spain.Municipios values(8202,"Sant Celoni",8
+insert into Spain.Municipios values(8203,"Sant Cebrià de Vallalta",8
+insert into Spain.Municipios values(8204,"Sant Climent de Llobregat",8
+insert into Spain.Municipios values(8205,"Sant Cugat del Vallès",8
+insert into Spain.Municipios values(8206,"Sant Cugat Sesgarrigues",8
+insert into Spain.Municipios values(8207,"Sant Esteve de Palautordera",8
+insert into Spain.Municipios values(8208,"Sant Esteve Sesrovires",8
+insert into Spain.Municipios values(8209,"Sant Fost de Campsentelles",8
+insert into Spain.Municipios values(8210,"Sant Feliu de Codines",8
+insert into Spain.Municipios values(8211,"Sant Feliu de Llobregat",8
+insert into Spain.Municipios values(8212,"Sant Feliu Sasserra",8
+insert into Spain.Municipios values(8213,"Sant Fruitós de Bages",8
+insert into Spain.Municipios values(8214,"Vilassar de Dalt",8
+insert into Spain.Municipios values(8215,"Sant Hipòlit de Voltregà",8
+insert into Spain.Municipios values(8216,"Sant Jaume de Frontanyà",8
+insert into Spain.Municipios values(8217,"Sant Joan Despí",8
+insert into Spain.Municipios values(8218,"Sant Joan de Vilatorrada",8
+insert into Spain.Municipios values(8219,"Vilassar de Mar",8
+insert into Spain.Municipios values(8220,"Sant Julià de Vilatorta",8
+insert into Spain.Municipios values(8221,"Sant Just Desvern",8
+insert into Spain.Municipios values(8222,"Sant Llorenç d'Hortons",8
+insert into Spain.Municipios values(8223,"Sant Llorenç Savall",8
+insert into Spain.Municipios values(8224,"Sant Martí de Centelles",8
+insert into Spain.Municipios values(8225,"Sant Martí d'Albars",8
+insert into Spain.Municipios values(8226,"Sant Martí de Tous",8
+insert into Spain.Municipios values(8227,"Sant Martí Sarroca",8
+insert into Spain.Municipios values(8228,"Sant Martí Sesgueioles",8
+insert into Spain.Municipios values(8229,"Sant Mateu de Bages",8
+insert into Spain.Municipios values(8230,"Premià de Dalt",8
+insert into Spain.Municipios values(8231,"Sant Pere de Ribes",8
+insert into Spain.Municipios values(8232,"Sant Pere de Riudebitlles",8
+insert into Spain.Municipios values(8233,"Sant Pere de Torelló",8
+insert into Spain.Municipios values(8234,"Sant Pere de Vilamajor",8
+insert into Spain.Municipios values(8235,"Sant Pol de Mar",8
+insert into Spain.Municipios values(8236,"Sant Quintí de Mediona",8
+insert into Spain.Municipios values(8237,"Sant Quirze de Besora",8
+insert into Spain.Municipios values(8238,"Sant Quirze del Vallès",8
+insert into Spain.Municipios values(8239,"Sant Quirze Safaja",8
+insert into Spain.Municipios values(8240,"Sant Sadurní d'Anoia",8
+insert into Spain.Municipios values(8241,"Sant Sadurní d'Osormort",8
+insert into Spain.Municipios values(8242,"Marganell",8
+insert into Spain.Municipios values(8243,"Santa Cecília de Voltregà",8
+insert into Spain.Municipios values(8244,"Santa Coloma de Cervelló",8
+insert into Spain.Municipios values(8245,"Santa Coloma de Gramenet",8
+insert into Spain.Municipios values(8246,"Santa Eugènia de Berga",8
+insert into Spain.Municipios values(8247,"Santa Eulàlia de Riuprimer",8
+insert into Spain.Municipios values(8248,"Santa Eulàlia de Ronçana",8
+insert into Spain.Municipios values(8249,"Santa Fe del Penedès",8
+insert into Spain.Municipios values(8250,"Santa Margarida de Montbui",8
+insert into Spain.Municipios values(8251,"Santa Margarida i els Monjos",8
+insert into Spain.Municipios values(8252,"Barberà del Vallès",8
+insert into Spain.Municipios values(8253,"Santa Maria de Besora",8
+insert into Spain.Municipios values(8254,"Esquirol, L'",8
+insert into Spain.Municipios values(8255,"Santa Maria de Merlès",8
+insert into Spain.Municipios values(8256,"Santa Maria de Martorelles",8
+insert into Spain.Municipios values(8257,"Santa Maria de Miralles",8
+insert into Spain.Municipios values(8258,"Santa Maria d'Oló",8
+insert into Spain.Municipios values(8259,"Santa Maria de Palautordera",8
+insert into Spain.Municipios values(8260,"Santa Perpètua de Mogoda",8
+insert into Spain.Municipios values(8261,"Santa Susanna",8
+insert into Spain.Municipios values(8262,"Sant Vicenç de Castellet",8
+insert into Spain.Municipios values(8263,"Sant Vicenç dels Horts",8
+insert into Spain.Municipios values(8264,"Sant Vicenç de Montalt",8
+insert into Spain.Municipios values(8265,"Sant Vicenç de Torelló",8
+insert into Spain.Municipios values(8266,"Cerdanyola del Vallès",8
+insert into Spain.Municipios values(8267,"Sentmenat",8
+insert into Spain.Municipios values(8268,"Cercs",8
+insert into Spain.Municipios values(8269,"Seva",8
+insert into Spain.Municipios values(8270,"Sitges",8
+insert into Spain.Municipios values(8271,"Sobremunt",8
+insert into Spain.Municipios values(8272,"Sora",8
+insert into Spain.Municipios values(8273,"Subirats",8
+insert into Spain.Municipios values(8274,"Súria",8
+insert into Spain.Municipios values(8275,"Tavèrnoles",8
+insert into Spain.Municipios values(8276,"Tagamanent",8
+insert into Spain.Municipios values(8277,"Talamanca",8
+insert into Spain.Municipios values(8278,"Taradell",8
+insert into Spain.Municipios values(8279,"Terrassa",8
+insert into Spain.Municipios values(8280,"Tavertet",8
+insert into Spain.Municipios values(8281,"Teià",8
+insert into Spain.Municipios values(8282,"Tiana",8
+insert into Spain.Municipios values(8283,"Tona",8
+insert into Spain.Municipios values(8284,"Tordera",8
+insert into Spain.Municipios values(8285,"Torelló",8
+insert into Spain.Municipios values(8286,"Torre de Claramunt, La",8
+insert into Spain.Municipios values(8287,"Torrelavit",8
+insert into Spain.Municipios values(8288,"Torrelles de Foix",8
+insert into Spain.Municipios values(8289,"Torrelles de Llobregat",8
+insert into Spain.Municipios values(8290,"Ullastrell",8
+insert into Spain.Municipios values(8291,"Vacarisses",8
+insert into Spain.Municipios values(8292,"Vallbona d'Anoia",8
+insert into Spain.Municipios values(8293,"Vallcebre",8
+insert into Spain.Municipios values(8294,"Vallgorguina",8
+insert into Spain.Municipios values(8295,"Vallirana",8
+insert into Spain.Municipios values(8296,"Vallromanes",8
+insert into Spain.Municipios values(8297,"Veciana",8
+insert into Spain.Municipios values(8298,"Vic",8
+insert into Spain.Municipios values(8299,"Vilada",8
+insert into Spain.Municipios values(8300,"Viladecavalls",8
+insert into Spain.Municipios values(8301,"Viladecans",8
+insert into Spain.Municipios values(8302,"Vilanova del Camí",8
+insert into Spain.Municipios values(8303,"Vilanova de Sau",8
+insert into Spain.Municipios values(8304,"Vilobí del Penedès",8
+insert into Spain.Municipios values(8305,"Vilafranca del Penedès",8
+insert into Spain.Municipios values(8306,"Vilalba Sasserra",8
+insert into Spain.Municipios values(8307,"Vilanova i la Geltrú",8
+insert into Spain.Municipios values(8308,"Viver i Serrateix",8
+insert into Spain.Municipios values(8901,"Rupit i Pruit",8
+insert into Spain.Municipios values(8902,"Vilanova del Vallès",8
+insert into Spain.Municipios values(8903,"Sant Julià de Cerdanyola",8
+insert into Spain.Municipios values(8904,"Badia del Vallès",8
+insert into Spain.Municipios values(8905,"Palma de Cervelló, La",8
+insert into Spain.Municipios values(9001,"Abajas",9
+insert into Spain.Municipios values(9003,"Adrada de Haza",9
+insert into Spain.Municipios values(9006,"Aguas Cándidas",9
+insert into Spain.Municipios values(9007,"Aguilar de Bureba",9
+insert into Spain.Municipios values(9009,"Albillos",9
+insert into Spain.Municipios values(9010,"Alcocero de Mola",9
+insert into Spain.Municipios values(9011,"Alfoz de Bricia",9
+insert into Spain.Municipios values(9012,"Alfoz de Santa Gadea",9
+insert into Spain.Municipios values(9013,"Altable",9
+insert into Spain.Municipios values(9014,"Altos, Los",9
+insert into Spain.Municipios values(9016,"Ameyugo",9
+insert into Spain.Municipios values(9017,"Anguix",9
+insert into Spain.Municipios values(9018,"Aranda de Duero",9
+insert into Spain.Municipios values(9019,"Arandilla",9
+insert into Spain.Municipios values(9020,"Arauzo de Miel",9
+insert into Spain.Municipios values(9021,"Arauzo de Salce",9
+insert into Spain.Municipios values(9022,"Arauzo de Torre",9
+insert into Spain.Municipios values(9023,"Arcos",9
+insert into Spain.Municipios values(9024,"Arenillas de Riopisuerga",9
+insert into Spain.Municipios values(9025,"Arija",9
+insert into Spain.Municipios values(9026,"Arlanzón",9
+insert into Spain.Municipios values(9027,"Arraya de Oca",9
+insert into Spain.Municipios values(9029,"Atapuerca",9
+insert into Spain.Municipios values(9030,"Ausines, Los",9
+insert into Spain.Municipios values(9032,"Avellanosa de Muñó",9
+insert into Spain.Municipios values(9033,"Bahabón de Esgueva",9
+insert into Spain.Municipios values(9034,"Balbases, Los",9
+insert into Spain.Municipios values(9035,"Baños de Valdearados",9
+insert into Spain.Municipios values(9036,"Bañuelos de Bureba",9
+insert into Spain.Municipios values(9037,"Barbadillo de Herreros",9
+insert into Spain.Municipios values(9038,"Barbadillo del Mercado",9
+insert into Spain.Municipios values(9039,"Barbadillo del Pez",9
+insert into Spain.Municipios values(9041,"Barrio de Muñó",9
+insert into Spain.Municipios values(9043,"Barrios de Bureba, Los",9
+insert into Spain.Municipios values(9044,"Barrios de Colina",9
+insert into Spain.Municipios values(9045,"Basconcillos del Tozo",9
+insert into Spain.Municipios values(9046,"Bascuñana",9
+insert into Spain.Municipios values(9047,"Belbimbre",9
+insert into Spain.Municipios values(9048,"Belorado",9
+insert into Spain.Municipios values(9050,"Berberana",9
+insert into Spain.Municipios values(9051,"Berlangas de Roa",9
+insert into Spain.Municipios values(9052,"Berzosa de Bureba",9
+insert into Spain.Municipios values(9054,"Bozoó",9
+insert into Spain.Municipios values(9055,"Brazacorta",9
+insert into Spain.Municipios values(9056,"Briviesca",9
+insert into Spain.Municipios values(9057,"Bugedo",9
+insert into Spain.Municipios values(9058,"Buniel",9
+insert into Spain.Municipios values(9059,"Burgos",9
+insert into Spain.Municipios values(9060,"Busto de Bureba",9
+insert into Spain.Municipios values(9061,"Cabañes de Esgueva",9
+insert into Spain.Municipios values(9062,"Cabezón de la Sierra",9
+insert into Spain.Municipios values(9063,"Cavia",9
+insert into Spain.Municipios values(9064,"Caleruega",9
+insert into Spain.Municipios values(9065,"Campillo de Aranda",9
+insert into Spain.Municipios values(9066,"Campolara",9
+insert into Spain.Municipios values(9067,"Canicosa de la Sierra",9
+insert into Spain.Municipios values(9068,"Cantabrana",9
+insert into Spain.Municipios values(9070,"Carazo",9
+insert into Spain.Municipios values(9071,"Carcedo de Bureba",9
+insert into Spain.Municipios values(9072,"Carcedo de Burgos",9
+insert into Spain.Municipios values(9073,"Cardeñadijo",9
+insert into Spain.Municipios values(9074,"Cardeñajimeno",9
+insert into Spain.Municipios values(9075,"Cardeñuela Riopico",9
+insert into Spain.Municipios values(9076,"Carrias",9
+insert into Spain.Municipios values(9077,"Cascajares de Bureba",9
+insert into Spain.Municipios values(9078,"Cascajares de la Sierra",9
+insert into Spain.Municipios values(9079,"Castellanos de Castro",9
+insert into Spain.Municipios values(9082,"Castildelgado",9
+insert into Spain.Municipios values(9083,"Castil de Peones",9
+insert into Spain.Municipios values(9084,"Castrillo de la Reina",9
+insert into Spain.Municipios values(9085,"Castrillo de la Vega",9
+insert into Spain.Municipios values(9086,"Castrillo del Val",9
+insert into Spain.Municipios values(9088,"Castrillo de Riopisuerga",9
+insert into Spain.Municipios values(9090,"Castrillo Mota de Judíos",9
+insert into Spain.Municipios values(9091,"Castrojeriz",9
+insert into Spain.Municipios values(9093,"Cayuela",9
+insert into Spain.Municipios values(9094,"Cebrecos",9
+insert into Spain.Municipios values(9095,"Celada del Camino",9
+insert into Spain.Municipios values(9098,"Cerezo de Río Tirón",9
+insert into Spain.Municipios values(9100,"Cerratón de Juarros",9
+insert into Spain.Municipios values(9101,"Ciadoncha",9
+insert into Spain.Municipios values(9102,"Cillaperlata",9
+insert into Spain.Municipios values(9103,"Cilleruelo de Abajo",9
+insert into Spain.Municipios values(9104,"Cilleruelo de Arriba",9
+insert into Spain.Municipios values(9105,"Ciruelos de Cervera",9
+insert into Spain.Municipios values(9108,"Cogollos",9
+insert into Spain.Municipios values(9109,"Condado de Treviño",9
+insert into Spain.Municipios values(9110,"Contreras",9
+insert into Spain.Municipios values(9112,"Coruña del Conde",9
+insert into Spain.Municipios values(9113,"Covarrubias",9
+insert into Spain.Municipios values(9114,"Cubillo del Campo",9
+insert into Spain.Municipios values(9115,"Cubo de Bureba",9
+insert into Spain.Municipios values(9117,"Cueva de Roa, La",9
+insert into Spain.Municipios values(9119,"Cuevas de San Clemente",9
+insert into Spain.Municipios values(9120,"Encío",9
+insert into Spain.Municipios values(9122,"Espinosa de Cervera",9
+insert into Spain.Municipios values(9123,"Espinosa del Camino",9
+insert into Spain.Municipios values(9124,"Espinosa de los Monteros",9
+insert into Spain.Municipios values(9125,"Estépar",9
+insert into Spain.Municipios values(9127,"Fontioso",9
+insert into Spain.Municipios values(9128,"Frandovínez",9
+insert into Spain.Municipios values(9129,"Fresneda de la Sierra Tirón",9
+insert into Spain.Municipios values(9130,"Fresneña",9
+insert into Spain.Municipios values(9131,"Fresnillo de las Dueñas",9
+insert into Spain.Municipios values(9132,"Fresno de Río Tirón",9
+insert into Spain.Municipios values(9133,"Fresno de Rodilla",9
+insert into Spain.Municipios values(9134,"Frías",9
+insert into Spain.Municipios values(9135,"Fuentebureba",9
+insert into Spain.Municipios values(9136,"Fuentecén",9
+insert into Spain.Municipios values(9137,"Fuentelcésped",9
+insert into Spain.Municipios values(9138,"Fuentelisendo",9
+insert into Spain.Municipios values(9139,"Fuentemolinos",9
+insert into Spain.Municipios values(9140,"Fuentenebro",9
+insert into Spain.Municipios values(9141,"Fuentespina",9
+insert into Spain.Municipios values(9143,"Galbarros",9
+insert into Spain.Municipios values(9144,"Gallega, La",9
+insert into Spain.Municipios values(9148,"Grijalba",9
+insert into Spain.Municipios values(9149,"Grisaleña",9
+insert into Spain.Municipios values(9151,"Gumiel de Izán",9
+insert into Spain.Municipios values(9152,"Gumiel de Mercado",9
+insert into Spain.Municipios values(9154,"Hacinas",9
+insert into Spain.Municipios values(9155,"Haza",9
+insert into Spain.Municipios values(9159,"Hontanas",9
+insert into Spain.Municipios values(9160,"Hontangas",9
+insert into Spain.Municipios values(9162,"Hontoria de la Cantera",9
+insert into Spain.Municipios values(9163,"Hontoria del Pinar",9
+insert into Spain.Municipios values(9164,"Hontoria de Valdearados",9
+insert into Spain.Municipios values(9166,"Hormazas, Las",9
+insert into Spain.Municipios values(9167,"Hornillos del Camino",9
+insert into Spain.Municipios values(9168,"Horra, La",9
+insert into Spain.Municipios values(9169,"Hortigüela",9
+insert into Spain.Municipios values(9170,"Hoyales de Roa",9
+insert into Spain.Municipios values(9172,"Huérmeces",9
+insert into Spain.Municipios values(9173,"Huerta de Arriba",9
+insert into Spain.Municipios values(9174,"Huerta de Rey",9
+insert into Spain.Municipios values(9175,"Humada",9
+insert into Spain.Municipios values(9176,"Hurones",9
+insert into Spain.Municipios values(9177,"Ibeas de Juarros",9
+insert into Spain.Municipios values(9178,"Ibrillos",9
+insert into Spain.Municipios values(9179,"Iglesiarrubia",9
+insert into Spain.Municipios values(9180,"Iglesias",9
+insert into Spain.Municipios values(9181,"Isar",9
+insert into Spain.Municipios values(9182,"Itero del Castillo",9
+insert into Spain.Municipios values(9183,"Jaramillo de la Fuente",9
+insert into Spain.Municipios values(9184,"Jaramillo Quemado",9
+insert into Spain.Municipios values(9189,"Junta de Traslaloma",9
+insert into Spain.Municipios values(9190,"Junta de Villalba de Losa",9
+insert into Spain.Municipios values(9191,"Jurisdicción de Lara",9
+insert into Spain.Municipios values(9192,"Jurisdicción de San Zadornil",9
+insert into Spain.Municipios values(9194,"Lerma",9
+insert into Spain.Municipios values(9195,"Llano de Bureba",9
+insert into Spain.Municipios values(9196,"Madrigal del Monte",9
+insert into Spain.Municipios values(9197,"Madrigalejo del Monte",9
+insert into Spain.Municipios values(9198,"Mahamud",9
+insert into Spain.Municipios values(9199,"Mambrilla de Castrejón",9
+insert into Spain.Municipios values(9200,"Mambrillas de Lara",9
+insert into Spain.Municipios values(9201,"Mamolar",9
+insert into Spain.Municipios values(9202,"Manciles",9
+insert into Spain.Municipios values(9206,"Mazuela",9
+insert into Spain.Municipios values(9208,"Mecerreyes",9
+insert into Spain.Municipios values(9209,"Medina de Pomar",9
+insert into Spain.Municipios values(9211,"Melgar de Fernamental",9
+insert into Spain.Municipios values(9213,"Merindad de Cuesta-Urria",9
+insert into Spain.Municipios values(9214,"Merindad de Montija",9
+insert into Spain.Municipios values(9215,"Merindad de Sotoscueva",9
+insert into Spain.Municipios values(9216,"Merindad de Valdeporres",9
+insert into Spain.Municipios values(9217,"Merindad de Valdivielso",9
+insert into Spain.Municipios values(9218,"Milagros",9
+insert into Spain.Municipios values(9219,"Miranda de Ebro",9
+insert into Spain.Municipios values(9220,"Miraveche",9
+insert into Spain.Municipios values(9221,"Modúbar de la Emparedada",9
+insert into Spain.Municipios values(9223,"Monasterio de la Sierra",9
+insert into Spain.Municipios values(9224,"Monasterio de Rodilla",9
+insert into Spain.Municipios values(9225,"Moncalvillo",9
+insert into Spain.Municipios values(9226,"Monterrubio de la Demanda",9
+insert into Spain.Municipios values(9227,"Montorio",9
+insert into Spain.Municipios values(9228,"Moradillo de Roa",9
+insert into Spain.Municipios values(9229,"Nava de Roa",9
+insert into Spain.Municipios values(9230,"Navas de Bureba",9
+insert into Spain.Municipios values(9231,"Nebreda",9
+insert into Spain.Municipios values(9232,"Neila",9
+insert into Spain.Municipios values(9235,"Olmedillo de Roa",9
+insert into Spain.Municipios values(9236,"Olmillos de Muñó",9
+insert into Spain.Municipios values(9238,"Oña",9
+insert into Spain.Municipios values(9239,"Oquillas",9
+insert into Spain.Municipios values(9241,"Orbaneja Riopico",9
+insert into Spain.Municipios values(9242,"Padilla de Abajo",9
+insert into Spain.Municipios values(9243,"Padilla de Arriba",9
+insert into Spain.Municipios values(9244,"Padrones de Bureba",9
+insert into Spain.Municipios values(9246,"Palacios de la Sierra",9
+insert into Spain.Municipios values(9247,"Palacios de Riopisuerga",9
+insert into Spain.Municipios values(9248,"Palazuelos de la Sierra",9
+insert into Spain.Municipios values(9249,"Palazuelos de Muñó",9
+insert into Spain.Municipios values(9250,"Pampliega",9
+insert into Spain.Municipios values(9251,"Pancorbo",9
+insert into Spain.Municipios values(9253,"Pardilla",9
+insert into Spain.Municipios values(9255,"Partido de la Sierra en Tobalina",9
+insert into Spain.Municipios values(9256,"Pedrosa de Duero",9
+insert into Spain.Municipios values(9257,"Pedrosa del Páramo",9
+insert into Spain.Municipios values(9258,"Pedrosa del Príncipe",9
+insert into Spain.Municipios values(9259,"Pedrosa de Río Úrbel",9
+insert into Spain.Municipios values(9261,"Peñaranda de Duero",9
+insert into Spain.Municipios values(9262,"Peral de Arlanza",9
+insert into Spain.Municipios values(9265,"Piérnigas",9
+insert into Spain.Municipios values(9266,"Pineda de la Sierra",9
+insert into Spain.Municipios values(9267,"Pineda Trasmonte",9
+insert into Spain.Municipios values(9268,"Pinilla de los Barruecos",9
+insert into Spain.Municipios values(9269,"Pinilla de los Moros",9
+insert into Spain.Municipios values(9270,"Pinilla Trasmonte",9
+insert into Spain.Municipios values(9272,"Poza de la Sal",9
+insert into Spain.Municipios values(9273,"Prádanos de Bureba",9
+insert into Spain.Municipios values(9274,"Pradoluengo",9
+insert into Spain.Municipios values(9275,"Presencio",9
+insert into Spain.Municipios values(9276,"Puebla de Arganzón, La",9
+insert into Spain.Municipios values(9277,"Puentedura",9
+insert into Spain.Municipios values(9279,"Quemada",9
+insert into Spain.Municipios values(9280,"Quintanabureba",9
+insert into Spain.Municipios values(9281,"Quintana del Pidio",9
+insert into Spain.Municipios values(9283,"Quintanaélez",9
+insert into Spain.Municipios values(9287,"Quintanaortuño",9
+insert into Spain.Municipios values(9288,"Quintanapalla",9
+insert into Spain.Municipios values(9289,"Quintanar de la Sierra",9
+insert into Spain.Municipios values(9292,"Quintanavides",9
+insert into Spain.Municipios values(9294,"Quintanilla de la Mata",9
+insert into Spain.Municipios values(9295,"Quintanilla del Coco",9
+insert into Spain.Municipios values(9297,"Quintanillas, Las",9
+insert into Spain.Municipios values(9298,"Quintanilla San García",9
+insert into Spain.Municipios values(9301,"Quintanilla Vivar",9
+insert into Spain.Municipios values(9302,"Rabanera del Pinar",9
+insert into Spain.Municipios values(9303,"Rábanos",9
+insert into Spain.Municipios values(9304,"Rabé de las Calzadas",9
+insert into Spain.Municipios values(9306,"Rebolledo de la Torre",9
+insert into Spain.Municipios values(9307,"Redecilla del Camino",9
+insert into Spain.Municipios values(9308,"Redecilla del Campo",9
+insert into Spain.Municipios values(9309,"Regumiel de la Sierra",9
+insert into Spain.Municipios values(9310,"Reinoso",9
+insert into Spain.Municipios values(9311,"Retuerta",9
+insert into Spain.Municipios values(9312,"Revilla y Ahedo, La",9
+insert into Spain.Municipios values(9314,"Revilla del Campo",9
+insert into Spain.Municipios values(9315,"Revillarruz",9
+insert into Spain.Municipios values(9316,"Revilla Vallejera",9
+insert into Spain.Municipios values(9317,"Rezmondo",9
+insert into Spain.Municipios values(9318,"Riocavado de la Sierra",9
+insert into Spain.Municipios values(9321,"Roa",9
+insert into Spain.Municipios values(9323,"Rojas",9
+insert into Spain.Municipios values(9325,"Royuela de Río Franco",9
+insert into Spain.Municipios values(9326,"Rubena",9
+insert into Spain.Municipios values(9327,"Rublacedo de Abajo",9
+insert into Spain.Municipios values(9328,"Rucandio",9
+insert into Spain.Municipios values(9329,"Salas de Bureba",9
+insert into Spain.Municipios values(9330,"Salas de los Infantes",9
+insert into Spain.Municipios values(9332,"Saldaña de Burgos",9
+insert into Spain.Municipios values(9334,"Salinillas de Bureba",9
+insert into Spain.Municipios values(9335,"San Adrián de Juarros",9
+insert into Spain.Municipios values(9337,"San Juan del Monte",9
+insert into Spain.Municipios values(9338,"San Mamés de Burgos",9
+insert into Spain.Municipios values(9339,"San Martín de Rubiales",9
+insert into Spain.Municipios values(9340,"San Millán de Lara",9
+insert into Spain.Municipios values(9343,"Santa Cecilia",9
+insert into Spain.Municipios values(9345,"Santa Cruz de la Salceda",9
+insert into Spain.Municipios values(9346,"Santa Cruz del Valle Urbión",9
+insert into Spain.Municipios values(9347,"Santa Gadea del Cid",9
+insert into Spain.Municipios values(9348,"Santa Inés",9
+insert into Spain.Municipios values(9350,"Santa María del Campo",9
+insert into Spain.Municipios values(9351,"Santa María del Invierno",9
+insert into Spain.Municipios values(9352,"Santa María del Mercadillo",9
+insert into Spain.Municipios values(9353,"Santa María Rivarredonda",9
+insert into Spain.Municipios values(9354,"Santa Olalla de Bureba",9
+insert into Spain.Municipios values(9355,"Santibáñez de Esgueva",9
+insert into Spain.Municipios values(9356,"Santibáñez del Val",9
+insert into Spain.Municipios values(9358,"Santo Domingo de Silos",9
+insert into Spain.Municipios values(9360,"San Vicente del Valle",9
+insert into Spain.Municipios values(9361,"Sargentes de la Lora",9
+insert into Spain.Municipios values(9362,"Sarracín",9
+insert into Spain.Municipios values(9363,"Sasamón",9
+insert into Spain.Municipios values(9365,"Sequera de Haza, La",9
+insert into Spain.Municipios values(9366,"Solarana",9
+insert into Spain.Municipios values(9368,"Sordillos",9
+insert into Spain.Municipios values(9369,"Sotillo de la Ribera",9
+insert into Spain.Municipios values(9372,"Sotragero",9
+insert into Spain.Municipios values(9373,"Sotresgudo",9
+insert into Spain.Municipios values(9374,"Susinos del Páramo",9
+insert into Spain.Municipios values(9375,"Tamarón",9
+insert into Spain.Municipios values(9377,"Tardajos",9
+insert into Spain.Municipios values(9378,"Tejada",9
+insert into Spain.Municipios values(9380,"Terradillos de Esgueva",9
+insert into Spain.Municipios values(9381,"Tinieblas de la Sierra",9
+insert into Spain.Municipios values(9382,"Tobar",9
+insert into Spain.Municipios values(9384,"Tordómar",9
+insert into Spain.Municipios values(9386,"Torrecilla del Monte",9
+insert into Spain.Municipios values(9387,"Torregalindo",9
+insert into Spain.Municipios values(9388,"Torrelara",9
+insert into Spain.Municipios values(9389,"Torrepadre",9
+insert into Spain.Municipios values(9390,"Torresandino",9
+insert into Spain.Municipios values(9391,"Tórtoles de Esgueva",9
+insert into Spain.Municipios values(9392,"Tosantos",9
+insert into Spain.Municipios values(9394,"Trespaderne",9
+insert into Spain.Municipios values(9395,"Tubilla del Agua",9
+insert into Spain.Municipios values(9396,"Tubilla del Lago",9
+insert into Spain.Municipios values(9398,"Úrbel del Castillo",9
+insert into Spain.Municipios values(9400,"Vadocondes",9
+insert into Spain.Municipios values(9403,"Valdeande",9
+insert into Spain.Municipios values(9405,"Valdezate",9
+insert into Spain.Municipios values(9406,"Valdorros",9
+insert into Spain.Municipios values(9407,"Valmala",9
+insert into Spain.Municipios values(9408,"Vallarta de Bureba",9
+insert into Spain.Municipios values(9409,"Valle de Manzanedo",9
+insert into Spain.Municipios values(9410,"Valle de Mena",9
+insert into Spain.Municipios values(9411,"Valle de Oca",9
+insert into Spain.Municipios values(9412,"Valle de Tobalina",9
+insert into Spain.Municipios values(9413,"Valle de Valdebezana",9
+insert into Spain.Municipios values(9414,"Valle de Valdelaguna",9
+insert into Spain.Municipios values(9415,"Valle de Valdelucio",9
+insert into Spain.Municipios values(9416,"Valle de Zamanzas",9
+insert into Spain.Municipios values(9417,"Vallejera",9
+insert into Spain.Municipios values(9418,"Valles de Palenzuela",9
+insert into Spain.Municipios values(9419,"Valluércanes",9
+insert into Spain.Municipios values(9421,"Vid y Barrios, La",9
+insert into Spain.Municipios values(9422,"Vid de Bureba, La",9
+insert into Spain.Municipios values(9423,"Vileña",9
+insert into Spain.Municipios values(9424,"Viloria de Rioja",9
+insert into Spain.Municipios values(9425,"Vilviestre del Pinar",9
+insert into Spain.Municipios values(9427,"Villadiego",9
+insert into Spain.Municipios values(9428,"Villaescusa de Roa",9
+insert into Spain.Municipios values(9429,"Villaescusa la Sombría",9
+insert into Spain.Municipios values(9430,"Villaespasa",9
+insert into Spain.Municipios values(9431,"Villafranca Montes de Oca",9
+insert into Spain.Municipios values(9432,"Villafruela",9
+insert into Spain.Municipios values(9433,"Villagalijo",9
+insert into Spain.Municipios values(9434,"Villagonzalo Pedernales",9
+insert into Spain.Municipios values(9437,"Villahoz",9
+insert into Spain.Municipios values(9438,"Villalba de Duero",9
+insert into Spain.Municipios values(9439,"Villalbilla de Burgos",9
+insert into Spain.Municipios values(9440,"Villalbilla de Gumiel",9
+insert into Spain.Municipios values(9441,"Villaldemiro",9
+insert into Spain.Municipios values(9442,"Villalmanzo",9
+insert into Spain.Municipios values(9443,"Villamayor de los Montes",9
+insert into Spain.Municipios values(9444,"Villamayor de Treviño",9
+insert into Spain.Municipios values(9445,"Villambistia",9
+insert into Spain.Municipios values(9446,"Villamedianilla",9
+insert into Spain.Municipios values(9447,"Villamiel de la Sierra",9
+insert into Spain.Municipios values(9448,"Villangómez",9
+insert into Spain.Municipios values(9449,"Villanueva de Argaño",9
+insert into Spain.Municipios values(9450,"Villanueva de Carazo",9
+insert into Spain.Municipios values(9451,"Villanueva de Gumiel",9
+insert into Spain.Municipios values(9454,"Villanueva de Teba",9
+insert into Spain.Municipios values(9455,"Villaquirán de la Puebla",9
+insert into Spain.Municipios values(9456,"Villaquirán de los Infantes",9
+insert into Spain.Municipios values(9458,"Villariezo",9
+insert into Spain.Municipios values(9460,"Villasandino",9
+insert into Spain.Municipios values(9463,"Villasur de Herreros",9
+insert into Spain.Municipios values(9464,"Villatuelda",9
+insert into Spain.Municipios values(9466,"Villaverde del Monte",9
+insert into Spain.Municipios values(9467,"Villaverde-Mogina",9
+insert into Spain.Municipios values(9471,"Villayerno Morquillas",9
+insert into Spain.Municipios values(9472,"Villazopeque",9
+insert into Spain.Municipios values(9473,"Villegas",9
+insert into Spain.Municipios values(9476,"Villoruebo",9
+insert into Spain.Municipios values(9478,"Vizcaínos",9
+insert into Spain.Municipios values(9480,"Zael",9
+insert into Spain.Municipios values(9482,"Zarzosa de Río Pisuerga",9
+insert into Spain.Municipios values(9483,"Zazuar",9
+insert into Spain.Municipios values(9485,"Zuñeda",9
+insert into Spain.Municipios values(9901,"Quintanilla del Agua y Tordueles",9
+insert into Spain.Municipios values(9902,"Valle de Santibáñez",9
+insert into Spain.Municipios values(9903,"Villarcayo de Merindad de Castilla la Vieja",9
+insert into Spain.Municipios values(9904,"Valle de las Navas",9
+insert into Spain.Municipios values(9905,"Valle de Sedano",9
+insert into Spain.Municipios values(9906,"Merindad de Río Ubierna",9
+insert into Spain.Municipios values(9907,"Alfoz de Quintanadueñas",9
+insert into Spain.Municipios values(9908,"Valle de Losa",9
+insert into Spain.Municipios values(10001,"Abadía",10
+insert into Spain.Municipios values(10002,"Abertura",10
+insert into Spain.Municipios values(10003,"Acebo",10
+insert into Spain.Municipios values(10004,"Acehúche",10
+insert into Spain.Municipios values(10005,"Aceituna",10
+insert into Spain.Municipios values(10006,"Ahigal",10
+insert into Spain.Municipios values(10007,"Albalá",10
+insert into Spain.Municipios values(10008,"Alcántara",10
+insert into Spain.Municipios values(10009,"Alcollarín",10
+insert into Spain.Municipios values(10010,"Alcuéscar",10
+insert into Spain.Municipios values(10011,"Aldeacentenera",10
+insert into Spain.Municipios values(10012,"Aldea del Cano",10
+insert into Spain.Municipios values(10013,"Aldea del Obispo, La",10
+insert into Spain.Municipios values(10014,"Aldeanueva de la Vera",10
+insert into Spain.Municipios values(10015,"Aldeanueva del Camino",10
+insert into Spain.Municipios values(10016,"Aldehuela de Jerte",10
+insert into Spain.Municipios values(10017,"Alía",10
+insert into Spain.Municipios values(10018,"Aliseda",10
+insert into Spain.Municipios values(10019,"Almaraz",10
+insert into Spain.Municipios values(10020,"Almoharín",10
+insert into Spain.Municipios values(10021,"Arroyo de la Luz",10
+insert into Spain.Municipios values(10022,"Arroyomolinos de la Vera",10
+insert into Spain.Municipios values(10023,"Arroyomolinos",10
+insert into Spain.Municipios values(10024,"Baños de Montemayor",10
+insert into Spain.Municipios values(10025,"Barrado",10
+insert into Spain.Municipios values(10026,"Belvís de Monroy",10
+insert into Spain.Municipios values(10027,"Benquerencia",10
+insert into Spain.Municipios values(10028,"Berrocalejo",10
+insert into Spain.Municipios values(10029,"Berzocana",10
+insert into Spain.Municipios values(10030,"Bohonal de Ibor",10
+insert into Spain.Municipios values(10031,"Botija",10
+insert into Spain.Municipios values(10032,"Brozas",10
+insert into Spain.Municipios values(10033,"Cabañas del Castillo",10
+insert into Spain.Municipios values(10034,"Cabezabellosa",10
+insert into Spain.Municipios values(10035,"Cabezuela del Valle",10
+insert into Spain.Municipios values(10036,"Cabrero",10
+insert into Spain.Municipios values(10037,"Cáceres",10
+insert into Spain.Municipios values(10038,"Cachorrilla",10
+insert into Spain.Municipios values(10039,"Cadalso",10
+insert into Spain.Municipios values(10040,"Calzadilla",10
+insert into Spain.Municipios values(10041,"Caminomorisco",10
+insert into Spain.Municipios values(10042,"Campillo de Deleitosa",10
+insert into Spain.Municipios values(10043,"Campo Lugar",10
+insert into Spain.Municipios values(10044,"Cañamero",10
+insert into Spain.Municipios values(10045,"Cañaveral",10
+insert into Spain.Municipios values(10046,"Carbajo",10
+insert into Spain.Municipios values(10047,"Carcaboso",10
+insert into Spain.Municipios values(10048,"Carrascalejo",10
+insert into Spain.Municipios values(10049,"Casar de Cáceres",10
+insert into Spain.Municipios values(10050,"Casar de Palomero",10
+insert into Spain.Municipios values(10051,"Casares de las Hurdes",10
+insert into Spain.Municipios values(10052,"Casas de Don Antonio",10
+insert into Spain.Municipios values(10053,"Casas de Don Gómez",10
+insert into Spain.Municipios values(10054,"Casas del Castañar",10
+insert into Spain.Municipios values(10055,"Casas del Monte",10
+insert into Spain.Municipios values(10056,"Casas de Millán",10
+insert into Spain.Municipios values(10057,"Casas de Miravete",10
+insert into Spain.Municipios values(10058,"Casatejada",10
+insert into Spain.Municipios values(10059,"Casillas de Coria",10
+insert into Spain.Municipios values(10060,"Castañar de Ibor",10
+insert into Spain.Municipios values(10061,"Ceclavín",10
+insert into Spain.Municipios values(10062,"Cedillo",10
+insert into Spain.Municipios values(10063,"Cerezo",10
+insert into Spain.Municipios values(10064,"Cilleros",10
+insert into Spain.Municipios values(10065,"Collado de la Vera",10
+insert into Spain.Municipios values(10066,"Conquista de la Sierra",10
+insert into Spain.Municipios values(10067,"Coria",10
+insert into Spain.Municipios values(10068,"Cuacos de Yuste",10
+insert into Spain.Municipios values(10069,"Cumbre, La",10
+insert into Spain.Municipios values(10070,"Deleitosa",10
+insert into Spain.Municipios values(10071,"Descargamaría",10
+insert into Spain.Municipios values(10072,"Eljas",10
+insert into Spain.Municipios values(10073,"Escurial",10
+insert into Spain.Municipios values(10075,"Fresnedoso de Ibor",10
+insert into Spain.Municipios values(10076,"Galisteo",10
+insert into Spain.Municipios values(10077,"Garciaz",10
+insert into Spain.Municipios values(10078,"Garganta, La",10
+insert into Spain.Municipios values(10079,"Garganta la Olla",10
+insert into Spain.Municipios values(10080,"Gargantilla",10
+insert into Spain.Municipios values(10081,"Gargüera",10
+insert into Spain.Municipios values(10082,"Garrovillas de Alconétar",10
+insert into Spain.Municipios values(10083,"Garvín",10
+insert into Spain.Municipios values(10084,"Gata",10
+insert into Spain.Municipios values(10085,"Gordo, El",10
+insert into Spain.Municipios values(10086,"Granja, La",10
+insert into Spain.Municipios values(10087,"Guadalupe",10
+insert into Spain.Municipios values(10088,"Guijo de Coria",10
+insert into Spain.Municipios values(10089,"Guijo de Galisteo",10
+insert into Spain.Municipios values(10090,"Guijo de Granadilla",10
+insert into Spain.Municipios values(10091,"Guijo de Santa Bárbara",10
+insert into Spain.Municipios values(10092,"Herguijuela",10
+insert into Spain.Municipios values(10093,"Hernán-Pérez",10
+insert into Spain.Municipios values(10094,"Herrera de Alcántara",10
+insert into Spain.Municipios values(10095,"Herreruela",10
+insert into Spain.Municipios values(10096,"Hervás",10
+insert into Spain.Municipios values(10097,"Higuera",10
+insert into Spain.Municipios values(10098,"Hinojal",10
+insert into Spain.Municipios values(10099,"Holguera",10
+insert into Spain.Municipios values(10100,"Hoyos",10
+insert into Spain.Municipios values(10101,"Huélaga",10
+insert into Spain.Municipios values(10102,"Ibahernando",10
+insert into Spain.Municipios values(10103,"Jaraicejo",10
+insert into Spain.Municipios values(10104,"Jaraíz de la Vera",10
+insert into Spain.Municipios values(10105,"Jarandilla de la Vera",10
+insert into Spain.Municipios values(10106,"Jarilla",10
+insert into Spain.Municipios values(10107,"Jerte",10
+insert into Spain.Municipios values(10108,"Ladrillar",10
+insert into Spain.Municipios values(10109,"Logrosán",10
+insert into Spain.Municipios values(10110,"Losar de la Vera",10
+insert into Spain.Municipios values(10111,"Madrigal de la Vera",10
+insert into Spain.Municipios values(10112,"Madrigalejo",10
+insert into Spain.Municipios values(10113,"Madroñera",10
+insert into Spain.Municipios values(10114,"Majadas",10
+insert into Spain.Municipios values(10115,"Malpartida de Cáceres",10
+insert into Spain.Municipios values(10116,"Malpartida de Plasencia",10
+insert into Spain.Municipios values(10117,"Marchagaz",10
+insert into Spain.Municipios values(10118,"Mata de Alcántara",10
+insert into Spain.Municipios values(10119,"Membrío",10
+insert into Spain.Municipios values(10120,"Mesas de Ibor",10
+insert into Spain.Municipios values(10121,"Miajadas",10
+insert into Spain.Municipios values(10122,"Millanes",10
+insert into Spain.Municipios values(10123,"Mirabel",10
+insert into Spain.Municipios values(10124,"Mohedas de Granadilla",10
+insert into Spain.Municipios values(10125,"Monroy",10
+insert into Spain.Municipios values(10126,"Montánchez",10
+insert into Spain.Municipios values(10127,"Montehermoso",10
+insert into Spain.Municipios values(10128,"Moraleja",10
+insert into Spain.Municipios values(10129,"Morcillo",10
+insert into Spain.Municipios values(10130,"Navaconcejo",10
+insert into Spain.Municipios values(10131,"Navalmoral de la Mata",10
+insert into Spain.Municipios values(10132,"Navalvillar de Ibor",10
+insert into Spain.Municipios values(10133,"Navas del Madroño",10
+insert into Spain.Municipios values(10134,"Navezuelas",10
+insert into Spain.Municipios values(10135,"Nuñomoral",10
+insert into Spain.Municipios values(10136,"Oliva de Plasencia",10
+insert into Spain.Municipios values(10137,"Palomero",10
+insert into Spain.Municipios values(10138,"Pasarón de la Vera",10
+insert into Spain.Municipios values(10139,"Pedroso de Acim",10
+insert into Spain.Municipios values(10140,"Peraleda de la Mata",10
+insert into Spain.Municipios values(10141,"Peraleda de San Román",10
+insert into Spain.Municipios values(10142,"Perales del Puerto",10
+insert into Spain.Municipios values(10143,"Pescueza",10
+insert into Spain.Municipios values(10144,"Pesga, La",10
+insert into Spain.Municipios values(10145,"Piedras Albas",10
+insert into Spain.Municipios values(10146,"Pinofranqueado",10
+insert into Spain.Municipios values(10147,"Piornal",10
+insert into Spain.Municipios values(10148,"Plasencia",10
+insert into Spain.Municipios values(10149,"Plasenzuela",10
+insert into Spain.Municipios values(10150,"Portaje",10
+insert into Spain.Municipios values(10151,"Portezuelo",10
+insert into Spain.Municipios values(10152,"Pozuelo de Zarzón",10
+insert into Spain.Municipios values(10153,"Puerto de Santa Cruz",10
+insert into Spain.Municipios values(10154,"Rebollar",10
+insert into Spain.Municipios values(10155,"Riolobos",10
+insert into Spain.Municipios values(10156,"Robledillo de Gata",10
+insert into Spain.Municipios values(10157,"Robledillo de la Vera",10
+insert into Spain.Municipios values(10158,"Robledillo de Trujillo",10
+insert into Spain.Municipios values(10159,"Robledollano",10
+insert into Spain.Municipios values(10160,"Romangordo",10
+insert into Spain.Municipios values(10161,"Ruanes",10
+insert into Spain.Municipios values(10162,"Salorino",10
+insert into Spain.Municipios values(10163,"Salvatierra de Santiago",10
+insert into Spain.Municipios values(10164,"San Martín de Trevejo",10
+insert into Spain.Municipios values(10165,"Santa Ana",10
+insert into Spain.Municipios values(10166,"Santa Cruz de la Sierra",10
+insert into Spain.Municipios values(10167,"Santa Cruz de Paniagua",10
+insert into Spain.Municipios values(10168,"Santa Marta de Magasca",10
+insert into Spain.Municipios values(10169,"Santiago de Alcántara",10
+insert into Spain.Municipios values(10170,"Santiago del Campo",10
+insert into Spain.Municipios values(10171,"Santibáñez el Alto",10
+insert into Spain.Municipios values(10172,"Santibáñez el Bajo",10
+insert into Spain.Municipios values(10173,"Saucedilla",10
+insert into Spain.Municipios values(10174,"Segura de Toro",10
+insert into Spain.Municipios values(10175,"Serradilla",10
+insert into Spain.Municipios values(10176,"Serrejón",10
+insert into Spain.Municipios values(10177,"Sierra de Fuentes",10
+insert into Spain.Municipios values(10178,"Talaván",10
+insert into Spain.Municipios values(10179,"Talaveruela de la Vera",10
+insert into Spain.Municipios values(10180,"Talayuela",10
+insert into Spain.Municipios values(10181,"Tejeda de Tiétar",10
+insert into Spain.Municipios values(10182,"Toril",10
+insert into Spain.Municipios values(10183,"Tornavacas",10
+insert into Spain.Municipios values(10184,"Torno, El",10
+insert into Spain.Municipios values(10185,"Torrecilla de los Ángeles",10
+insert into Spain.Municipios values(10186,"Torrecillas de la Tiesa",10
+insert into Spain.Municipios values(10187,"Torre de Don Miguel",10
+insert into Spain.Municipios values(10188,"Torre de Santa María",10
+insert into Spain.Municipios values(10189,"Torrejoncillo",10
+insert into Spain.Municipios values(10190,"Torrejón el Rubio",10
+insert into Spain.Municipios values(10191,"Torremenga",10
+insert into Spain.Municipios values(10192,"Torremocha",10
+insert into Spain.Municipios values(10193,"Torreorgaz",10
+insert into Spain.Municipios values(10194,"Torrequemada",10
+insert into Spain.Municipios values(10195,"Trujillo",10
+insert into Spain.Municipios values(10196,"Valdastillas",10
+insert into Spain.Municipios values(10197,"Valdecañas de Tajo",10
+insert into Spain.Municipios values(10198,"Valdefuentes",10
+insert into Spain.Municipios values(10199,"Valdehúncar",10
+insert into Spain.Municipios values(10200,"Valdelacasa de Tajo",10
+insert into Spain.Municipios values(10201,"Valdemorales",10
+insert into Spain.Municipios values(10202,"Valdeobispo",10
+insert into Spain.Municipios values(10203,"Valencia de Alcántara",10
+insert into Spain.Municipios values(10204,"Valverde de la Vera",10
+insert into Spain.Municipios values(10205,"Valverde del Fresno",10
+insert into Spain.Municipios values(10206,"Viandar de la Vera",10
+insert into Spain.Municipios values(10207,"Villa del Campo",10
+insert into Spain.Municipios values(10208,"Villa del Rey",10
+insert into Spain.Municipios values(10209,"Villamesías",10
+insert into Spain.Municipios values(10210,"Villamiel",10
+insert into Spain.Municipios values(10211,"Villanueva de la Sierra",10
+insert into Spain.Municipios values(10212,"Villanueva de la Vera",10
+insert into Spain.Municipios values(10213,"Villar del Pedroso",10
+insert into Spain.Municipios values(10214,"Villar de Plasencia",10
+insert into Spain.Municipios values(10215,"Villasbuenas de Gata",10
+insert into Spain.Municipios values(10216,"Zarza de Granadilla",10
+insert into Spain.Municipios values(10217,"Zarza de Montánchez",10
+insert into Spain.Municipios values(10218,"Zarza la Mayor",10
+insert into Spain.Municipios values(10219,"Zorita",10
+insert into Spain.Municipios values(10901,"Rosalejo",10
+insert into Spain.Municipios values(10902,"Vegaviana",10
+insert into Spain.Municipios values(10903,"Alagón del Río",10
+insert into Spain.Municipios values(10904,"Tiétar",10
+insert into Spain.Municipios values(10905,"Pueblonuevo de Miramontes",10
+insert into Spain.Municipios values(11001,"Alcalá de los Gazules",11
+insert into Spain.Municipios values(11002,"Alcalá del Valle",11
+insert into Spain.Municipios values(11003,"Algar",11
+insert into Spain.Municipios values(11004,"Algeciras",11
+insert into Spain.Municipios values(11005,"Algodonales",11
+insert into Spain.Municipios values(11006,"Arcos de la Frontera",11
+insert into Spain.Municipios values(11007,"Barbate",11
+insert into Spain.Municipios values(11008,"Barrios, Los",11
+insert into Spain.Municipios values(11009,"Benaocaz",11
+insert into Spain.Municipios values(11010,"Bornos",11
+insert into Spain.Municipios values(11011,"Bosque, El",11
+insert into Spain.Municipios values(11012,"Cádiz",11
+insert into Spain.Municipios values(11013,"Castellar de la Frontera",11
+insert into Spain.Municipios values(11014,"Conil de la Frontera",11
+insert into Spain.Municipios values(11015,"Chiclana de la Frontera",11
+insert into Spain.Municipios values(11016,"Chipiona",11
+insert into Spain.Municipios values(11017,"Espera",11
+insert into Spain.Municipios values(11018,"Gastor, El",11
+insert into Spain.Municipios values(11019,"Grazalema",11
+insert into Spain.Municipios values(11020,"Jerez de la Frontera",11
+insert into Spain.Municipios values(11021,"Jimena de la Frontera",11
+insert into Spain.Municipios values(11022,"Línea de la Concepción, La",11
+insert into Spain.Municipios values(11023,"Medina-Sidonia",11
+insert into Spain.Municipios values(11024,"Olvera",11
+insert into Spain.Municipios values(11025,"Paterna de Rivera",11
+insert into Spain.Municipios values(11026,"Prado del Rey",11
+insert into Spain.Municipios values(11027,"Puerto de Santa María, El",11
+insert into Spain.Municipios values(11028,"Puerto Real",11
+insert into Spain.Municipios values(11029,"Puerto Serrano",11
+insert into Spain.Municipios values(11030,"Rota",11
+insert into Spain.Municipios values(11031,"San Fernando",11
+insert into Spain.Municipios values(11032,"Sanlúcar de Barrameda",11
+insert into Spain.Municipios values(11033,"San Roque",11
+insert into Spain.Municipios values(11034,"Setenil de las Bodegas",11
+insert into Spain.Municipios values(11035,"Tarifa",11
+insert into Spain.Municipios values(11036,"Torre Alháquime",11
+insert into Spain.Municipios values(11037,"Trebujena",11
+insert into Spain.Municipios values(11038,"Ubrique",11
+insert into Spain.Municipios values(11039,"Vejer de la Frontera",11
+insert into Spain.Municipios values(11040,"Villaluenga del Rosario",11
+insert into Spain.Municipios values(11041,"Villamartín",11
+insert into Spain.Municipios values(11042,"Zahara",11
+insert into Spain.Municipios values(11901,"Benalup-Casas Viejas",11
+insert into Spain.Municipios values(11902,"San José del Valle",11
+insert into Spain.Municipios values(12001,"Atzeneta del Maestrat",12
+insert into Spain.Municipios values(12002,"Aín",12
+insert into Spain.Municipios values(12003,"Albocàsser",12
+insert into Spain.Municipios values(12004,"Alcalà de Xivert",12
+insert into Spain.Municipios values(12005,"Alcora, l'",12
+insert into Spain.Municipios values(12006,"Alcudia de Veo",12
+insert into Spain.Municipios values(12007,"Alfondeguilla",12
+insert into Spain.Municipios values(12008,"Algimia de Almonacid",12
+insert into Spain.Municipios values(12009,"Almassora",12
+insert into Spain.Municipios values(12010,"Almedíjar",12
+insert into Spain.Municipios values(12011,"Almenara",12
+insert into Spain.Municipios values(12012,"Altura",12
+insert into Spain.Municipios values(12013,"Arañuel",12
+insert into Spain.Municipios values(12014,"Ares del Maestrat",12
+insert into Spain.Municipios values(12015,"Argelita",12
+insert into Spain.Municipios values(12016,"Artana",12
+insert into Spain.Municipios values(12017,"Ayódar",12
+insert into Spain.Municipios values(12018,"Azuébar",12
+insert into Spain.Municipios values(12020,"Barracas",12
+insert into Spain.Municipios values(12021,"Betxí",12
+insert into Spain.Municipios values(12022,"Bejís",12
+insert into Spain.Municipios values(12024,"Benafer",12
+insert into Spain.Municipios values(12025,"Benafigos",12
+insert into Spain.Municipios values(12026,"Benassal",12
+insert into Spain.Municipios values(12027,"Benicarló",12
+insert into Spain.Municipios values(12028,"Benicasim/Benicàssim",12
+insert into Spain.Municipios values(12029,"Benlloch",12
+insert into Spain.Municipios values(12031,"Borriol",12
+insert into Spain.Municipios values(12032,"Borriana/Burriana",12
+insert into Spain.Municipios values(12033,"Cabanes",12
+insert into Spain.Municipios values(12034,"Càlig",12
+insert into Spain.Municipios values(12036,"Canet lo Roig",12
+insert into Spain.Municipios values(12037,"Castell de Cabres",12
+insert into Spain.Municipios values(12038,"Castellfort",12
+insert into Spain.Municipios values(12039,"Castellnovo",12
+insert into Spain.Municipios values(12040,"Castellón de la Plana/Castelló de la Plana",12
+insert into Spain.Municipios values(12041,"Castillo de Villamalefa",12
+insert into Spain.Municipios values(12042,"Catí",12
+insert into Spain.Municipios values(12043,"Caudiel",12
+insert into Spain.Municipios values(12044,"Cervera del Maestre",12
+insert into Spain.Municipios values(12045,"Cinctorres",12
+insert into Spain.Municipios values(12046,"Cirat",12
+insert into Spain.Municipios values(12048,"Cortes de Arenoso",12
+insert into Spain.Municipios values(12049,"Costur",12
+insert into Spain.Municipios values(12050,"Coves de Vinromà, les",12
+insert into Spain.Municipios values(12051,"Culla",12
+insert into Spain.Municipios values(12052,"Xert",12
+insert into Spain.Municipios values(12053,"Chilches/Xilxes",12
+insert into Spain.Municipios values(12055,"Chodos/Xodos",12
+insert into Spain.Municipios values(12056,"Chóvar",12
+insert into Spain.Municipios values(12057,"Eslida",12
+insert into Spain.Municipios values(12058,"Espadilla",12
+insert into Spain.Municipios values(12059,"Fanzara",12
+insert into Spain.Municipios values(12060,"Figueroles",12
+insert into Spain.Municipios values(12061,"Forcall",12
+insert into Spain.Municipios values(12063,"Fuente la Reina",12
+insert into Spain.Municipios values(12064,"Fuentes de Ayódar",12
+insert into Spain.Municipios values(12065,"Gaibiel",12
+insert into Spain.Municipios values(12067,"Geldo",12
+insert into Spain.Municipios values(12068,"Herbés",12
+insert into Spain.Municipios values(12069,"Higueras",12
+insert into Spain.Municipios values(12070,"Jana, la",12
+insert into Spain.Municipios values(12071,"Jérica",12
+insert into Spain.Municipios values(12072,"Llucena/Lucena del Cid",12
+insert into Spain.Municipios values(12073,"Ludiente",12
+insert into Spain.Municipios values(12074,"Llosa, la",12
+insert into Spain.Municipios values(12075,"Mata de Morella, la",12
+insert into Spain.Municipios values(12076,"Matet",12
+insert into Spain.Municipios values(12077,"Moncofa",12
+insert into Spain.Municipios values(12078,"Montán",12
+insert into Spain.Municipios values(12079,"Montanejos",12
+insert into Spain.Municipios values(12080,"Morella",12
+insert into Spain.Municipios values(12081,"Navajas",12
+insert into Spain.Municipios values(12082,"Nules",12
+insert into Spain.Municipios values(12083,"Olocau del Rey",12
+insert into Spain.Municipios values(12084,"Onda",12
+insert into Spain.Municipios values(12085,"Oropesa del Mar/Orpesa",12
+insert into Spain.Municipios values(12087,"Palanques",12
+insert into Spain.Municipios values(12088,"Pavías",12
+insert into Spain.Municipios values(12089,"Peníscola/Peñíscola",12
+insert into Spain.Municipios values(12090,"Pina de Montalgrao",12
+insert into Spain.Municipios values(12091,"Portell de Morella",12
+insert into Spain.Municipios values(12092,"Puebla de Arenoso",12
+insert into Spain.Municipios values(12093,"Pobla de Benifassà, la",12
+insert into Spain.Municipios values(12094,"Pobla Tornesa, la",12
+insert into Spain.Municipios values(12095,"Ribesalbes",12
+insert into Spain.Municipios values(12096,"Rossell",12
+insert into Spain.Municipios values(12097,"Sacañet",12
+insert into Spain.Municipios values(12098,"Salzadella, la",12
+insert into Spain.Municipios values(12099,"Sant Jordi/San Jorge",12
+insert into Spain.Municipios values(12100,"Sant Mateu",12
+insert into Spain.Municipios values(12101,"San Rafael del Río",12
+insert into Spain.Municipios values(12102,"Santa Magdalena de Pulpis",12
+insert into Spain.Municipios values(12103,"Serratella, la",12
+insert into Spain.Municipios values(12104,"Segorbe",12
+insert into Spain.Municipios values(12105,"Sierra Engarcerán",12
+insert into Spain.Municipios values(12106,"Soneja",12
+insert into Spain.Municipios values(12107,"Sot de Ferrer",12
+insert into Spain.Municipios values(12108,"Sueras/Suera",12
+insert into Spain.Municipios values(12109,"Tales",12
+insert into Spain.Municipios values(12110,"Teresa",12
+insert into Spain.Municipios values(12111,"Tírig",12
+insert into Spain.Municipios values(12112,"Todolella",12
+insert into Spain.Municipios values(12113,"Toga",12
+insert into Spain.Municipios values(12114,"Torás",12
+insert into Spain.Municipios values(12115,"Toro, El",12
+insert into Spain.Municipios values(12116,"Torralba del Pinar",12
+insert into Spain.Municipios values(12117,"Torreblanca",12
+insert into Spain.Municipios values(12118,"Torrechiva",12
+insert into Spain.Municipios values(12119,"Torre d'En Besora, la",12
+insert into Spain.Municipios values(12120,"Torre d'en Doménec, la",12
+insert into Spain.Municipios values(12121,"Traiguera",12
+insert into Spain.Municipios values(12122,"Useras/Useres, les",12
+insert into Spain.Municipios values(12123,"Vallat",12
+insert into Spain.Municipios values(12124,"Vall d'Alba",12
+insert into Spain.Municipios values(12125,"Vall de Almonacid",12
+insert into Spain.Municipios values(12126,"Vall d'Uixó, la",12
+insert into Spain.Municipios values(12127,"Vallibona",12
+insert into Spain.Municipios values(12128,"Vilafamés",12
+insert into Spain.Municipios values(12129,"Villafranca del Cid/Vilafranca",12
+insert into Spain.Municipios values(12130,"Villahermosa del Río",12
+insert into Spain.Municipios values(12131,"Villamalur",12
+insert into Spain.Municipios values(12132,"Vilanova d'Alcolea",12
+insert into Spain.Municipios values(12133,"Villanueva de Viver",12
+insert into Spain.Municipios values(12134,"Vilar de Canes",12
+insert into Spain.Municipios values(12135,"Vila-real",12
+insert into Spain.Municipios values(12136,"Vilavella, la",12
+insert into Spain.Municipios values(12137,"Villores",12
+insert into Spain.Municipios values(12138,"Vinaròs",12
+insert into Spain.Municipios values(12139,"Vistabella del Maestrat",12
+insert into Spain.Municipios values(12140,"Viver",12
+insert into Spain.Municipios values(12141,"Zorita del Maestrazgo",12
+insert into Spain.Municipios values(12142,"Zucaina",12
+insert into Spain.Municipios values(12901,"Alqueries, les/Alquerías del Niño Perdido",12
+insert into Spain.Municipios values(12902,"Sant Joan de Moró",12
+insert into Spain.Municipios values(13001,"Abenójar",13
+insert into Spain.Municipios values(13002,"Agudo",13
+insert into Spain.Municipios values(13003,"Alamillo",13
+insert into Spain.Municipios values(13004,"Albaladejo",13
+insert into Spain.Municipios values(13005,"Alcázar de San Juan",13
+insert into Spain.Municipios values(13006,"Alcoba",13
+insert into Spain.Municipios values(13007,"Alcolea de Calatrava",13
+insert into Spain.Municipios values(13008,"Alcubillas",13
+insert into Spain.Municipios values(13009,"Aldea del Rey",13
+insert into Spain.Municipios values(13010,"Alhambra",13
+insert into Spain.Municipios values(13011,"Almadén",13
+insert into Spain.Municipios values(13012,"Almadenejos",13
+insert into Spain.Municipios values(13013,"Almagro",13
+insert into Spain.Municipios values(13014,"Almedina",13
+insert into Spain.Municipios values(13015,"Almodóvar del Campo",13
+insert into Spain.Municipios values(13016,"Almuradiel",13
+insert into Spain.Municipios values(13017,"Anchuras",13
+insert into Spain.Municipios values(13018,"Arenas de San Juan",13
+insert into Spain.Municipios values(13019,"Argamasilla de Alba",13
+insert into Spain.Municipios values(13020,"Argamasilla de Calatrava",13
+insert into Spain.Municipios values(13021,"Arroba de los Montes",13
+insert into Spain.Municipios values(13022,"Ballesteros de Calatrava",13
+insert into Spain.Municipios values(13023,"Bolaños de Calatrava",13
+insert into Spain.Municipios values(13024,"Brazatortas",13
+insert into Spain.Municipios values(13025,"Cabezarados",13
+insert into Spain.Municipios values(13026,"Cabezarrubias del Puerto",13
+insert into Spain.Municipios values(13027,"Calzada de Calatrava",13
+insert into Spain.Municipios values(13028,"Campo de Criptana",13
+insert into Spain.Municipios values(13029,"Cañada de Calatrava",13
+insert into Spain.Municipios values(13030,"Caracuel de Calatrava",13
+insert into Spain.Municipios values(13031,"Carrión de Calatrava",13
+insert into Spain.Municipios values(13032,"Carrizosa",13
+insert into Spain.Municipios values(13033,"Castellar de Santiago",13
+insert into Spain.Municipios values(13034,"Ciudad Real",13
+insert into Spain.Municipios values(13035,"Corral de Calatrava",13
+insert into Spain.Municipios values(13036,"Cortijos, Los",13
+insert into Spain.Municipios values(13037,"Cózar",13
+insert into Spain.Municipios values(13038,"Chillón",13
+insert into Spain.Municipios values(13039,"Daimiel",13
+insert into Spain.Municipios values(13040,"Fernán Caballero",13
+insert into Spain.Municipios values(13041,"Fontanarejo",13
+insert into Spain.Municipios values(13042,"Fuencaliente",13
+insert into Spain.Municipios values(13043,"Fuenllana",13
+insert into Spain.Municipios values(13044,"Fuente el Fresno",13
+insert into Spain.Municipios values(13045,"Granátula de Calatrava",13
+insert into Spain.Municipios values(13046,"Guadalmez",13
+insert into Spain.Municipios values(13047,"Herencia",13
+insert into Spain.Municipios values(13048,"Hinojosas de Calatrava",13
+insert into Spain.Municipios values(13049,"Horcajo de los Montes",13
+insert into Spain.Municipios values(13050,"Labores, Las",13
+insert into Spain.Municipios values(13051,"Luciana",13
+insert into Spain.Municipios values(13052,"Malagón",13
+insert into Spain.Municipios values(13053,"Manzanares",13
+insert into Spain.Municipios values(13054,"Membrilla",13
+insert into Spain.Municipios values(13055,"Mestanza",13
+insert into Spain.Municipios values(13056,"Miguelturra",13
+insert into Spain.Municipios values(13057,"Montiel",13
+insert into Spain.Municipios values(13058,"Moral de Calatrava",13
+insert into Spain.Municipios values(13059,"Navalpino",13
+insert into Spain.Municipios values(13060,"Navas de Estena",13
+insert into Spain.Municipios values(13061,"Pedro Muñoz",13
+insert into Spain.Municipios values(13062,"Picón",13
+insert into Spain.Municipios values(13063,"Piedrabuena",13
+insert into Spain.Municipios values(13064,"Poblete",13
+insert into Spain.Municipios values(13065,"Porzuna",13
+insert into Spain.Municipios values(13066,"Pozuelo de Calatrava",13
+insert into Spain.Municipios values(13067,"Pozuelos de Calatrava, Los",13
+insert into Spain.Municipios values(13068,"Puebla de Don Rodrigo",13
+insert into Spain.Municipios values(13069,"Puebla del Príncipe",13
+insert into Spain.Municipios values(13070,"Puerto Lápice",13
+insert into Spain.Municipios values(13071,"Puertollano",13
+insert into Spain.Municipios values(13072,"Retuerta del Bullaque",13
+insert into Spain.Municipios values(13073,"Saceruela",13
+insert into Spain.Municipios values(13074,"San Carlos del Valle",13
+insert into Spain.Municipios values(13075,"San Lorenzo de Calatrava",13
+insert into Spain.Municipios values(13076,"Santa Cruz de los Cáñamos",13
+insert into Spain.Municipios values(13077,"Santa Cruz de Mudela",13
+insert into Spain.Municipios values(13078,"Socuéllamos",13
+insert into Spain.Municipios values(13079,"Solana, La",13
+insert into Spain.Municipios values(13080,"Solana del Pino",13
+insert into Spain.Municipios values(13081,"Terrinches",13
+insert into Spain.Municipios values(13082,"Tomelloso",13
+insert into Spain.Municipios values(13083,"Torralba de Calatrava",13
+insert into Spain.Municipios values(13084,"Torre de Juan Abad",13
+insert into Spain.Municipios values(13085,"Torrenueva",13
+insert into Spain.Municipios values(13086,"Valdemanco del Esteras",13
+insert into Spain.Municipios values(13087,"Valdepeñas",13
+insert into Spain.Municipios values(13088,"Valenzuela de Calatrava",13
+insert into Spain.Municipios values(13089,"Villahermosa",13
+insert into Spain.Municipios values(13090,"Villamanrique",13
+insert into Spain.Municipios values(13091,"Villamayor de Calatrava",13
+insert into Spain.Municipios values(13092,"Villanueva de la Fuente",13
+insert into Spain.Municipios values(13093,"Villanueva de los Infantes",13
+insert into Spain.Municipios values(13094,"Villanueva de San Carlos",13
+insert into Spain.Municipios values(13095,"Villar del Pozo",13
+insert into Spain.Municipios values(13096,"Villarrubia de los Ojos",13
+insert into Spain.Municipios values(13097,"Villarta de San Juan",13
+insert into Spain.Municipios values(13098,"Viso del Marqués",13
+insert into Spain.Municipios values(13901,"Robledo, El",13
+insert into Spain.Municipios values(13902,"Ruidera",13
+insert into Spain.Municipios values(13903,"Arenales de San Gregorio",13
+insert into Spain.Municipios values(13904,"Llanos del Caudillo",13
+insert into Spain.Municipios values(14001,"Adamuz",14
+insert into Spain.Municipios values(14002,"Aguilar de la Frontera",14
+insert into Spain.Municipios values(14003,"Alcaracejos",14
+insert into Spain.Municipios values(14004,"Almedinilla",14
+insert into Spain.Municipios values(14005,"Almodóvar del Río",14
+insert into Spain.Municipios values(14006,"Añora",14
+insert into Spain.Municipios values(14007,"Baena",14
+insert into Spain.Municipios values(14008,"Belalcázar",14
+insert into Spain.Municipios values(14009,"Belmez",14
+insert into Spain.Municipios values(14010,"Benamejí",14
+insert into Spain.Municipios values(14011,"Blázquez, Los",14
+insert into Spain.Municipios values(14012,"Bujalance",14
+insert into Spain.Municipios values(14013,"Cabra",14
+insert into Spain.Municipios values(14014,"Cañete de las Torres",14
+insert into Spain.Municipios values(14015,"Carcabuey",14
+insert into Spain.Municipios values(14016,"Cardeña",14
+insert into Spain.Municipios values(14017,"Carlota, La",14
+insert into Spain.Municipios values(14018,"Carpio, El",14
+insert into Spain.Municipios values(14019,"Castro del Río",14
+insert into Spain.Municipios values(14020,"Conquista",14
+insert into Spain.Municipios values(14021,"Córdoba",14
+insert into Spain.Municipios values(14022,"Doña Mencía",14
+insert into Spain.Municipios values(14023,"Dos Torres",14
+insert into Spain.Municipios values(14024,"Encinas Reales",14
+insert into Spain.Municipios values(14025,"Espejo",14
+insert into Spain.Municipios values(14026,"Espiel",14
+insert into Spain.Municipios values(14027,"Fernán-Núñez",14
+insert into Spain.Municipios values(14028,"Fuente la Lancha",14
+insert into Spain.Municipios values(14029,"Fuente Obejuna",14
+insert into Spain.Municipios values(14030,"Fuente Palmera",14
+insert into Spain.Municipios values(14031,"Fuente-Tójar",14
+insert into Spain.Municipios values(14032,"Granjuela, La",14
+insert into Spain.Municipios values(14033,"Guadalcázar",14
+insert into Spain.Municipios values(14034,"Guijo, El",14
+insert into Spain.Municipios values(14035,"Hinojosa del Duque",14
+insert into Spain.Municipios values(14036,"Hornachuelos",14
+insert into Spain.Municipios values(14037,"Iznájar",14
+insert into Spain.Municipios values(14038,"Lucena",14
+insert into Spain.Municipios values(14039,"Luque",14
+insert into Spain.Municipios values(14040,"Montalbán de Córdoba",14
+insert into Spain.Municipios values(14041,"Montemayor",14
+insert into Spain.Municipios values(14042,"Montilla",14
+insert into Spain.Municipios values(14043,"Montoro",14
+insert into Spain.Municipios values(14044,"Monturque",14
+insert into Spain.Municipios values(14045,"Moriles",14
+insert into Spain.Municipios values(14046,"Nueva Carteya",14
+insert into Spain.Municipios values(14047,"Obejo",14
+insert into Spain.Municipios values(14048,"Palenciana",14
+insert into Spain.Municipios values(14049,"Palma del Río",14
+insert into Spain.Municipios values(14050,"Pedro Abad",14
+insert into Spain.Municipios values(14051,"Pedroche",14
+insert into Spain.Municipios values(14052,"Peñarroya-Pueblonuevo",14
+insert into Spain.Municipios values(14053,"Posadas",14
+insert into Spain.Municipios values(14054,"Pozoblanco",14
+insert into Spain.Municipios values(14055,"Priego de Córdoba",14
+insert into Spain.Municipios values(14056,"Puente Genil",14
+insert into Spain.Municipios values(14057,"Rambla, La",14
+insert into Spain.Municipios values(14058,"Rute",14
+insert into Spain.Municipios values(14059,"San Sebastián de los Ballesteros",14
+insert into Spain.Municipios values(14060,"Santaella",14
+insert into Spain.Municipios values(14061,"Santa Eufemia",14
+insert into Spain.Municipios values(14062,"Torrecampo",14
+insert into Spain.Municipios values(14063,"Valenzuela",14
+insert into Spain.Municipios values(14064,"Valsequillo",14
+insert into Spain.Municipios values(14065,"Victoria, La",14
+insert into Spain.Municipios values(14066,"Villa del Río",14
+insert into Spain.Municipios values(14067,"Villafranca de Córdoba",14
+insert into Spain.Municipios values(14068,"Villaharta",14
+insert into Spain.Municipios values(14069,"Villanueva de Córdoba",14
+insert into Spain.Municipios values(14070,"Villanueva del Duque",14
+insert into Spain.Municipios values(14071,"Villanueva del Rey",14
+insert into Spain.Municipios values(14072,"Villaralto",14
+insert into Spain.Municipios values(14073,"Villaviciosa de Córdoba",14
+insert into Spain.Municipios values(14074,"Viso, El",14
+insert into Spain.Municipios values(14075,"Zuheros",14
+insert into Spain.Municipios values(15001,"Abegondo",15
+insert into Spain.Municipios values(15002,"Ames",15
+insert into Spain.Municipios values(15003,"Aranga",15
+insert into Spain.Municipios values(15004,"Ares",15
+insert into Spain.Municipios values(15005,"Arteixo",15
+insert into Spain.Municipios values(15006,"Arzúa",15
+insert into Spain.Municipios values(15007,"Baña, A",15
+insert into Spain.Municipios values(15008,"Bergondo",15
+insert into Spain.Municipios values(15009,"Betanzos",15
+insert into Spain.Municipios values(15010,"Boimorto",15
+insert into Spain.Municipios values(15011,"Boiro",15
+insert into Spain.Municipios values(15012,"Boqueixón",15
+insert into Spain.Municipios values(15013,"Brión",15
+insert into Spain.Municipios values(15014,"Cabana de Bergantiños",15
+insert into Spain.Municipios values(15015,"Cabanas",15
+insert into Spain.Municipios values(15016,"Camariñas",15
+insert into Spain.Municipios values(15017,"Cambre",15
+insert into Spain.Municipios values(15018,"Capela, A",15
+insert into Spain.Municipios values(15019,"Carballo",15
+insert into Spain.Municipios values(15020,"Carnota",15
+insert into Spain.Municipios values(15021,"Carral",15
+insert into Spain.Municipios values(15022,"Cedeira",15
+insert into Spain.Municipios values(15023,"Cee",15
+insert into Spain.Municipios values(15024,"Cerceda",15
+insert into Spain.Municipios values(15025,"Cerdido",15
+insert into Spain.Municipios values(15026,"Cesuras",15
+insert into Spain.Municipios values(15027,"Coirós",15
+insert into Spain.Municipios values(15028,"Corcubión",15
+insert into Spain.Municipios values(15029,"Coristanco",15
+insert into Spain.Municipios values(15030,"Coruña, A",15
+insert into Spain.Municipios values(15031,"Culleredo",15
+insert into Spain.Municipios values(15032,"Curtis",15
+insert into Spain.Municipios values(15033,"Dodro",15
+insert into Spain.Municipios values(15034,"Dumbría",15
+insert into Spain.Municipios values(15035,"Fene",15
+insert into Spain.Municipios values(15036,"Ferrol",15
+insert into Spain.Municipios values(15037,"Fisterra",15
+insert into Spain.Municipios values(15038,"Frades",15
+insert into Spain.Municipios values(15039,"Irixoa",15
+insert into Spain.Municipios values(15040,"Laxe",15
+insert into Spain.Municipios values(15041,"Laracha, A",15
+insert into Spain.Municipios values(15042,"Lousame",15
+insert into Spain.Municipios values(15043,"Malpica de Bergantiños",15
+insert into Spain.Municipios values(15044,"Mañón",15
+insert into Spain.Municipios values(15045,"Mazaricos",15
+insert into Spain.Municipios values(15046,"Melide",15
+insert into Spain.Municipios values(15047,"Mesía",15
+insert into Spain.Municipios values(15048,"Miño",15
+insert into Spain.Municipios values(15049,"Moeche",15
+insert into Spain.Municipios values(15050,"Monfero",15
+insert into Spain.Municipios values(15051,"Mugardos",15
+insert into Spain.Municipios values(15052,"Muxía",15
+insert into Spain.Municipios values(15053,"Muros",15
+insert into Spain.Municipios values(15054,"Narón",15
+insert into Spain.Municipios values(15055,"Neda",15
+insert into Spain.Municipios values(15056,"Negreira",15
+insert into Spain.Municipios values(15057,"Noia",15
+insert into Spain.Municipios values(15058,"Oleiros",15
+insert into Spain.Municipios values(15059,"Ordes",15
+insert into Spain.Municipios values(15060,"Oroso",15
+insert into Spain.Municipios values(15061,"Ortigueira",15
+insert into Spain.Municipios values(15062,"Outes",15
+insert into Spain.Municipios values(15063,"Oza dos Ríos",15
+insert into Spain.Municipios values(15064,"Paderne",15
+insert into Spain.Municipios values(15065,"Padrón",15
+insert into Spain.Municipios values(15066,"Pino, O",15
+insert into Spain.Municipios values(15067,"Pobra do Caramiñal, A",15
+insert into Spain.Municipios values(15068,"Ponteceso",15
+insert into Spain.Municipios values(15069,"Pontedeume",15
+insert into Spain.Municipios values(15070,"Pontes de García Rodríguez, As",15
+insert into Spain.Municipios values(15071,"Porto do Son",15
+insert into Spain.Municipios values(15072,"Rianxo",15
+insert into Spain.Municipios values(15073,"Ribeira",15
+insert into Spain.Municipios values(15074,"Rois",15
+insert into Spain.Municipios values(15075,"Sada",15
+insert into Spain.Municipios values(15076,"San Sadurniño",15
+insert into Spain.Municipios values(15077,"Santa Comba",15
+insert into Spain.Municipios values(15078,"Santiago de Compostela",15
+insert into Spain.Municipios values(15079,"Santiso",15
+insert into Spain.Municipios values(15080,"Sobrado",15
+insert into Spain.Municipios values(15081,"Somozas, As",15
+insert into Spain.Municipios values(15082,"Teo",15
+insert into Spain.Municipios values(15083,"Toques",15
+insert into Spain.Municipios values(15084,"Tordoia",15
+insert into Spain.Municipios values(15085,"Touro",15
+insert into Spain.Municipios values(15086,"Trazo",15
+insert into Spain.Municipios values(15087,"Valdoviño",15
+insert into Spain.Municipios values(15088,"Val do Dubra",15
+insert into Spain.Municipios values(15089,"Vedra",15
+insert into Spain.Municipios values(15090,"Vilasantar",15
+insert into Spain.Municipios values(15091,"Vilarmaior",15
+insert into Spain.Municipios values(15092,"Vimianzo",15
+insert into Spain.Municipios values(15093,"Zas",15
+insert into Spain.Municipios values(15901,"Cariño",15
+insert into Spain.Municipios values(15902,"Oza-Cesuras",15
+insert into Spain.Municipios values(16001,"Abia de la Obispalía",16
+insert into Spain.Municipios values(16002,"Acebrón, El",16
+insert into Spain.Municipios values(16003,"Alarcón",16
+insert into Spain.Municipios values(16004,"Albaladejo del Cuende",16
+insert into Spain.Municipios values(16005,"Albalate de las Nogueras",16
+insert into Spain.Municipios values(16006,"Albendea",16
+insert into Spain.Municipios values(16007,"Alberca de Záncara, La",16
+insert into Spain.Municipios values(16008,"Alcalá de la Vega",16
+insert into Spain.Municipios values(16009,"Alcantud",16
+insert into Spain.Municipios values(16010,"Alcázar del Rey",16
+insert into Spain.Municipios values(16011,"Alcohujate",16
+insert into Spain.Municipios values(16012,"Alconchel de la Estrella",16
+insert into Spain.Municipios values(16013,"Algarra",16
+insert into Spain.Municipios values(16014,"Aliaguilla",16
+insert into Spain.Municipios values(16015,"Almarcha, La",16
+insert into Spain.Municipios values(16016,"Almendros",16
+insert into Spain.Municipios values(16017,"Almodóvar del Pinar",16
+insert into Spain.Municipios values(16018,"Almonacid del Marquesado",16
+insert into Spain.Municipios values(16019,"Altarejos",16
+insert into Spain.Municipios values(16020,"Arandilla del Arroyo",16
+insert into Spain.Municipios values(16022,"Arcos de la Sierra",16
+insert into Spain.Municipios values(16023,"Chillarón de Cuenca",16
+insert into Spain.Municipios values(16024,"Arguisuelas",16
+insert into Spain.Municipios values(16025,"Arrancacepas",16
+insert into Spain.Municipios values(16026,"Atalaya del Cañavate",16
+insert into Spain.Municipios values(16027,"Barajas de Melo",16
+insert into Spain.Municipios values(16029,"Barchín del Hoyo",16
+insert into Spain.Municipios values(16030,"Bascuñana de San Pedro",16
+insert into Spain.Municipios values(16031,"Beamud",16
+insert into Spain.Municipios values(16032,"Belinchón",16
+insert into Spain.Municipios values(16033,"Belmonte",16
+insert into Spain.Municipios values(16034,"Belmontejo",16
+insert into Spain.Municipios values(16035,"Beteta",16
+insert into Spain.Municipios values(16036,"Boniches",16
+insert into Spain.Municipios values(16038,"Buciegas",16
+insert into Spain.Municipios values(16039,"Buenache de Alarcón",16
+insert into Spain.Municipios values(16040,"Buenache de la Sierra",16
+insert into Spain.Municipios values(16041,"Buendía",16
+insert into Spain.Municipios values(16042,"Campillo de Altobuey",16
+insert into Spain.Municipios values(16043,"Campillos-Paravientos",16
+insert into Spain.Municipios values(16044,"Campillos-Sierra",16
+insert into Spain.Municipios values(16045,"Canalejas del Arroyo",16
+insert into Spain.Municipios values(16046,"Cañada del Hoyo",16
+insert into Spain.Municipios values(16047,"Cañada Juncosa",16
+insert into Spain.Municipios values(16048,"Cañamares",16
+insert into Spain.Municipios values(16049,"Cañavate, El",16
+insert into Spain.Municipios values(16050,"Cañaveras",16
+insert into Spain.Municipios values(16051,"Cañaveruelas",16
+insert into Spain.Municipios values(16052,"Cañete",16
+insert into Spain.Municipios values(16053,"Cañizares",16
+insert into Spain.Municipios values(16055,"Carboneras de Guadazaón",16
+insert into Spain.Municipios values(16056,"Cardenete",16
+insert into Spain.Municipios values(16057,"Carrascosa",16
+insert into Spain.Municipios values(16058,"Carrascosa de Haro",16
+insert into Spain.Municipios values(16060,"Casas de Benítez",16
+insert into Spain.Municipios values(16061,"Casas de Fernando Alonso",16
+insert into Spain.Municipios values(16062,"Casas de Garcimolina",16
+insert into Spain.Municipios values(16063,"Casas de Guijarro",16
+insert into Spain.Municipios values(16064,"Casas de Haro",16
+insert into Spain.Municipios values(16065,"Casas de los Pinos",16
+insert into Spain.Municipios values(16066,"Casasimarro",16
+insert into Spain.Municipios values(16067,"Castejón",16
+insert into Spain.Municipios values(16068,"Castillejo de Iniesta",16
+insert into Spain.Municipios values(16070,"Castillejo-Sierra",16
+insert into Spain.Municipios values(16071,"Castillo-Albaráñez",16
+insert into Spain.Municipios values(16072,"Castillo de Garcimuñoz",16
+insert into Spain.Municipios values(16073,"Cervera del Llano",16
+insert into Spain.Municipios values(16074,"Cierva, La",16
+insert into Spain.Municipios values(16078,"Cuenca",16
+insert into Spain.Municipios values(16079,"Cueva del Hierro",16
+insert into Spain.Municipios values(16081,"Chumillas",16
+insert into Spain.Municipios values(16082,"Enguídanos",16
+insert into Spain.Municipios values(16083,"Fresneda de Altarejos",16
+insert into Spain.Municipios values(16084,"Fresneda de la Sierra",16
+insert into Spain.Municipios values(16085,"Frontera, La",16
+insert into Spain.Municipios values(16086,"Fuente de Pedro Naharro",16
+insert into Spain.Municipios values(16087,"Fuentelespino de Haro",16
+insert into Spain.Municipios values(16088,"Fuentelespino de Moya",16
+insert into Spain.Municipios values(16089,"Fuentes",16
+insert into Spain.Municipios values(16091,"Fuertescusa",16
+insert into Spain.Municipios values(16092,"Gabaldón",16
+insert into Spain.Municipios values(16093,"Garaballa",16
+insert into Spain.Municipios values(16094,"Gascueña",16
+insert into Spain.Municipios values(16095,"Graja de Campalbo",16
+insert into Spain.Municipios values(16096,"Graja de Iniesta",16
+insert into Spain.Municipios values(16097,"Henarejos",16
+insert into Spain.Municipios values(16098,"Herrumblar, El",16
+insert into Spain.Municipios values(16099,"Hinojosa, La",16
+insert into Spain.Municipios values(16100,"Hinojosos, Los",16
+insert into Spain.Municipios values(16101,"Hito, El",16
+insert into Spain.Municipios values(16102,"Honrubia",16
+insert into Spain.Municipios values(16103,"Hontanaya",16
+insert into Spain.Municipios values(16104,"Hontecillas",16
+insert into Spain.Municipios values(16106,"Horcajo de Santiago",16
+insert into Spain.Municipios values(16107,"Huélamo",16
+insert into Spain.Municipios values(16108,"Huelves",16
+insert into Spain.Municipios values(16109,"Huérguina",16
+insert into Spain.Municipios values(16110,"Huerta de la Obispalía",16
+insert into Spain.Municipios values(16111,"Huerta del Marquesado",16
+insert into Spain.Municipios values(16112,"Huete",16
+insert into Spain.Municipios values(16113,"Iniesta",16
+insert into Spain.Municipios values(16115,"Laguna del Marquesado",16
+insert into Spain.Municipios values(16116,"Lagunaseca",16
+insert into Spain.Municipios values(16117,"Landete",16
+insert into Spain.Municipios values(16118,"Ledaña",16
+insert into Spain.Municipios values(16119,"Leganiel",16
+insert into Spain.Municipios values(16121,"Majadas, Las",16
+insert into Spain.Municipios values(16122,"Mariana",16
+insert into Spain.Municipios values(16123,"Masegosa",16
+insert into Spain.Municipios values(16124,"Mesas, Las",16
+insert into Spain.Municipios values(16125,"Minglanilla",16
+insert into Spain.Municipios values(16126,"Mira",16
+insert into Spain.Municipios values(16128,"Monreal del Llano",16
+insert into Spain.Municipios values(16129,"Montalbanejo",16
+insert into Spain.Municipios values(16130,"Montalbo",16
+insert into Spain.Municipios values(16131,"Monteagudo de las Salinas",16
+insert into Spain.Municipios values(16132,"Mota de Altarejos",16
+insert into Spain.Municipios values(16133,"Mota del Cuervo",16
+insert into Spain.Municipios values(16134,"Motilla del Palancar",16
+insert into Spain.Municipios values(16135,"Moya",16
+insert into Spain.Municipios values(16137,"Narboneta",16
+insert into Spain.Municipios values(16139,"Olivares de Júcar",16
+insert into Spain.Municipios values(16140,"Olmeda de la Cuesta",16
+insert into Spain.Municipios values(16141,"Olmeda del Rey",16
+insert into Spain.Municipios values(16142,"Olmedilla de Alarcón",16
+insert into Spain.Municipios values(16143,"Olmedilla de Eliz",16
+insert into Spain.Municipios values(16145,"Osa de la Vega",16
+insert into Spain.Municipios values(16146,"Pajarón",16
+insert into Spain.Municipios values(16147,"Pajaroncillo",16
+insert into Spain.Municipios values(16148,"Palomares del Campo",16
+insert into Spain.Municipios values(16149,"Palomera",16
+insert into Spain.Municipios values(16150,"Paracuellos",16
+insert into Spain.Municipios values(16151,"Paredes",16
+insert into Spain.Municipios values(16152,"Parra de las Vegas, La",16
+insert into Spain.Municipios values(16153,"Pedernoso, El",16
+insert into Spain.Municipios values(16154,"Pedroñeras, Las",16
+insert into Spain.Municipios values(16155,"Peral, El",16
+insert into Spain.Municipios values(16156,"Peraleja, La",16
+insert into Spain.Municipios values(16157,"Pesquera, La",16
+insert into Spain.Municipios values(16158,"Picazo, El",16
+insert into Spain.Municipios values(16159,"Pinarejo",16
+insert into Spain.Municipios values(16160,"Pineda de Gigüela",16
+insert into Spain.Municipios values(16161,"Piqueras del Castillo",16
+insert into Spain.Municipios values(16162,"Portalrubio de Guadamejud",16
+insert into Spain.Municipios values(16163,"Portilla",16
+insert into Spain.Municipios values(16165,"Poyatos",16
+insert into Spain.Municipios values(16166,"Pozoamargo",16
+insert into Spain.Municipios values(16167,"Pozorrubio de Santiago",16
+insert into Spain.Municipios values(16169,"Pozuelo, El",16
+insert into Spain.Municipios values(16170,"Priego",16
+insert into Spain.Municipios values(16171,"Provencio, El",16
+insert into Spain.Municipios values(16172,"Puebla de Almenara",16
+insert into Spain.Municipios values(16173,"Valle de Altomira, El",16
+insert into Spain.Municipios values(16174,"Puebla del Salvador",16
+insert into Spain.Municipios values(16175,"Quintanar del Rey",16
+insert into Spain.Municipios values(16176,"Rada de Haro",16
+insert into Spain.Municipios values(16177,"Reíllo",16
+insert into Spain.Municipios values(16181,"Rozalén del Monte",16
+insert into Spain.Municipios values(16185,"Saceda-Trasierra",16
+insert into Spain.Municipios values(16186,"Saelices",16
+insert into Spain.Municipios values(16187,"Salinas del Manzano",16
+insert into Spain.Municipios values(16188,"Salmeroncillos",16
+insert into Spain.Municipios values(16189,"Salvacañete",16
+insert into Spain.Municipios values(16190,"San Clemente",16
+insert into Spain.Municipios values(16191,"San Lorenzo de la Parrilla",16
+insert into Spain.Municipios values(16192,"San Martín de Boniches",16
+insert into Spain.Municipios values(16193,"San Pedro Palmiches",16
+insert into Spain.Municipios values(16194,"Santa Cruz de Moya",16
+insert into Spain.Municipios values(16195,"Santa María del Campo Rus",16
+insert into Spain.Municipios values(16196,"Santa María de los Llanos",16
+insert into Spain.Municipios values(16197,"Santa María del Val",16
+insert into Spain.Municipios values(16198,"Sisante",16
+insert into Spain.Municipios values(16199,"Solera de Gabaldón",16
+insert into Spain.Municipios values(16202,"Talayuelas",16
+insert into Spain.Municipios values(16203,"Tarancón",16
+insert into Spain.Municipios values(16204,"Tébar",16
+insert into Spain.Municipios values(16205,"Tejadillos",16
+insert into Spain.Municipios values(16206,"Tinajas",16
+insert into Spain.Municipios values(16209,"Torralba",16
+insert into Spain.Municipios values(16211,"Torrejoncillo del Rey",16
+insert into Spain.Municipios values(16212,"Torrubia del Campo",16
+insert into Spain.Municipios values(16213,"Torrubia del Castillo",16
 16215,"Tragacete",16
 16216,"Tresjuncos",16
 16217,"Tribaldos",16
